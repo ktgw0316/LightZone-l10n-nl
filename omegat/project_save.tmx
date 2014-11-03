@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en-US</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20141103T041544Z" creationid="ktgw0316" creationdate="20141103T041544Z">
+        <seg>nl-NL</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
