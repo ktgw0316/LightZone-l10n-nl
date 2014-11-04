@@ -94,6 +94,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Photo viewer</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T193422Z" creationid="hcremers" creationdate="20141104T193422Z">
+        <seg>Foto viewer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo_Viewer.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T193430Z" creationid="hcremers" creationdate="20141104T193430Z">
+        <seg>Foto_Viewer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumbnails.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192720Z" creationid="hcremers" creationdate="20141104T192720Z">
