@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black point compensation</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195408Z" creationid="hcremers" creationdate="20141104T195408Z">
+        <seg>Zwartpunt compensatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browser anatomy</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190752Z" creationid="hcremers" creationdate="20141104T190752Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191719Z" creationid="hcremers" creationdate="20141104T191719Z">
         <seg>Knoppen-Foto.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of black point compensation.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195110Z" creationid="hcremers" creationdate="20141104T195110Z">
+        <seg>Beschrijving van zwartpunt compensatie.</seg>
       </tuv>
     </tu>
     <tu>
