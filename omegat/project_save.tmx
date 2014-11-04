@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When either &lt;a0&gt;converting&lt;/a0&gt; or &lt;a1&gt;printing&lt;/a1&gt; your photos using application managed colors, you can enable &lt;e2&gt;black point compensation&lt;/e2&gt; when the &lt;a3&gt;rendering intent&lt;/a3&gt; is Relative Colorimetric.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T204940Z" creationid="hcremers" creationdate="20141104T204940Z">
+        <seg>Om &lt;e2&gt;zwartpunt compensatie&lt;/e2&gt; te gebruiken bij het &lt;a0&gt;verwerken&lt;/a0&gt; of &lt;a1&gt;printen&lt;/a1&gt; van uw foto's als u gebruik maakt van applicatie beheerde kleuren, kiest u &lt;a3&gt;opbouw principe&lt;/a3&gt; Relatief Colorimetrisch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ZoneFinder.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194810Z" creationid="hcremers" creationdate="20141104T194810Z">
