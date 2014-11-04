@@ -6,10 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Acknowledgments</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185519Z" creationid="hcremers" creationdate="20141104T185519Z">
+        <seg>Dankbetuiging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acknowledgments.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185441Z" creationid="hcremers" creationdate="20141104T185441Z">
+        <seg>Dankbetuiging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Acknowledgments</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185419Z" creationid="hcremers" creationdate="20141104T185419Z">
+        <seg>LightZone: Dankbetuiging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="ktgw0316" changedate="20141103T041544Z" creationid="ktgw0316" creationdate="20141103T041544Z">
         <seg>nl-NL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/app_icon-32.png</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185507Z" creationid="hcremers" creationdate="20141104T185507Z">
+        <seg>afbeeldingen/app_icon-32.png</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
