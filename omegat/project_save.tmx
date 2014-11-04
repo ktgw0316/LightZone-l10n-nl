@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browser anatomy</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190752Z" creationid="hcremers" creationdate="20141104T190752Z">
+        <seg>Browser anatomie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of the parts of the browser window.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190738Z" creationid="hcremers" creationdate="20141104T190738Z">
+        <seg>Beschrijving van de onderdelen van het browser venster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Crafts would like to acknowledge the following people who contributed to LightZone:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185828Z" creationid="hcremers" creationdate="20141104T185828Z">
