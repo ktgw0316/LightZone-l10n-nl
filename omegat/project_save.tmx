@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buttons-Photo.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191719Z" creationid="hcremers" creationdate="20141104T191719Z">
+        <seg>Knoppen-Foto.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the parts of the browser window.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190738Z" creationid="hcremers" creationdate="20141104T190738Z">
@@ -62,10 +70,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the mouse to an area of interest and click to learn more about it.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191551Z" creationid="hcremers" creationdate="20141104T191551Z">
+        <seg>Beweeg de muis naar een gebied en klik om er meer over te leren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigating_Folders.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191648Z" creationid="hcremers" creationdate="20141104T191648Z">
+        <seg>Folder_Navigatie.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="ktgw0316" changedate="20141103T041544Z" creationid="ktgw0316" creationdate="20141103T041544Z">
         <seg>nl-NL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Anatomy-Browser-en.jpg</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191632Z" creationid="hcremers" creationdate="20141104T191632Z">
+        <seg>afbeeldingen/Anatomie-Browser-en.jpg</seg>
       </tuv>
     </tu>
     <tu>
