@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Black Point Compensation</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195031Z" creationid="hcremers" creationdate="20141104T195031Z">
+        <seg>LightZone: Zwartpunt Compensatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Browser Anatomy</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190417Z" creationid="hcremers" creationdate="20141104T190417Z">
@@ -150,10 +158,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool_Stack.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195003Z" creationid="hcremers" creationdate="20141104T195003Z">
+        <seg>Gereedschap_Groep.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tools-Controls.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194510Z" creationid="hcremers" creationdate="20141104T194510Z">
         <seg>Gereedschap bediening.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools-Editing.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194827Z" creationid="hcremers" creationdate="20141104T194827Z">
+        <seg>Gereedschap-Wijziging.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZoneFinder.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194810Z" creationid="hcremers" creationdate="20141104T194810Z">
+        <seg>ZoneVinder.html</seg>
       </tuv>
     </tu>
     <tu>
