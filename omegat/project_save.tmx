@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editor anatomy</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194406Z" creationid="hcremers" creationdate="20141104T194406Z">
+        <seg>Editor anatomie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Crafts would like to acknowledge the following people who contributed to LightZone:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185828Z" creationid="hcremers" creationdate="20141104T185828Z">
@@ -126,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194434Z" creationid="hcremers" creationdate="20141104T194434Z">
+        <seg>Stijlen.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumbnails.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192720Z" creationid="hcremers" creationdate="20141104T192720Z">
         <seg>Miniaturen.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools-Controls.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194510Z" creationid="hcremers" creationdate="20141104T194510Z">
+        <seg>Gereedschap bediening.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +170,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191632Z" creationid="hcremers" creationdate="20141104T191632Z">
         <seg>afbeeldingen/Anatomie-Browser-en.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Anatomy-Editor-en.jpg</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194426Z" creationid="hcremers" creationdate="20141104T194426Z">
+        <seg>afbeeldingen/Anatomie-Editor-en.jpg</seg>
       </tuv>
     </tu>
     <tu>
