@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the parts of the editor window.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194141Z" creationid="hcremers" creationdate="20141104T194141Z">
+        <seg>Beschrijving van de onderdelen van het editor venster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Crafts would like to acknowledge the following people who contributed to LightZone:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185828Z" creationid="hcremers" creationdate="20141104T185828Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190417Z" creationid="hcremers" creationdate="20141104T190417Z">
         <seg>LightZone: Browser Anatomie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Editor Anatomy</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194108Z" creationid="hcremers" creationdate="20141104T194108Z">
+        <seg>LightZone: Editor Anatomie</seg>
       </tuv>
     </tu>
     <tu>
