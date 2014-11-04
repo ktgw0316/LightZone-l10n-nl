@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converting.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202923Z" creationid="hcremers" creationdate="20141104T202923Z">
+        <seg>Verwerken.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of black point compensation.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195110Z" creationid="hcremers" creationdate="20141104T195110Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T193430Z" creationid="hcremers" creationdate="20141104T193430Z">
         <seg>Foto_Viewer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202929Z" creationid="hcremers" creationdate="20141104T202929Z">
+        <seg>Printen.html</seg>
       </tuv>
     </tu>
     <tu>
