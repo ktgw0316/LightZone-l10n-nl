@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the other hand, if black point compensation is done, the luminosity range of your photo is compressed to fit into the luminosity range of the device.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202122Z" creationid="hcremers" creationdate="20141105T202122Z">
+        <seg>Aan de andere kant wordt het helderheid van uw foto samengedrukt om binnen het helderheidsbereik van het uitvoeraparaat te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output devices (such as printers and computer displays) often have limitations in how black the darkest black they can render is.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210639Z" creationid="hcremers" creationdate="20141104T210639Z">
