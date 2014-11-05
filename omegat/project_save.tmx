@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black point compensation attempts to resolve the difference between the darkest black in your photo and the darkest black that a particular device can render.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T195840Z" creationid="hcremers" creationdate="20141105T195840Z">
+        <seg>Zwartpunt compensatie probeert het verschil op te lossen tussen het donkerste zwart in uw foto en het donkerste zwart dat een uitvoerapparaat kan weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browser anatomy</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190752Z" creationid="hcremers" creationdate="20141104T190752Z">
