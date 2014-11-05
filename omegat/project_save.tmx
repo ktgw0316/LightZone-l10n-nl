@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Black_Point_Compensation-en.png</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T200344Z" creationid="hcremers" creationdate="20141105T200344Z">
+        <seg>afbeeldingen/Zwart_punt_Compensatie-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/app_icon-32.png</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185507Z" creationid="hcremers" creationdate="20141104T185507Z">
