@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T204018Z" creationid="hcremers" creationdate="20141105T204018Z">
+        <seg>Vanwege het samendrukken van het helderheidsbereik gaat wel informatie van uw foto verloren, dit verlies wordt echter verspreid over het totale helderheidsbereik (en daarmee minder zichtbaar) en niet afgekapt bij de zwarte kant van het bereik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no black point compensation is done, then detail will be lost in the darkest shadow areas of your photo because the dark areas beyond the darkest black the device can render are truncated.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T201402Z" creationid="hcremers" creationdate="20141105T201402Z">
