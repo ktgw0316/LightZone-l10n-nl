@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no black point compensation is done, then detail will be lost in the darkest shadow areas of your photo because the dark areas beyond the darkest black the device can render are truncated.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T201402Z" creationid="hcremers" creationdate="20141105T201402Z">
+        <seg>Als zwartpunt compensatie niet wordt uitgevoerd, zal detail in de donkerste schaduw gebieden van uw foto verloren gaan omdat de gebieden donkerder dan wat het uitvoerapparaat kan weergeven worden afgekapt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Crafts would like to acknowledge the following people who contributed to LightZone:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185828Z" creationid="hcremers" creationdate="20141104T185828Z">
