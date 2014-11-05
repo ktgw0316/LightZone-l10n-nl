@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the darkest black of your photo becomes the darkest black that the device can render.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202329Z" creationid="hcremers" creationdate="20141105T202329Z">
+        <seg>Op die manier wordt het donkerste zwart van uw foto het donkerste zwart dat het uitvoerapparaat kan weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no black point compensation is done, then detail will be lost in the darkest shadow areas of your photo because the dark areas beyond the darkest black the device can render are truncated.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T201402Z" creationid="hcremers" creationdate="20141105T201402Z">
