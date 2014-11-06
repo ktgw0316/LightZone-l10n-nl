@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Opposite of Lighten.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102249Z" creationid="hcremers" creationdate="20141106T102249Z">
+        <seg>(Tegenovergestelde van Lichter.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A blending mode controls how the effects of tools in the &lt;a1&gt;tool stack&lt;/a1&gt; blend together to form the final photo.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095217Z" creationid="hcremers" creationdate="20141106T095217Z">
@@ -142,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Darken</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102156Z" creationid="hcremers" creationdate="20141106T102156Z">
+        <seg>Donkerder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Darkens the base color to reflect the blend color by increasing contrast.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101638Z" creationid="hcremers" creationdate="20141106T101638Z">
@@ -178,6 +194,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T205039Z" creationid="hcremers" creationdate="20141105T205039Z">
         <seg>Beschrijving van de verschillende vermengings modi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Difference</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102302Z" creationid="hcremers" creationdate="20141106T102302Z">
+        <seg>Verschil</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +426,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210225Z" creationid="hcremers" creationdate="20141104T210225Z">
         <seg>De RGB kleurruimte kan alle helderheden van 100% wit tot 100% zwart afbeelden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result color is either the base or blend color, whichever is darker.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102238Z" creationid="hcremers" creationdate="20141106T102238Z">
+        <seg>Het resultaat is de donkerste van de basis kleur en vermengings kleur.</seg>
       </tuv>
     </tu>
     <tu>
