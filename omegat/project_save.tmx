@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101239Z" creationid="hcremers" creationdate="20141106T101239Z">
+        <seg>Gemiddeld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base color</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095426Z" creationid="hcremers" creationdate="20141106T095426Z">
@@ -254,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101146Z" creationid="hcremers" creationdate="20141106T101146Z">
+        <seg>Normaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the other hand, if black point compensation is done, the luminosity range of your photo is compressed to fit into the luminosity range of the device.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202122Z" creationid="hcremers" creationdate="20141105T202122Z">
@@ -342,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This blending mode has no effect; therefore, the blend and result colors are the same.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101230Z" creationid="hcremers" creationdate="20141106T101230Z">
+        <seg>Deze vermengings modus heeft geen effect, daardoor zijn de vermengings en resultaat kleuren hetzelfde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is illustrated in the figure below.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095851Z" creationid="hcremers" creationdate="20141106T095851Z">
@@ -410,6 +434,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T204940Z" creationid="hcremers" creationdate="20141104T204940Z">
         <seg>Om &lt;e2&gt;zwartpunt compensatie&lt;/e2&gt; te gebruiken bij het &lt;a0&gt;verwerken&lt;/a0&gt; of &lt;a1&gt;printen&lt;/a1&gt; van uw foto's als u gebruik maakt van applicatie beheerde kleuren, kiest u &lt;a3&gt;opbouw principe&lt;/a3&gt; Relatief Colorimetrisch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While descriptions for each are below, it's best to experiment.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101142Z" creationid="hcremers" creationdate="20141106T101142Z">
+        <seg>Hoewel een beschrijving van elke modus hieronder volgt, is het aan te raden te experimenteren.</seg>
       </tuv>
     </tu>
     <tu>
