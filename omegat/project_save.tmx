@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(Opposite of Color Burn.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102135Z" creationid="hcremers" creationdate="20141106T102135Z">
+        <seg>(Tegenovergestelde van Kleur doordrukken.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Color Dodge.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101704Z" creationid="hcremers" creationdate="20141106T101704Z">
@@ -86,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brightens the base color to reflect the blend color by decreasing contrast.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102115Z" creationid="hcremers" creationdate="20141106T102115Z">
+        <seg>Maakt de basis kleur lichter om de vermengings kleur weer te geven door het contrast te verminderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browser anatomy</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190752Z" creationid="hcremers" creationdate="20141104T190752Z">
@@ -106,6 +122,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101547Z" creationid="hcremers" creationdate="20141106T101547Z">
         <seg>Kleur doordrukken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Dodge</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102033Z" creationid="hcremers" creationdate="20141106T102033Z">
+        <seg>Kleur tegenhouden</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +378,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100456Z" creationid="hcremers" creationdate="20141106T100331Z">
         <seg>Ten tweede, getoond met de rode pijlen, de basis en vermengde kleuren worden samen vermengd, gebruik makend van een vermengings modus om de resultaat kleuren te produceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also: Soft Burn.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102016Z" creationid="hcremers" creationdate="20141106T102016Z">
+        <seg>Zie ook: Zacht doordrukken.)</seg>
       </tuv>
     </tu>
     <tu>
