@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is illustrated in the figure below.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095851Z" creationid="hcremers" creationdate="20141106T095851Z">
+        <seg>Dit wordt geillustreerd in het plaatje hieronder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the color of a pixel after a tool's effect has been applied to the photo.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095624Z" creationid="hcremers" creationdate="20141106T095624Z">
