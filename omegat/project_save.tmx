@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the same as the Normal blending mode but at 50% opacity.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101414Z" creationid="hcremers" creationdate="20141106T101414Z">
+        <seg>Deze modus is dezelfde als Normaal, maar dan op 50% doozichtigheid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumbnails.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192720Z" creationid="hcremers" creationdate="20141104T192720Z">
