@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(Opposite of Color Dodge.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101704Z" creationid="hcremers" creationdate="20141106T101704Z">
+        <seg>(Tegenovergestelde van Kleur tegehouden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A blending mode controls how the effects of tools in the &lt;a1&gt;tool stack&lt;/a1&gt; blend together to form the final photo.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095217Z" creationid="hcremers" creationdate="20141106T095217Z">
@@ -94,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Burn</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101547Z" creationid="hcremers" creationdate="20141106T101547Z">
+        <seg>Kleur doordrukken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Converting.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202923Z" creationid="hcremers" creationdate="20141104T202923Z">
         <seg>Verwerken.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Darkens the base color to reflect the blend color by increasing contrast.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101638Z" creationid="hcremers" creationdate="20141106T101638Z">
+        <seg>Maakt de basis kleur donkerder om de vermengings kleur weer te geven door het contrast op te voeren.</seg>
       </tuv>
     </tu>
     <tu>
