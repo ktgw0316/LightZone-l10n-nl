@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are many blending modes to choose from.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100654Z" creationid="hcremers" creationdate="20141106T100654Z">
+        <seg>Er zijn veel beschikbare vermengings modi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is illustrated in the figure below.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095851Z" creationid="hcremers" creationdate="20141106T095851Z">
@@ -442,6 +450,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T200344Z" creationid="hcremers" creationdate="20141105T200344Z">
         <seg>afbeeldingen/Zwart_punt_Compensatie-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Blend_Modes_Illustration-en.png</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100544Z" creationid="hcremers" creationdate="20141106T100544Z">
+        <seg>afbeeldingen/Vermengings_Modi_Illustratie-en.png</seg>
       </tuv>
     </tu>
     <tu>
