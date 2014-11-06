@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See also: Exclusion.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102553Z" creationid="hcremers" creationdate="20141106T102553Z">
+        <seg>(Zie ook: Uitsluiting.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A blending mode controls how the effects of tools in the &lt;a1&gt;tool stack&lt;/a1&gt; blend together to form the final photo.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095217Z" creationid="hcremers" creationdate="20141106T095217Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194406Z" creationid="hcremers" creationdate="20141104T194406Z">
         <seg>Editor anatomie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclusion</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102559Z" creationid="hcremers" creationdate="20141106T102559Z">
+        <seg>Uitsluiting</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +434,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194434Z" creationid="hcremers" creationdate="20141104T194434Z">
         <seg>Stijlen.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subtracts either the blend color from the base color or the base color from the blend color depending on whichever is brighter.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102533Z" creationid="hcremers" creationdate="20141106T102533Z">
+        <seg>Vermindert de vermengings of basis kleur met de lichtste van deze twee.</seg>
       </tuv>
     </tu>
     <tu>
