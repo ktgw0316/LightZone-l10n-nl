@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base color</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095426Z" creationid="hcremers" creationdate="20141106T095426Z">
+        <seg>Basis kleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black point compensation</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195408Z" creationid="hcremers" creationdate="20141104T195408Z">
@@ -42,6 +50,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T195840Z" creationid="hcremers" creationdate="20141105T195840Z">
         <seg>Zwartpunt compensatie probeert het verschil op te lossen tussen het donkerste zwart in uw foto en het donkerste zwart dat een uitvoerapparaat kan weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blend color</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095517Z" creationid="hcremers" creationdate="20141106T095517Z">
+        <seg>Vermengingskleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +154,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T201402Z" creationid="hcremers" creationdate="20141105T201402Z">
         <seg>Als zwartpunt compensatie niet wordt uitgevoerd, zal detail in de donkerste schaduw gebieden van uw foto verloren gaan omdat de gebieden donkerder dan wat het uitvoerapparaat kan weergeven worden afgekapt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to understand blending modes, there are a few terms to know:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095413Z" creationid="hcremers" creationdate="20141106T095413Z">
+        <seg>Om vermeningsmodi te begrijpen, zijn er een aantal termen die bekend worden verondersteld:</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +306,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210225Z" creationid="hcremers" creationdate="20141104T210225Z">
         <seg>De RGB kleurruimte kan alle helderheden van 100% wit tot 100% zwart afbeelden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the color of a pixel before a tool's effect has been applied to the photo.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095507Z" creationid="hcremers" creationdate="20141106T095507Z">
+        <seg>Dit is de kleur van een pixel voordat enig effect van een gereedschap is toegepast op de foto.</seg>
       </tuv>
     </tu>
     <tu>
