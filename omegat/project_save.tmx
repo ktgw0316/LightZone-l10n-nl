@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most tools can have a &lt;e0&gt;blending mode&lt;/e0&gt; specified for them.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095039Z" creationid="hcremers" creationdate="20141106T095039Z">
+        <seg>Het is mogelijk om voor de meeste gereedschappen een &lt;e0&gt;vermengingsmodus&lt;/e0&gt; te specificeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse to an area of interest and click to learn more about it.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191551Z" creationid="hcremers" creationdate="20141104T191551Z">
