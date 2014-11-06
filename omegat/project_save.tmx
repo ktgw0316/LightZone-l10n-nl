@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>Blend color</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095517Z" creationid="hcremers" creationdate="20141106T095517Z">
-        <seg>Vermengingskleur</seg>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095648Z" creationid="hcremers" creationdate="20141106T095517Z">
+        <seg>Vermengings kleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Result color</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095640Z" creationid="hcremers" creationdate="20141106T095640Z">
+        <seg>Resultaat kleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194434Z" creationid="hcremers" creationdate="20141104T194434Z">
@@ -306,6 +314,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210225Z" creationid="hcremers" creationdate="20141104T210225Z">
         <seg>De RGB kleurruimte kan alle helderheden van 100% wit tot 100% zwart afbeelden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the color of a pixel after a tool's effect has been applied to the photo.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095624Z" creationid="hcremers" creationdate="20141106T095624Z">
+        <seg>Dit is de kleur van een pixel nadat een effect van een gereedschap is toegepast op de foto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the color of a pixel after its base and blend colors have been blended together using a blending mode.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095819Z" creationid="hcremers" creationdate="20141106T095819Z">
+        <seg>Dit is de kleur van een pixel nadat het effect van een gereedschap is vermengd met de basis kleur door toepassing van een vermengingsmodus.</seg>
       </tuv>
     </tu>
     <tu>
