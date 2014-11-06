@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blending modes</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T084815Z" creationid="hcremers" creationdate="20141106T084815Z">
+        <seg>Vermengings modi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browser anatomy</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190752Z" creationid="hcremers" creationdate="20141104T190752Z">
