@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creates an effect similar to, but lower in contrast than, the Difference blending mode.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T195234Z" creationid="hcremers" creationdate="20141107T195234Z">
+        <seg>Creeert een effect zoals de Verschil modus, maar met minder contrast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Darken</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102156Z" creationid="hcremers" creationdate="20141106T102156Z">
