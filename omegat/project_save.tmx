@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the blend color is lighter than 50% gray, the color is lightened (screened); if the blend color is darker than 50% gray, the color is darkened (multiplied).</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202323Z" creationid="hcremers" creationdate="20141107T202323Z">
+        <seg>Als de vermengings kleur lichter is dan 50% grijs wordt de kleur lichter (verbleekt); als de vermengings kleur donkerder is dan 50% grijs wordt de kleur donkerder (vermenigvuldigd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to understand blending modes, there are a few terms to know:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095413Z" creationid="hcremers" creationdate="20141106T095413Z">
