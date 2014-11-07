@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This blending mode multiplies or screens the colors, depending on the blend color.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T201922Z" creationid="hcremers" creationdate="20141107T201922Z">
+        <seg>Deze vermengings modus vermenigvuldigt of verbleekt de kleuren, afhankelijk van de vermengings modus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is illustrated in the figure below.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095851Z" creationid="hcremers" creationdate="20141106T095851Z">
