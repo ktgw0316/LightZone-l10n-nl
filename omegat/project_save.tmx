@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This blending mode is the same as the Normal blending mode except that the effect is applied only to midtones.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T203048Z" creationid="hcremers" creationdate="20141107T203048Z">
+        <seg>Deze vermengings modus is hetzelfde als de Normaal vermengings modus, maar alleen maar toegepast op de midden tonen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This blending mode multiplies or screens the colors, depending on the blend color.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T201922Z" creationid="hcremers" creationdate="20141107T201922Z">
