@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hard Light</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T201337Z" creationid="hcremers" creationdate="20141107T201337Z">
+        <seg>Hard Licht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, the darkest black of your photo becomes the darkest black that the device can render.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202329Z" creationid="hcremers" creationdate="20141105T202329Z">
