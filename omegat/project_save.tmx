@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Opposite of Darken.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202833Z" creationid="hcremers" creationdate="20141107T202833Z">
+        <seg>(Tegenovergestelde van Donker.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Lighten.)</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102249Z" creationid="hcremers" creationdate="20141106T102249Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192731Z" creationid="hcremers" creationdate="20141104T192731Z">
         <seg>Metagegevens.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Midtones</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202845Z" creationid="hcremers" creationdate="20141107T202845Z">
+        <seg>Midden tonen</seg>
       </tuv>
     </tu>
     <tu>
