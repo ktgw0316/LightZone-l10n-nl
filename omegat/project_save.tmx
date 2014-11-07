@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mid+Hilights</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T203149Z" creationid="hcremers" creationdate="20141107T203149Z">
+        <seg>Midden+Hoge lichten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Midtones</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202845Z" creationid="hcremers" creationdate="20141107T202845Z">
