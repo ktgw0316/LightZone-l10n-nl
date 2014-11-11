@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiply</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195105Z" creationid="hcremers" creationdate="20141111T195105Z">
+        <seg>Vermenigvuldigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Navigating_Folders.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191648Z" creationid="hcremers" creationdate="20141104T191648Z">
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101230Z" creationid="hcremers" creationdate="20141106T101230Z">
         <seg>Deze vermengings modus heeft geen effect, daardoor zijn de vermengings en resultaat kleuren hetzelfde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode is the same as the Normal blending mode except that the effect is applied only to midtones and highlights.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195055Z" creationid="hcremers" creationdate="20141111T195055Z">
+        <seg>Deze vermengings modus is hetzelfde als de Normaal vermengings modus, maar alleen maar toegepast op de midden en hoge tonen.</seg>
       </tuv>
     </tu>
     <tu>
