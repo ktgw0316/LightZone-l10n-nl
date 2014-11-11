@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result color is always darker.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195340Z" creationid="hcremers" creationdate="20141111T195340Z">
+        <seg>De resultaat kleur is altijd donkerder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result color is either the base or blend color, whichever is darker.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102238Z" creationid="hcremers" creationdate="20141106T102238Z">
@@ -578,6 +586,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T201922Z" creationid="hcremers" creationdate="20141107T201922Z">
         <seg>Deze vermengings modus vermenigvuldigt of verbleekt de kleuren, afhankelijk van de vermengings modus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode multiplies the base and blend colors.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195213Z" creationid="hcremers" creationdate="20141111T195213Z">
+        <seg>Deze vermengings modus vermenigvuldigt de basis kleur en de vermengings kleur.</seg>
       </tuv>
     </tu>
     <tu>
