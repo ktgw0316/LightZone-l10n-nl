@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overlay</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T201822Z" creationid="hcremers" creationdate="20141111T201822Z">
+        <seg>Bedekken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Photo viewer</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T193422Z" creationid="hcremers" creationdate="20141104T193422Z">
