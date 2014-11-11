@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiplies or screens the colors depending on the base color.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T201933Z" creationid="hcremers" creationdate="20141111T201933Z">
+        <seg>Vermenigvuldigt of bleekt kleuren afhankelijk van de basis kleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiply</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195105Z" creationid="hcremers" creationdate="20141111T195105Z">
