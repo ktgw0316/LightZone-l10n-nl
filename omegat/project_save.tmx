@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See also: Screen.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200610Z" creationid="hcremers" creationdate="20141111T200610Z">
+        <seg>(Zie ook: Bleken.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A blending mode controls how the effects of tools in the &lt;a1&gt;tool stack&lt;/a1&gt; blend together to form the final photo.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095217Z" creationid="hcremers" creationdate="20141106T095217Z">
@@ -422,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Negation</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200618Z" creationid="hcremers" creationdate="20141111T200618Z">
+        <seg>Negatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Normal</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101146Z" creationid="hcremers" creationdate="20141106T101146Z">
@@ -570,6 +586,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101230Z" creationid="hcremers" creationdate="20141106T101230Z">
         <seg>Deze vermengings modus heeft geen effect, daardoor zijn de vermengings en resultaat kleuren hetzelfde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode is similar to the Exclusion blending mode except that it shows brighter and more vibrant colors.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T201742Z" creationid="hcremers" creationdate="20141111T201742Z">
+        <seg>Deze vermengings modus is vergelijkbaar met de Uitsluiting vermengings modus, maar deze toont de lichtere en meer levendige kleuren.</seg>
       </tuv>
     </tu>
     <tu>
