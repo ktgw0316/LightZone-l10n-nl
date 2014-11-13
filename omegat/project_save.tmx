@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Patterns or colors overlay existing pixels while preserving the highlights and shadows of the base color.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T145508Z" creationid="hcremers" creationdate="20141113T145508Z">
+        <seg>Patronen of kleuren bedekken bestaande pixels, maar behouden de hoge lichten en schaduwen van de basis kleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Photo viewer</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T193422Z" creationid="hcremers" creationdate="20141104T193422Z">
