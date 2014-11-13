@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The base color is not replaced, but is mixed with the blend color to reflect the relative lightness or darkness of the original color.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T145756Z" creationid="hcremers" creationdate="20141113T145756Z">
+        <seg>De basis kleur wordt niet vervangen, maar gemengd met de vermengings kleur om de relatieve lichtheid of donkerheid van de originele kleur weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effect is similar to projecting multiple photographic slides onto the same screen.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200205Z" creationid="hcremers" creationdate="20141111T200205Z">
