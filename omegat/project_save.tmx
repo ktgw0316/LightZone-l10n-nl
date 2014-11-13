@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150341Z" creationid="hcremers" creationdate="20141113T150341Z">
+        <seg>Bleken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Second, as shown by the red arrows, the base and blend colors are blended together using a blending mode producing the result colors.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100456Z" creationid="hcremers" creationdate="20141106T100331Z">
