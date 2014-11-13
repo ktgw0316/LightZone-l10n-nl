@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This blending mode is similar to the Color Burn blending mode except that the effect results in less saturation and contrast.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T151005Z" creationid="hcremers" creationdate="20141113T151005Z">
+        <seg>Deze vermengings modus is vergelijkbaar met de Kleur doordrukken vermengings modus, maar het resulteert in minder verzadiging en contrast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This blending mode is similar to the Exclusion blending mode except that it shows brighter and more vibrant colors.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T201742Z" creationid="hcremers" creationdate="20141111T201742Z">
