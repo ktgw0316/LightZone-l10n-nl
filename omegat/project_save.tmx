@@ -550,6 +550,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shadows</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150601Z" creationid="hcremers" creationdate="20141113T150601Z">
+        <seg>Schaduwen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soft Burn</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150802Z" creationid="hcremers" creationdate="20141113T150802Z">
+        <seg>Zacht doordrukken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194434Z" creationid="hcremers" creationdate="20141104T194434Z">
@@ -598,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result color is always lighter.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150544Z" creationid="hcremers" creationdate="20141113T150544Z">
+        <seg>Het resultaat is altijd lichter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result color is either the base or blend color, whichever is darker.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102238Z" creationid="hcremers" creationdate="20141106T102238Z">
@@ -618,6 +642,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100654Z" creationid="hcremers" creationdate="20141106T100654Z">
         <seg>Er zijn veel beschikbare vermengings modi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode causes only the shadows to be affected.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150745Z" creationid="hcremers" creationdate="20141113T150745Z">
+        <seg>Deze vermengings modus beinvloedt alleen de schaduwen.</seg>
       </tuv>
     </tu>
     <tu>
