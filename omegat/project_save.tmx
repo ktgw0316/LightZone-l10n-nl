@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This blending mode is similar to the Multiply blending mode except that it multiplies the inverse of the blend and base colors.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150503Z" creationid="hcremers" creationdate="20141113T150503Z">
+        <seg>Deze vermengings modus is vergelijkbaar met de Vermenigvuldiging vermengings modus, met als verschil dat deze het omgekeerde van de vermengings kleur en de basis kleur vermenigvuldigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This blending mode is the same as the Normal blending mode except that the effect is applied only to midtones and highlights.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195055Z" creationid="hcremers" creationdate="20141111T195055Z">
