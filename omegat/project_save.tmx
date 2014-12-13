@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Convert&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Convert&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213731Z" creationid="hcremers" creationdate="20141213T213731Z">
+        <seg>De &lt;b0&gt;Verwerken&lt;/b0&gt; knop is gelijk aan Bestand &gt; &lt;a1&gt;Verwerken&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Edit&lt;/b0&gt; button is equivalent to Browser &gt; Edit.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212735Z" creationid="hcremers" creationdate="20141213T212735Z">
