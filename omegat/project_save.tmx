@@ -646,6 +646,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Open&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Open&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212914Z" creationid="hcremers" creationdate="20141213T212914Z">
+        <seg>De &lt;b0&gt;Open&lt;/b0&gt; knop is gelijk aan Bestand &gt; &lt;a1&gt;Open&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Print&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Print&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212958Z" creationid="hcremers" creationdate="20141213T212958Z">
+        <seg>De &lt;b0&gt;Print&lt;/b0&gt; knop is gelijk aan Bestand &gt; &lt;a1&gt;Print&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The RGB color space can represent all luminosities from 100% white to 100% black.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210225Z">
