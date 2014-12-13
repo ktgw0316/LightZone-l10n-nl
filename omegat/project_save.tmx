@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Photos-Sending.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213405Z" creationid="hcremers" creationdate="20141213T213405Z">
+        <seg>Fotos-verzenden.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printing.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202929Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212958Z" creationid="hcremers" creationdate="20141213T212958Z">
         <seg>De &lt;b0&gt;Print&lt;/b0&gt; knop is gelijk aan Bestand &gt; &lt;a1&gt;Print&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Send&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Send&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213550Z" creationid="hcremers" creationdate="20141213T213550Z">
+        <seg>De &lt;b0&gt;Verzenden&lt;/b0&gt; knop is gelijk aan Bestand &gt; &lt;a1&gt;Verzenden&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
