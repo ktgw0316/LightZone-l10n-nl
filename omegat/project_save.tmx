@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Edit&lt;/b0&gt; button is equivalent to Browser &gt; Edit.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212735Z" creationid="hcremers" creationdate="20141213T212735Z">
+        <seg>De &lt;b0&gt;Wijzig&lt;/b0&gt; knop is gelijk aan Browser &gt; Wijzig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The RGB color space can represent all luminosities from 100% white to 100% black.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210225Z">
@@ -946,6 +954,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100544Z">
         <seg>afbeeldingen/Vermengings_Modi_Illustratie-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Buttons-Photo-en.png</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212646Z" creationid="hcremers" creationdate="20141213T212646Z">
+        <seg>afbeeldingen/Knoppen-Foto-en.png</seg>
       </tuv>
     </tu>
     <tu>
