@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
         <seg>(Opposite of Color Burn.)</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102135Z" creationid="hcremers" creationdate="20141106T102135Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102135Z">
         <seg>(Tegenovergestelde van Kleur doordrukken.)</seg>
       </tuv>
     </tu>
@@ -16,7 +16,7 @@
       <tuv lang="EN-US">
         <seg>(Opposite of Color Dodge.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101704Z" creationid="hcremers" creationdate="20141106T101704Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101704Z">
         <seg>(Tegenovergestelde van Kleur tegehouden.</seg>
       </tuv>
     </tu>
@@ -24,7 +24,7 @@
       <tuv lang="EN-US">
         <seg>(Opposite of Darken.)</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202833Z" creationid="hcremers" creationdate="20141107T202833Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202833Z">
         <seg>(Tegenovergestelde van Donker.)</seg>
       </tuv>
     </tu>
@@ -32,7 +32,7 @@
       <tuv lang="EN-US">
         <seg>(Opposite of Lighten.)</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102249Z" creationid="hcremers" creationdate="20141106T102249Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102249Z">
         <seg>(Tegenovergestelde van Lichter.)</seg>
       </tuv>
     </tu>
@@ -40,7 +40,7 @@
       <tuv lang="EN-US">
         <seg>(See also: Exclusion.)</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102553Z" creationid="hcremers" creationdate="20141106T102553Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102553Z">
         <seg>(Zie ook: Uitsluiting.)</seg>
       </tuv>
     </tu>
@@ -48,7 +48,7 @@
       <tuv lang="EN-US">
         <seg>(See also: Negation.)</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T200900Z" creationid="hcremers" creationdate="20141107T200900Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T200900Z">
         <seg>Zie ook: Negatie.)</seg>
       </tuv>
     </tu>
@@ -56,7 +56,7 @@
       <tuv lang="EN-US">
         <seg>(See also: Screen.)</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200610Z" creationid="hcremers" creationdate="20141111T200610Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200610Z">
         <seg>(Zie ook: Bleken.)</seg>
       </tuv>
     </tu>
@@ -64,7 +64,7 @@
       <tuv lang="EN-US">
         <seg>A blending mode controls how the effects of tools in the &lt;a1&gt;tool stack&lt;/a1&gt; blend together to form the final photo.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095217Z" creationid="hcremers" creationdate="20141106T095217Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095217Z">
         <seg>Een vermengingsmodus beinvloedt hoe de effecten van de gereedschappen in een &lt;a1&gt;gereedschapsgroep&lt;/a1&gt; zich vermengen om de uiteindelijke foto te vormen.</seg>
       </tuv>
     </tu>
@@ -72,7 +72,7 @@
       <tuv lang="EN-US">
         <seg>Acknowledgments</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185519Z" creationid="hcremers" creationdate="20141104T185519Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185519Z">
         <seg>Dankbetuiging</seg>
       </tuv>
     </tu>
@@ -80,7 +80,7 @@
       <tuv lang="EN-US">
         <seg>Acknowledgments.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185441Z" creationid="hcremers" creationdate="20141104T185441Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185441Z">
         <seg>Dankbetuiging</seg>
       </tuv>
     </tu>
@@ -88,7 +88,7 @@
       <tuv lang="EN-US">
         <seg>Average</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101239Z" creationid="hcremers" creationdate="20141106T101239Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101239Z">
         <seg>Gemiddeld</seg>
       </tuv>
     </tu>
@@ -96,7 +96,7 @@
       <tuv lang="EN-US">
         <seg>Base color</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095426Z" creationid="hcremers" creationdate="20141106T095426Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095426Z">
         <seg>Basis kleur</seg>
       </tuv>
     </tu>
@@ -104,7 +104,7 @@
       <tuv lang="EN-US">
         <seg>Black point compensation</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195408Z" creationid="hcremers" creationdate="20141104T195408Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195408Z">
         <seg>Zwartpunt compensatie</seg>
       </tuv>
     </tu>
@@ -112,7 +112,7 @@
       <tuv lang="EN-US">
         <seg>Black point compensation attempts to resolve the difference between the darkest black in your photo and the darkest black that a particular device can render.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T195840Z" creationid="hcremers" creationdate="20141105T195840Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T195840Z">
         <seg>Zwartpunt compensatie probeert het verschil op te lossen tussen het donkerste zwart in uw foto en het donkerste zwart dat een uitvoerapparaat kan weergeven.</seg>
       </tuv>
     </tu>
@@ -120,7 +120,7 @@
       <tuv lang="EN-US">
         <seg>Blend color</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095648Z" creationid="hcremers" creationdate="20141106T095517Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095648Z">
         <seg>Vermengings kleur</seg>
       </tuv>
     </tu>
@@ -128,7 +128,7 @@
       <tuv lang="EN-US">
         <seg>Blending modes</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T084815Z" creationid="hcremers" creationdate="20141106T084815Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T084815Z">
         <seg>Vermengings modi</seg>
       </tuv>
     </tu>
@@ -136,7 +136,7 @@
       <tuv lang="EN-US">
         <seg>Brightens the base color to reflect the blend color by decreasing contrast.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102115Z" creationid="hcremers" creationdate="20141106T102115Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102115Z">
         <seg>Maakt de basis kleur lichter om de vermengings kleur weer te geven door het contrast te verminderen.</seg>
       </tuv>
     </tu>
@@ -144,7 +144,7 @@
       <tuv lang="EN-US">
         <seg>Browser anatomy</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190752Z" creationid="hcremers" creationdate="20141104T190752Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190752Z">
         <seg>Browser anatomie</seg>
       </tuv>
     </tu>
@@ -152,7 +152,7 @@
       <tuv lang="EN-US">
         <seg>Buttons-Photo.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191719Z" creationid="hcremers" creationdate="20141104T191719Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191719Z">
         <seg>Knoppen-Foto.html</seg>
       </tuv>
     </tu>
@@ -160,7 +160,7 @@
       <tuv lang="EN-US">
         <seg>Color Burn</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101547Z" creationid="hcremers" creationdate="20141106T101547Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101547Z">
         <seg>Kleur doordrukken</seg>
       </tuv>
     </tu>
@@ -168,7 +168,7 @@
       <tuv lang="EN-US">
         <seg>Color Dodge</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102033Z" creationid="hcremers" creationdate="20141106T102033Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102033Z">
         <seg>Kleur tegenhouden</seg>
       </tuv>
     </tu>
@@ -176,7 +176,7 @@
       <tuv lang="EN-US">
         <seg>Converting.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202923Z" creationid="hcremers" creationdate="20141104T202923Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202923Z">
         <seg>Verwerken.html</seg>
       </tuv>
     </tu>
@@ -184,7 +184,7 @@
       <tuv lang="EN-US">
         <seg>Creates an effect similar to, but lower in contrast than, the Difference blending mode.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T195234Z" creationid="hcremers" creationdate="20141107T195234Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T195234Z">
         <seg>Creeert een effect zoals de Verschil modus, maar met minder contrast.</seg>
       </tuv>
     </tu>
@@ -192,7 +192,7 @@
       <tuv lang="EN-US">
         <seg>Darken</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102156Z" creationid="hcremers" creationdate="20141106T102156Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102156Z">
         <seg>Donkerder</seg>
       </tuv>
     </tu>
@@ -200,7 +200,7 @@
       <tuv lang="EN-US">
         <seg>Darkens the base color to reflect the blend color by increasing contrast.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101638Z" creationid="hcremers" creationdate="20141106T101638Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101638Z">
         <seg>Maakt de basis kleur donkerder om de vermengings kleur weer te geven door het contrast op te voeren.</seg>
       </tuv>
     </tu>
@@ -208,7 +208,7 @@
       <tuv lang="EN-US">
         <seg>Description of black point compensation.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195110Z" creationid="hcremers" creationdate="20141104T195110Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195110Z">
         <seg>Beschrijving van zwartpunt compensatie.</seg>
       </tuv>
     </tu>
@@ -216,7 +216,7 @@
       <tuv lang="EN-US">
         <seg>Description of the parts of the browser window.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190738Z" creationid="hcremers" creationdate="20141104T190738Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190738Z">
         <seg>Beschrijving van de onderdelen van het browser venster.</seg>
       </tuv>
     </tu>
@@ -224,7 +224,7 @@
       <tuv lang="EN-US">
         <seg>Description of the parts of the editor window.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194141Z" creationid="hcremers" creationdate="20141104T194141Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194141Z">
         <seg>Beschrijving van de onderdelen van het editor venster.</seg>
       </tuv>
     </tu>
@@ -232,7 +232,7 @@
       <tuv lang="EN-US">
         <seg>Description of the various blending modes.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T205039Z" creationid="hcremers" creationdate="20141105T205039Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T205039Z">
         <seg>Beschrijving van de verschillende vermengings modi.</seg>
       </tuv>
     </tu>
@@ -240,7 +240,7 @@
       <tuv lang="EN-US">
         <seg>Difference</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102302Z" creationid="hcremers" creationdate="20141106T102302Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102302Z">
         <seg>Verschil</seg>
       </tuv>
     </tu>
@@ -248,7 +248,7 @@
       <tuv lang="EN-US">
         <seg>Editor anatomy</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194406Z" creationid="hcremers" creationdate="20141104T194406Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194406Z">
         <seg>Editor anatomie</seg>
       </tuv>
     </tu>
@@ -256,7 +256,7 @@
       <tuv lang="EN-US">
         <seg>Exclusion</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102559Z" creationid="hcremers" creationdate="20141106T102559Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102559Z">
         <seg>Uitsluiting</seg>
       </tuv>
     </tu>
@@ -264,7 +264,7 @@
       <tuv lang="EN-US">
         <seg>First, as shown by the green arrows, the base colors of a photo have a tool's effect applied to them producing the blend colors.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100250Z" creationid="hcremers" creationdate="20141106T100250Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100250Z">
         <seg>Ten eerste, getoond met de groene pijlen, de basis kleuren van een foto hebben een gereedschaps effect toegepast, wat vermengde kleuren oplevert.</seg>
       </tuv>
     </tu>
@@ -272,7 +272,7 @@
       <tuv lang="EN-US">
         <seg>Hard Light</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T201337Z" creationid="hcremers" creationdate="20141107T201337Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T201337Z">
         <seg>Hard Licht</seg>
       </tuv>
     </tu>
@@ -280,7 +280,7 @@
       <tuv lang="EN-US">
         <seg>Hence, the darkest black of your photo becomes the darkest black that the device can render.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202329Z" creationid="hcremers" creationdate="20141105T202329Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202329Z">
         <seg>Op die manier wordt het donkerste zwart van uw foto het donkerste zwart dat het uitvoerapparaat kan weergeven.</seg>
       </tuv>
     </tu>
@@ -288,7 +288,7 @@
       <tuv lang="EN-US">
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T204018Z" creationid="hcremers" creationdate="20141105T204018Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T204018Z">
         <seg>Vanwege het samendrukken van het helderheidsbereik gaat wel informatie van uw foto verloren, dit verlies wordt echter verspreid over het totale helderheidsbereik (en daarmee minder zichtbaar) en niet afgekapt bij de zwarte kant van het bereik.</seg>
       </tuv>
     </tu>
@@ -296,7 +296,7 @@
       <tuv lang="EN-US">
         <seg>If no black point compensation is done, then detail will be lost in the darkest shadow areas of your photo because the dark areas beyond the darkest black the device can render are truncated.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T201402Z" creationid="hcremers" creationdate="20141105T201402Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T201402Z">
         <seg>Als zwartpunt compensatie niet wordt uitgevoerd, zal detail in de donkerste schaduw gebieden van uw foto verloren gaan omdat de gebieden donkerder dan wat het uitvoerapparaat kan weergeven worden afgekapt.</seg>
       </tuv>
     </tu>
@@ -304,15 +304,23 @@
       <tuv lang="EN-US">
         <seg>If the blend color is lighter than 50% gray, the color is lightened (screened); if the blend color is darker than 50% gray, the color is darkened (multiplied).</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202323Z" creationid="hcremers" creationdate="20141107T202323Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202323Z">
         <seg>Als de vermengings kleur lichter is dan 50% grijs wordt de kleur lichter (verbleekt); als de vermengings kleur donkerder is dan 50% grijs wordt de kleur donkerder (vermenigvuldigd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the blend color is lighter, the image is lightened as if it were dodged; if the blend color is darker, the image is darkened as if it were burned in.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141127T100809Z">
+        <seg>Als de vermengings kleur lichter is, wordt de afbeelding lichter gemaakt alsof gebruik wordt gemaakt van tegenhouden. Als de vermengings kleur donderder is, wordt de afbeelding donkerder gemaakt alsof gebruik wordt gemaakt van doordrukken.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>In order to understand blending modes, there are a few terms to know:</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095413Z" creationid="hcremers" creationdate="20141106T095413Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095413Z">
         <seg>Om vermeningsmodi te begrijpen, zijn er een aantal termen die bekend worden verondersteld:</seg>
       </tuv>
     </tu>
@@ -320,7 +328,7 @@
       <tuv lang="EN-US">
         <seg>Light Crafts would like to acknowledge the following people who contributed to LightZone:</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185828Z" creationid="hcremers" creationdate="20141104T185828Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185828Z">
         <seg>Light Crafts wil graag de volgende mensen bedanken die een bijdrage hebben geleverd aan Lightzone:</seg>
       </tuv>
     </tu>
@@ -328,7 +336,7 @@
       <tuv lang="EN-US">
         <seg>LightZone: Acknowledgments</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185419Z" creationid="hcremers" creationdate="20141104T185419Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185419Z">
         <seg>LightZone: Dankbetuiging</seg>
       </tuv>
     </tu>
@@ -336,7 +344,7 @@
       <tuv lang="EN-US">
         <seg>LightZone: Black Point Compensation</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195031Z" creationid="hcremers" creationdate="20141104T195031Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195031Z">
         <seg>LightZone: Zwartpunt Compensatie</seg>
       </tuv>
     </tu>
@@ -344,7 +352,7 @@
       <tuv lang="EN-US">
         <seg>LightZone: Blending Modes</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T205012Z" creationid="hcremers" creationdate="20141105T205012Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T205012Z">
         <seg>LightZone: Vermengings modi</seg>
       </tuv>
     </tu>
@@ -352,7 +360,7 @@
       <tuv lang="EN-US">
         <seg>LightZone: Browser Anatomy</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190417Z" creationid="hcremers" creationdate="20141104T190417Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190417Z">
         <seg>LightZone: Browser Anatomie</seg>
       </tuv>
     </tu>
@@ -360,15 +368,23 @@
       <tuv lang="EN-US">
         <seg>LightZone: Editor Anatomy</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194108Z" creationid="hcremers" creationdate="20141104T194108Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194108Z">
         <seg>LightZone: Editor Anatomie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Photo Buttons Overview</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T211527Z" creationid="hcremers" creationdate="20141213T211527Z">
+        <seg>LightZone: Foto knoppen overzicht</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Lighten</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202612Z" creationid="hcremers" creationdate="20141107T202612Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202612Z">
         <seg>Lichter</seg>
       </tuv>
     </tu>
@@ -376,7 +392,7 @@
       <tuv lang="EN-US">
         <seg>Metadata.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192731Z" creationid="hcremers" creationdate="20141104T192731Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192731Z">
         <seg>Metagegevens.html</seg>
       </tuv>
     </tu>
@@ -384,7 +400,7 @@
       <tuv lang="EN-US">
         <seg>Mid+Hilights</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T203149Z" creationid="hcremers" creationdate="20141107T203149Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T203149Z">
         <seg>Midden+Hoge lichten</seg>
       </tuv>
     </tu>
@@ -392,7 +408,7 @@
       <tuv lang="EN-US">
         <seg>Midtones</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202845Z" creationid="hcremers" creationdate="20141107T202845Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202845Z">
         <seg>Midden tonen</seg>
       </tuv>
     </tu>
@@ -400,7 +416,7 @@
       <tuv lang="EN-US">
         <seg>Most tools can have a &lt;e0&gt;blending mode&lt;/e0&gt; specified for them.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095039Z" creationid="hcremers" creationdate="20141106T095039Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095039Z">
         <seg>Het is mogelijk om voor de meeste gereedschappen een &lt;e0&gt;vermengingsmodus&lt;/e0&gt; te specificeren.</seg>
       </tuv>
     </tu>
@@ -408,7 +424,7 @@
       <tuv lang="EN-US">
         <seg>Move the mouse to an area of interest and click to learn more about it.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191551Z" creationid="hcremers" creationdate="20141104T191551Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191551Z">
         <seg>Beweeg de muis naar een gebied en klik om er meer over te leren.</seg>
       </tuv>
     </tu>
@@ -416,7 +432,7 @@
       <tuv lang="EN-US">
         <seg>Multiplies or screens the colors depending on the base color.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T201933Z" creationid="hcremers" creationdate="20141111T201933Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T201933Z">
         <seg>Vermenigvuldigt of bleekt kleuren afhankelijk van de basis kleur.</seg>
       </tuv>
     </tu>
@@ -424,7 +440,7 @@
       <tuv lang="EN-US">
         <seg>Multiply</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195105Z" creationid="hcremers" creationdate="20141111T195105Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195105Z">
         <seg>Vermenigvuldigen</seg>
       </tuv>
     </tu>
@@ -432,7 +448,7 @@
       <tuv lang="EN-US">
         <seg>Navigating_Folders.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191648Z" creationid="hcremers" creationdate="20141104T191648Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191648Z">
         <seg>Folder_Navigatie.html</seg>
       </tuv>
     </tu>
@@ -440,7 +456,7 @@
       <tuv lang="EN-US">
         <seg>Negation</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200618Z" creationid="hcremers" creationdate="20141111T200618Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200618Z">
         <seg>Negatie</seg>
       </tuv>
     </tu>
@@ -448,7 +464,7 @@
       <tuv lang="EN-US">
         <seg>Normal</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101146Z" creationid="hcremers" creationdate="20141106T101146Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101146Z">
         <seg>Normaal</seg>
       </tuv>
     </tu>
@@ -456,7 +472,7 @@
       <tuv lang="EN-US">
         <seg>On the other hand, if black point compensation is done, the luminosity range of your photo is compressed to fit into the luminosity range of the device.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202122Z" creationid="hcremers" creationdate="20141105T202122Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202122Z">
         <seg>Aan de andere kant wordt het helderheid van uw foto samengedrukt om binnen het helderheidsbereik van het uitvoeraparaat te passen.</seg>
       </tuv>
     </tu>
@@ -464,7 +480,7 @@
       <tuv lang="EN-US">
         <seg>Output devices (such as printers and computer displays) often have limitations in how black the darkest black they can render is.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210639Z" creationid="hcremers" creationdate="20141104T210639Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210639Z">
         <seg>Uitvoerapparaten (zoals printers en beeldschermen) zijn vaak beperkt in hoe donker ze het donkerste zwart kunnen weergeven.</seg>
       </tuv>
     </tu>
@@ -472,23 +488,39 @@
       <tuv lang="EN-US">
         <seg>Overlay</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T201822Z" creationid="hcremers" creationdate="20141111T201822Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T201822Z">
         <seg>Bedekken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overview of the photo buttons.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T211639Z" creationid="hcremers" creationdate="20141213T211639Z">
+        <seg>Overzicht van de foto knoppen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Patterns or colors overlay existing pixels while preserving the highlights and shadows of the base color.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T145508Z" creationid="hcremers" creationdate="20141113T145508Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T145508Z">
         <seg>Patronen of kleuren bedekken bestaande pixels, maar behouden de hoge lichten en schaduwen van de basis kleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo buttons overview</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T211715Z" creationid="hcremers" creationdate="20141213T211715Z">
+        <seg>Foto knoppen overzicht</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Photo viewer</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T193422Z" creationid="hcremers" creationdate="20141104T193422Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T193422Z">
         <seg>Foto viewer</seg>
       </tuv>
     </tu>
@@ -496,7 +528,7 @@
       <tuv lang="EN-US">
         <seg>Photo_Viewer.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T193430Z" creationid="hcremers" creationdate="20141104T193430Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T193430Z">
         <seg>Foto_Viewer.html</seg>
       </tuv>
     </tu>
@@ -504,7 +536,7 @@
       <tuv lang="EN-US">
         <seg>Printing.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202929Z" creationid="hcremers" creationdate="20141104T202929Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202929Z">
         <seg>Printen.html</seg>
       </tuv>
     </tu>
@@ -512,7 +544,7 @@
       <tuv lang="EN-US">
         <seg>Rendering_Intent.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T203409Z" creationid="hcremers" creationdate="20141104T203409Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T203409Z">
         <seg>Opbouw_principe.html</seg>
       </tuv>
     </tu>
@@ -520,7 +552,7 @@
       <tuv lang="EN-US">
         <seg>Result color</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095640Z" creationid="hcremers" creationdate="20141106T095640Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095640Z">
         <seg>Resultaat kleur</seg>
       </tuv>
     </tu>
@@ -528,7 +560,7 @@
       <tuv lang="EN-US">
         <seg>Screen</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150341Z" creationid="hcremers" creationdate="20141113T150341Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150341Z">
         <seg>Bleken</seg>
       </tuv>
     </tu>
@@ -536,7 +568,7 @@
       <tuv lang="EN-US">
         <seg>Second, as shown by the red arrows, the base and blend colors are blended together using a blending mode producing the result colors.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100456Z" creationid="hcremers" creationdate="20141106T100331Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100456Z">
         <seg>Ten tweede, getoond met de rode pijlen, de basis en vermengde kleuren worden samen vermengd, gebruik makend van een vermengings modus om de resultaat kleuren te produceren.</seg>
       </tuv>
     </tu>
@@ -544,7 +576,7 @@
       <tuv lang="EN-US">
         <seg>See also: Soft Burn.)</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102016Z" creationid="hcremers" creationdate="20141106T102016Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102016Z">
         <seg>Zie ook: Zacht doordrukken.)</seg>
       </tuv>
     </tu>
@@ -552,7 +584,7 @@
       <tuv lang="EN-US">
         <seg>Shadows</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150601Z" creationid="hcremers" creationdate="20141113T150601Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150601Z">
         <seg>Schaduwen</seg>
       </tuv>
     </tu>
@@ -560,7 +592,7 @@
       <tuv lang="EN-US">
         <seg>Soft Burn</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150802Z" creationid="hcremers" creationdate="20141113T150802Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150802Z">
         <seg>Zacht doordrukken</seg>
       </tuv>
     </tu>
@@ -568,15 +600,23 @@
       <tuv lang="EN-US">
         <seg>Soft Dodge</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T151121Z" creationid="hcremers" creationdate="20141113T151121Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T151121Z">
         <seg>Zacht tegenhouden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soft Light</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141127T095903Z">
+        <seg>Zacht licht</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Styles.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194434Z" creationid="hcremers" creationdate="20141104T194434Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194434Z">
         <seg>Stijlen.html</seg>
       </tuv>
     </tu>
@@ -584,7 +624,7 @@
       <tuv lang="EN-US">
         <seg>Subtracts either the blend color from the base color or the base color from the blend color depending on whichever is brighter.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102533Z" creationid="hcremers" creationdate="20141106T102533Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102533Z">
         <seg>Vermindert de vermengings of basis kleur met de lichtste van deze twee.</seg>
       </tuv>
     </tu>
@@ -592,7 +632,7 @@
       <tuv lang="EN-US">
         <seg>The RGB color space can represent all luminosities from 100% white to 100% black.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210225Z" creationid="hcremers" creationdate="20141104T210225Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210225Z">
         <seg>De RGB kleurruimte kan alle helderheden van 100% wit tot 100% zwart afbeelden.</seg>
       </tuv>
     </tu>
@@ -600,23 +640,39 @@
       <tuv lang="EN-US">
         <seg>The base color is not replaced, but is mixed with the blend color to reflect the relative lightness or darkness of the original color.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T145756Z" creationid="hcremers" creationdate="20141113T145756Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T145756Z">
         <seg>De basis kleur wordt niet vervangen, maar gemengd met de vermengings kleur om de relatieve lichtheid of donkerheid van de originele kleur weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The base colors are darkened slightly with very bright blend colors dodged in.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141127T095851Z">
+        <seg>De basis kleuren worden in lichte mate donkerder door erg lichte vermengings kleuren in tegengehouden mate in te mengen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The effect is similar to projecting multiple photographic slides onto the same screen.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200205Z" creationid="hcremers" creationdate="20141111T200205Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200205Z">
         <seg>Het effect is vergelijkbaar aan het projecteren van meerdere foto dia's op hetzelfde scherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effect is similar to shining a diffused spotlight on the image.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141127T100451Z">
+        <seg>Het effect is vergelijkbaar met het schijnen van een diffuus licht op de afbeelding.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The result color is always darker.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195340Z" creationid="hcremers" creationdate="20141111T195340Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195340Z">
         <seg>De resultaat kleur is altijd donkerder.</seg>
       </tuv>
     </tu>
@@ -624,7 +680,7 @@
       <tuv lang="EN-US">
         <seg>The result color is always lighter.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150544Z" creationid="hcremers" creationdate="20141113T150544Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150544Z">
         <seg>Het resultaat is altijd lichter.</seg>
       </tuv>
     </tu>
@@ -632,7 +688,7 @@
       <tuv lang="EN-US">
         <seg>The result color is either the base or blend color, whichever is darker.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102238Z" creationid="hcremers" creationdate="20141106T102238Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102238Z">
         <seg>Het resultaat is de donkerste van de basis kleur en vermengings kleur.</seg>
       </tuv>
     </tu>
@@ -640,7 +696,7 @@
       <tuv lang="EN-US">
         <seg>The result color is either the base or blend color, whichever is lighter.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202804Z" creationid="hcremers" creationdate="20141107T202804Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202804Z">
         <seg>De resultaat kleur is de lichtste van de basis kleur en de vermengings kleur.</seg>
       </tuv>
     </tu>
@@ -648,7 +704,7 @@
       <tuv lang="EN-US">
         <seg>There are many blending modes to choose from.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100654Z" creationid="hcremers" creationdate="20141106T100654Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100654Z">
         <seg>Er zijn veel beschikbare vermengings modi.</seg>
       </tuv>
     </tu>
@@ -656,15 +712,23 @@
       <tuv lang="EN-US">
         <seg>This blending mode causes only the shadows to be affected.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150745Z" creationid="hcremers" creationdate="20141113T150745Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150745Z">
         <seg>Deze vermengings modus beinvloedt alleen de schaduwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode darkens or lightens the colors depending on the blend color.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141127T100012Z">
+        <seg>Deze vermengings modus verdonkert of verlicht de kleuren afhankelij van de vermengings kleur.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>This blending mode has no effect; therefore, the blend and result colors are the same.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101230Z" creationid="hcremers" creationdate="20141106T101230Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101230Z">
         <seg>Deze vermengings modus heeft geen effect, daardoor zijn de vermengings en resultaat kleuren hetzelfde.</seg>
       </tuv>
     </tu>
@@ -672,7 +736,7 @@
       <tuv lang="EN-US">
         <seg>This blending mode is a combination of both the Color Dodge and inverse Color Burn modes, but much smoother than either.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T151549Z" creationid="hcremers" creationdate="20141113T151549Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T151549Z">
         <seg>Deze vermengings modus is een combinatie van zowel Kleur tegenhouden en omgekeerde Kleur doordrukken modi, maar met een meer effen resultaat.</seg>
       </tuv>
     </tu>
@@ -680,7 +744,7 @@
       <tuv lang="EN-US">
         <seg>This blending mode is similar to the Color Burn blending mode except that the effect results in less saturation and contrast.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T151005Z" creationid="hcremers" creationdate="20141113T151005Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T151005Z">
         <seg>Deze vermengings modus is vergelijkbaar met de Kleur doordrukken vermengings modus, maar het resulteert in minder verzadiging en contrast.</seg>
       </tuv>
     </tu>
@@ -688,7 +752,7 @@
       <tuv lang="EN-US">
         <seg>This blending mode is similar to the Exclusion blending mode except that it shows brighter and more vibrant colors.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T201742Z" creationid="hcremers" creationdate="20141111T201742Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T201742Z">
         <seg>Deze vermengings modus is vergelijkbaar met de Uitsluiting vermengings modus, maar deze toont de lichtere en meer levendige kleuren.</seg>
       </tuv>
     </tu>
@@ -696,7 +760,7 @@
       <tuv lang="EN-US">
         <seg>This blending mode is similar to the Multiply blending mode except that it multiplies the inverse of the blend and base colors.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150503Z" creationid="hcremers" creationdate="20141113T150503Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150503Z">
         <seg>Deze vermengings modus is vergelijkbaar met de Vermenigvuldiging vermengings modus, met als verschil dat deze het omgekeerde van de vermengings kleur en de basis kleur vermenigvuldigt.</seg>
       </tuv>
     </tu>
@@ -704,7 +768,7 @@
       <tuv lang="EN-US">
         <seg>This blending mode is the same as the Normal blending mode except that the effect is applied only to midtones and highlights.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195055Z" creationid="hcremers" creationdate="20141111T195055Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195055Z">
         <seg>Deze vermengings modus is hetzelfde als de Normaal vermengings modus, maar alleen maar toegepast op de midden en hoge tonen.</seg>
       </tuv>
     </tu>
@@ -712,7 +776,7 @@
       <tuv lang="EN-US">
         <seg>This blending mode is the same as the Normal blending mode except that the effect is applied only to midtones.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T203048Z" creationid="hcremers" creationdate="20141107T203048Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T203048Z">
         <seg>Deze vermengings modus is hetzelfde als de Normaal vermengings modus, maar alleen maar toegepast op de midden tonen.</seg>
       </tuv>
     </tu>
@@ -720,7 +784,7 @@
       <tuv lang="EN-US">
         <seg>This blending mode multiplies or screens the colors, depending on the blend color.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T201922Z" creationid="hcremers" creationdate="20141107T201922Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T201922Z">
         <seg>Deze vermengings modus vermenigvuldigt of verbleekt de kleuren, afhankelijk van de vermengings modus.</seg>
       </tuv>
     </tu>
@@ -728,7 +792,7 @@
       <tuv lang="EN-US">
         <seg>This blending mode multiplies the base and blend colors.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195213Z" creationid="hcremers" creationdate="20141111T195213Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195213Z">
         <seg>Deze vermengings modus vermenigvuldigt de basis kleur en de vermengings kleur.</seg>
       </tuv>
     </tu>
@@ -736,7 +800,7 @@
       <tuv lang="EN-US">
         <seg>This is illustrated in the figure below.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095851Z" creationid="hcremers" creationdate="20141106T095851Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095851Z">
         <seg>Dit wordt geillustreerd in het plaatje hieronder.</seg>
       </tuv>
     </tu>
@@ -744,7 +808,7 @@
       <tuv lang="EN-US">
         <seg>This is the color of a pixel after a tool's effect has been applied to the photo.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095624Z" creationid="hcremers" creationdate="20141106T095624Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095624Z">
         <seg>Dit is de kleur van een pixel nadat een effect van een gereedschap is toegepast op de foto.</seg>
       </tuv>
     </tu>
@@ -752,7 +816,7 @@
       <tuv lang="EN-US">
         <seg>This is the color of a pixel after its base and blend colors have been blended together using a blending mode.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095819Z" creationid="hcremers" creationdate="20141106T095819Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095819Z">
         <seg>Dit is de kleur van een pixel nadat het effect van een gereedschap is vermengd met de basis kleur door toepassing van een vermengingsmodus.</seg>
       </tuv>
     </tu>
@@ -760,7 +824,7 @@
       <tuv lang="EN-US">
         <seg>This is the color of a pixel before a tool's effect has been applied to the photo.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095507Z" creationid="hcremers" creationdate="20141106T095507Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095507Z">
         <seg>Dit is de kleur van een pixel voordat enig effect van een gereedschap is toegepast op de foto.</seg>
       </tuv>
     </tu>
@@ -768,7 +832,7 @@
       <tuv lang="EN-US">
         <seg>This is the same as the Normal blending mode but at 50% opacity.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101414Z" creationid="hcremers" creationdate="20141106T101414Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101414Z">
         <seg>Deze modus is dezelfde als Normaal, maar dan op 50% doozichtigheid.</seg>
       </tuv>
     </tu>
@@ -776,7 +840,7 @@
       <tuv lang="EN-US">
         <seg>This is useful for adding highlights or shadows to an image.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202432Z" creationid="hcremers" creationdate="20141107T202432Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202432Z">
         <seg>Dit is bruikbaar voor het toevoegen van hoge lichten of schaduwen aan een afbeelding.</seg>
       </tuv>
     </tu>
@@ -784,7 +848,7 @@
       <tuv lang="EN-US">
         <seg>Thumbnails.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192720Z" creationid="hcremers" creationdate="20141104T192720Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192720Z">
         <seg>Miniaturen.html</seg>
       </tuv>
     </tu>
@@ -792,7 +856,7 @@
       <tuv lang="EN-US">
         <seg>Tool_Stack.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195003Z" creationid="hcremers" creationdate="20141104T195003Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195003Z">
         <seg>Gereedschap_Groep.html</seg>
       </tuv>
     </tu>
@@ -800,7 +864,7 @@
       <tuv lang="EN-US">
         <seg>Tools-Controls.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194510Z" creationid="hcremers" creationdate="20141104T194510Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194510Z">
         <seg>Gereedschap bediening.html</seg>
       </tuv>
     </tu>
@@ -808,7 +872,7 @@
       <tuv lang="EN-US">
         <seg>Tools-Editing.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194827Z" creationid="hcremers" creationdate="20141104T194827Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194827Z">
         <seg>Gereedschap-Wijziging.html</seg>
       </tuv>
     </tu>
@@ -816,7 +880,7 @@
       <tuv lang="EN-US">
         <seg>When either &lt;a0&gt;converting&lt;/a0&gt; or &lt;a1&gt;printing&lt;/a1&gt; your photos using application managed colors, you can enable &lt;e2&gt;black point compensation&lt;/e2&gt; when the &lt;a3&gt;rendering intent&lt;/a3&gt; is Relative Colorimetric.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T204940Z" creationid="hcremers" creationdate="20141104T204940Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T204940Z">
         <seg>Om &lt;e2&gt;zwartpunt compensatie&lt;/e2&gt; te gebruiken bij het &lt;a0&gt;verwerken&lt;/a0&gt; of &lt;a1&gt;printen&lt;/a1&gt; van uw foto's als u gebruik maakt van applicatie beheerde kleuren, kiest u &lt;a3&gt;opbouw principe&lt;/a3&gt; Relatief Colorimetrisch.</seg>
       </tuv>
     </tu>
@@ -824,7 +888,7 @@
       <tuv lang="EN-US">
         <seg>While descriptions for each are below, it's best to experiment.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101142Z" creationid="hcremers" creationdate="20141106T101142Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101142Z">
         <seg>Hoewel een beschrijving van elke modus hieronder volgt, is het aan te raden te experimenteren.</seg>
       </tuv>
     </tu>
@@ -832,7 +896,7 @@
       <tuv lang="EN-US">
         <seg>ZoneFinder.html</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194810Z" creationid="hcremers" creationdate="20141104T194810Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194810Z">
         <seg>ZoneVinder.html</seg>
       </tuv>
     </tu>
@@ -840,7 +904,7 @@
       <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20141103T041544Z" creationid="ktgw0316" creationdate="20141103T041544Z">
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20141103T041544Z">
         <seg>nl-NL</seg>
       </tuv>
     </tu>
@@ -848,7 +912,7 @@
       <tuv lang="EN-US">
         <seg>images/Anatomy-Browser-en.jpg</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191632Z" creationid="hcremers" creationdate="20141104T191632Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191632Z">
         <seg>afbeeldingen/Anatomie-Browser-en.jpg</seg>
       </tuv>
     </tu>
@@ -856,7 +920,7 @@
       <tuv lang="EN-US">
         <seg>images/Anatomy-Editor-en.jpg</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194426Z" creationid="hcremers" creationdate="20141104T194426Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194426Z">
         <seg>afbeeldingen/Anatomie-Editor-en.jpg</seg>
       </tuv>
     </tu>
@@ -864,7 +928,7 @@
       <tuv lang="EN-US">
         <seg>images/Black_Point_Compensation-en.png</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T200344Z" creationid="hcremers" creationdate="20141105T200344Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T200344Z">
         <seg>afbeeldingen/Zwart_punt_Compensatie-en.png</seg>
       </tuv>
     </tu>
@@ -872,7 +936,7 @@
       <tuv lang="EN-US">
         <seg>images/Blend_Modes_Illustration-en.png</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100544Z" creationid="hcremers" creationdate="20141106T100544Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100544Z">
         <seg>afbeeldingen/Vermengings_Modi_Illustratie-en.png</seg>
       </tuv>
     </tu>
@@ -880,7 +944,7 @@
       <tuv lang="EN-US">
         <seg>images/app_icon-32.png</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185507Z" creationid="hcremers" creationdate="20141104T185507Z">
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185507Z">
         <seg>afbeeldingen/app_icon-32.png</seg>
       </tuv>
     </tu>
