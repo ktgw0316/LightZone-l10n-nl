@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Along the top-left of the LightZone browser window is a toolbar containing the set of photo buttons shown below.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212535Z" creationid="hcremers" creationdate="20141213T212535Z">
+        <seg>Linksboven in het LightZone browser venster bevindt zich een gereedschapsbalk met een set van foto knoppen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Average</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101239Z">
