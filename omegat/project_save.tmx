@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on styles...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213324Z" creationid="hcremers" creationdate="20141213T213324Z">
+        <seg>&lt;a1&gt;Meer over stijlen...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A blending mode controls how the effects of tools in the &lt;a1&gt;tool stack&lt;/a1&gt; blend together to form the final photo.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095217Z">
@@ -658,6 +666,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212958Z" creationid="hcremers" creationdate="20141213T212958Z">
         <seg>De &lt;b0&gt;Print&lt;/b0&gt; knop is gelijk aan Bestand &gt; &lt;a1&gt;Print&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Styles&lt;/b0&gt; button allows you to apply a style to the photos of the currently selected thumbnails.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213203Z" creationid="hcremers" creationdate="20141213T213203Z">
+        <seg>De &lt;b0&gt;Stijlen&lt;/b0&gt; knop maakt het mogelijk om een stijl toe te passen op de fotos van de huidge geselecteerde miniaturen.</seg>
       </tuv>
     </tu>
     <tu>
