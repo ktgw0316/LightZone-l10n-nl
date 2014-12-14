@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the tool that you want to make a color/luminosity selection for by clicking its title bar.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100544Z" creationid="hcremers" creationdate="20141214T100544Z">
+        <seg>Kies het gereedschap en klik in de titelbalk waarvoor de kleur/lichtsterkte selectie gemaakt moet worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shadows</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150601Z">
@@ -962,6 +970,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192720Z">
         <seg>Miniaturen.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make a color/luminosity selection:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100416Z" creationid="hcremers" creationdate="20141214T100416Z">
+        <seg>Het maken van een kleur/lichtsterkte selectie:</seg>
       </tuv>
     </tu>
     <tu>
