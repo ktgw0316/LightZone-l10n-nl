@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color/Luminosity selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095422Z" creationid="hcremers" creationdate="20141214T095422Z">
+        <seg>Kleur/Lichtsterkte keuze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Converting.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202923Z">
@@ -382,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Color/Luminosity Selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095302Z" creationid="hcremers" creationdate="20141214T095302Z">
+        <seg>LightZone: Kleur/Lichtsterkte keuze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Editor Anatomy</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194108Z">
@@ -570,6 +586,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T203409Z">
         <seg>Opbouw_principe.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restricting tools' effect to a color/luminosity range.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095401Z" creationid="hcremers" creationdate="20141214T095401Z">
+        <seg>Beperk het effect van een gereedschap tot een kleur/lichtsterkte bereik.</seg>
       </tuv>
     </tu>
     <tu>
