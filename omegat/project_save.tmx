@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, color/luminosity selections have adjustable feathering thus eliminating sharp edges between where a selection is and isn't.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100255Z" creationid="hcremers" creationdate="20141214T100255Z">
+        <seg>Additioneel kunnen scherpe overgangen tussen de selectie en overig gebied worden verdoezeld door instelbare kleur/lichtsterkte verdoezeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along the top-left of the LightZone browser window is a toolbar containing the set of photo buttons shown below.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212535Z" creationid="hcremers" creationdate="20141213T212535Z">
