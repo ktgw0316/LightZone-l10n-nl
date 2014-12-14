@@ -200,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>Color/Luminosity selection</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095422Z" creationid="hcremers" creationdate="20141214T095422Z">
-        <seg>Kleur/Lichtsterkte keuze</seg>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100331Z" creationid="hcremers" creationdate="20141214T095422Z">
+        <seg>Kleur/Lichtsterkte selectie</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +400,8 @@
       <tuv lang="EN-US">
         <seg>LightZone: Color/Luminosity Selection</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095302Z" creationid="hcremers" creationdate="20141214T095302Z">
-        <seg>LightZone: Kleur/Lichtsterkte keuze</seg>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100344Z" creationid="hcremers" creationdate="20141214T095302Z">
+        <seg>LightZone: Kleur/Lichtsterkte selectie</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +992,8 @@
       <tuv lang="EN-US">
         <seg>Using a color/luminosity selection, you can restrict a tool's effect to just a selected hue or luminosity range.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095856Z" creationid="hcremers" creationdate="20141214T095840Z">
-        <seg>Door gebruik te maken van een kleur/lichtsterkte keuze, kan het gereedschapseffect beperkt worden tot een tint of lichtsterkte bereik.</seg>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100305Z" creationid="hcremers" creationdate="20141214T095840Z">
+        <seg>Door gebruik te maken van een kleur/lichtsterkte selectie, kan het gereedschapseffect beperkt worden tot een tint of lichtsterkte bereik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1072,8 +1072,8 @@
       <tuv lang="EN-US">
         <seg>images/Tool_Tab-Color_Selection-en.png</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095607Z" creationid="hcremers" creationdate="20141214T095607Z">
-        <seg>afbeeldingen/Gereedschaps_blad-Kleur_Keuze.png</seg>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100322Z" creationid="hcremers" creationdate="20141214T095607Z">
+        <seg>afbeeldingen/Gereedschaps_blad-Kleur_Selectie.png</seg>
       </tuv>
     </tu>
     <tu>
