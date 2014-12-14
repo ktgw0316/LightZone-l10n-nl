@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;a0&gt;Color Selection tab&lt;/a0&gt; to reveal the color/luminosity selection controls.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T101027Z" creationid="hcremers" creationdate="20141214T101027Z">
+        <seg>Klik op &lt;a0&gt;Kleur selectie blad&lt;/a0&gt; om de de kleur/lichtsterkte selectie besturingselementen te tonen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Burn</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101547Z">
