@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ordinarily, a tool affects your entire photo.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095708Z" creationid="hcremers" creationdate="20141214T095708Z">
+        <seg>Gewoonlijk beinvloedt een gereedschapseffect de gehele foto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output devices (such as printers and computer displays) often have limitations in how black the darkest black they can render is.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210639Z">
@@ -974,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using a color/luminosity selection, you can restrict a tool's effect to just a selected hue or luminosity range.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095856Z" creationid="hcremers" creationdate="20141214T095840Z">
+        <seg>Door gebruik te maken van een kleur/lichtsterkte keuze, kan het gereedschapseffect beperkt worden tot een tint of lichtsterkte bereik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When either &lt;a0&gt;converting&lt;/a0&gt; or &lt;a1&gt;printing&lt;/a1&gt; your photos using application managed colors, you can enable &lt;e2&gt;black point compensation&lt;/e2&gt; when the &lt;a3&gt;rendering intent&lt;/a3&gt; is Relative Colorimetric.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T204940Z">
@@ -1042,6 +1058,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212646Z" creationid="hcremers" creationdate="20141213T212646Z">
         <seg>afbeeldingen/Knoppen-Foto-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool_Tab-Color_Selection-en.png</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095607Z" creationid="hcremers" creationdate="20141214T095607Z">
+        <seg>afbeeldingen/Gereedschaps_blad-Kleur_Keuze.png</seg>
       </tuv>
     </tu>
     <tu>
