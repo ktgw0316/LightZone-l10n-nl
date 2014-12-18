@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To select only by hue, uncheck the Enable luminosity checkbox; to select only by luminosity, uncheck the Enable hue checkbox.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141218T140935Z" creationid="hcremers" creationdate="20141218T140935Z">
+        <seg>Om alleen op basis van de kleurtoon te selecteren, moet het Lichtsterkte selectievakje worden uitgevinkt; om alleen op basis van de lichtsterkte te selecteren, moet het Kleurtoon selectievakje uitgevinkt worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool_Stack.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195003Z">
