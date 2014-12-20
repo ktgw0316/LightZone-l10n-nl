@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are satisfied with the color/luminosity selection, click the eyedropper button again to complete the selection.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T130832Z" creationid="hcremers" creationdate="20141220T130832Z">
+        <seg>Klik de pipet nogmaals om de selectie te voltooien als de kleur/lichtsterkte selectie gereed is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to understand blending modes, there are a few terms to know:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095413Z">
