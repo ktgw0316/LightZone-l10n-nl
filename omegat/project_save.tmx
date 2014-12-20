@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click somewhere on your photo that is either the color or luminosity you want to select.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T124811Z" creationid="hcremers" creationdate="20141220T124811Z">
+        <seg>Klik ergens in de foto om een kleur of lichtsterkte te selecteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;a0&gt;Color Selection tab&lt;/a0&gt; to reveal the color/luminosity selection controls.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T101027Z" creationid="hcremers" creationdate="20141214T101027Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100331Z" creationid="hcremers" creationdate="20141214T095422Z">
         <seg>Kleur/Lichtsterkte selectie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color_Selection_Viewer.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T124701Z" creationid="hcremers" creationdate="20141220T124521Z">
+        <seg>Kleur_Selectie_Viewer.html</seg>
       </tuv>
     </tu>
     <tu>
