@@ -1048,8 +1048,8 @@
       <tuv lang="EN-US">
         <seg>To select all colors except the selected color, click the Invert checkbox.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T130623Z" creationid="hcremers" creationdate="20141220T130623Z">
-        <seg>Om alle kleuren te selecteren, behalve de reeds geselecteerde kleur, klik dan het Negatief vakje.</seg>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T130653Z" creationid="hcremers" creationdate="20141220T130623Z">
+        <seg>Om alle kleuren te selecteren, behalve de reeds geselecteerde kleur, klik dan het Negatief selectievakje.</seg>
       </tuv>
     </tu>
     <tu>
