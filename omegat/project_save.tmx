@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally, adjust the Range slider to increase or decrease the range of hues selected around the color shown by the color swatch.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T125542Z" creationid="hcremers" creationdate="20141220T125542Z">
+        <seg>Optioneel kan de bereikschuif het bereik van de geselecteerde kleurtonen naar boven of beneden bijstellen, op basis van de getoonde kleur in de kleurstalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordinarily, a tool affects your entire photo.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095708Z" creationid="hcremers" creationdate="20141214T095708Z">
