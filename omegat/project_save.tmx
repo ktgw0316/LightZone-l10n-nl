@@ -670,6 +670,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions and masks</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T131216Z" creationid="hcremers" creationdate="20141220T131216Z">
+        <seg>Gebieden en maskers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T131206Z" creationid="hcremers" creationdate="20141220T131206Z">
+        <seg>Gebieden.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rendering_Intent.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T203409Z">
@@ -706,6 +722,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100456Z">
         <seg>Ten tweede, getoond met de rode pijlen, de basis en vermengde kleuren worden samen vermengd, gebruik makend van een vermengings modus om de resultaat kleuren te produceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T130841Z" creationid="hcremers" creationdate="20141220T130841Z">
+        <seg>Zie ook:</seg>
       </tuv>
     </tu>
     <tu>
