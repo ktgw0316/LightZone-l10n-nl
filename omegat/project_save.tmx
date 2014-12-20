@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the image where you would like to create one or more regions.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T134451Z" creationid="hcremers" creationdate="20141220T134451Z">
+        <seg>Klik op de afbeelding waar u een of meerdere gebieden wilt creeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click somewhere on your photo that is either the color or luminosity you want to select.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T124811Z" creationid="hcremers" creationdate="20141220T124811Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102302Z">
         <seg>Verschil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click to finish your region (or shift-click, or press ESC).</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T134652Z" creationid="hcremers" creationdate="20141220T134652Z">
+        <seg>Dubbelklik om het creeren van het gebied te beeindigen (of shift-click, of druk op ESC).</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +538,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191551Z">
         <seg>Beweeg de muis naar een gebied en klik om er meer over te leren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the sliders in the Rotate Tool to rotate your image.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T134725Z" creationid="hcremers" creationdate="20141220T134725Z">
+        <seg>Beweeg de schuiven in het Draaien gereedschap om uw afbeelding te draaien.</seg>
       </tuv>
     </tu>
     <tu>
