@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The color/luminosity selections as well as the &lt;a0&gt;Color Selection Viewer&lt;/a0&gt; will update to reflect the selected color/luminosity.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T125145Z" creationid="hcremers" creationdate="20141220T125145Z">
+        <seg>(Zowel de kleur/lichtsterkte selecties als de &lt;a0&gt;Kleur Selectie Viewer&lt;/a0&gt; tonen de geselecteerde kleur/lichtsterkte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The mouse will change to an eyedropper.)</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141218T140452Z" creationid="hcremers" creationdate="20141218T140452Z">
