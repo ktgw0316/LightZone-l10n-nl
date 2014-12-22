@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Help for LightZone Send</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193809Z" creationid="hcremers" creationdate="20141222T193809Z">
+        <seg>Toon help voor LightZone verzenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soft Burn</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150802Z">
