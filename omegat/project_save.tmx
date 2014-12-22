@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 files to process</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193319Z" creationid="hcremers" creationdate="20141222T193319Z">
+        <seg>$1 bestanden te verwerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Color Burn.)</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102135Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141218T140452Z" creationid="hcremers" creationdate="20141218T140452Z">
         <seg>(De muis aanwijzer verandert in een pipet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 file to process</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193301Z" creationid="hcremers" creationdate="20141222T193301Z">
+        <seg>1 bestand te verwerken</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +362,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102302Z">
         <seg>Verschil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193249Z" creationid="hcremers" creationdate="20141222T193249Z">
+        <seg>Gereed</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,6 +1234,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194827Z">
         <seg>Gereedschap-Wijziging.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown error processing this file</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193240Z" creationid="hcremers" creationdate="20141222T193240Z">
+        <seg>Onbekende fout bij verwerken van dit bestand</seg>
       </tuv>
     </tu>
     <tu>
