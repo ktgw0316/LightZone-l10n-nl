@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Batch Processing</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193005Z" creationid="hcremers" creationdate="20141222T193005Z">
+        <seg>LightZone Batch Verwerking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Acknowledgments</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185419Z">
@@ -1266,6 +1274,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185507Z">
         <seg>afbeeldingen/app_icon-32.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>saved as $1</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193038Z" creationid="hcremers" creationdate="20141222T193038Z">
+        <seg>Opgeslagen als $1</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
