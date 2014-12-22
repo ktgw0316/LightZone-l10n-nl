@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Crop button again to commit.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T192224Z" creationid="hcremers" creationdate="20141222T192224Z">
+        <seg>Klik nogmaals op de Bijsnijden knop om te bevestigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the eyedropper button.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141218T140419Z" creationid="hcremers" creationdate="20141218T140419Z">
@@ -690,6 +698,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213405Z" creationid="hcremers" creationdate="20141213T213405Z">
         <seg>Fotos-verzenden.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick a folder that has some images in it.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T192240Z" creationid="hcremers" creationdate="20141222T192240Z">
+        <seg>Kies een folder met afbeeldingen.</seg>
       </tuv>
     </tu>
     <tu>
