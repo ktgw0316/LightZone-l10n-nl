@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error reading the file</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193130Z" creationid="hcremers" creationdate="20141222T193130Z">
+        <seg>Fout bij bestand lezen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exclusion</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102559Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095413Z">
         <seg>Om vermeningsmodi te begrijpen, zijn er een aantal termen die bekend worden verondersteld:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid image file</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193120Z" creationid="hcremers" creationdate="20141222T193120Z">
+        <seg>Ongeldig afbeeldingsbestand</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +634,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101146Z">
         <seg>Normaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough memory</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193141Z" creationid="hcremers" creationdate="20141222T193141Z">
+        <seg>Niet genoeg geheugen</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +866,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141127T095903Z">
         <seg>Zacht licht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style could not be applied</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193105Z" creationid="hcremers" creationdate="20141222T193105Z">
+        <seg>Stijl kon niet worden toegepast</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,6 +1210,30 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194827Z">
         <seg>Gereedschap-Wijziging.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unrecognized image format</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193156Z" creationid="hcremers" creationdate="20141222T193156Z">
+        <seg>Onbekend afbeeldingsformaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported camera</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193207Z" creationid="hcremers" creationdate="20141222T193207Z">
+        <seg>Niet ondersteunde camera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported color profile</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193219Z" creationid="hcremers" creationdate="20141222T193219Z">
+        <seg>Niet ondersteund kleur profiel</seg>
       </tuv>
     </tu>
     <tu>
