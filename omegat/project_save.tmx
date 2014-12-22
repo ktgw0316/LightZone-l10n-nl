@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T192651Z" creationid="hcremers" creationdate="20141222T192651Z">
+        <seg>Annuleren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T134451Z" creationid="hcremers" creationdate="20141220T134451Z">
