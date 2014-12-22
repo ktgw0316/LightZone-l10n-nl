@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output Size:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193735Z" creationid="hcremers" creationdate="20141222T193735Z">
+        <seg>Uitvoer grootte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output devices (such as printers and computer displays) often have limitations in how black the darkest black they can render is.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210639Z">
@@ -926,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193717Z" creationid="hcremers" creationdate="20141222T193717Z">
+        <seg>Verzenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send $1 images from $2</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193641Z" creationid="hcremers" creationdate="20141222T193641Z">
@@ -938,6 +954,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193619Z" creationid="hcremers" creationdate="20141222T193619Z">
         <seg>verzend 1 afbeelding van $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send To Folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193742Z" creationid="hcremers" creationdate="20141222T193742Z">
+        <seg>Verzend naar Folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1290,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192720Z">
         <seg>Miniaturen.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Folder:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193724Z" creationid="hcremers" creationdate="20141222T193724Z">
+        <seg>Naar Folder:</seg>
       </tuv>
     </tu>
     <tu>
