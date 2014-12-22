@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 of $2 files processed, $3 seconds remaining</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193426Z" creationid="hcremers" creationdate="20141222T193426Z">
+        <seg>$1 van $2 bestanden verwerkt, $3 seconden te gaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Color Burn.)</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102135Z">
