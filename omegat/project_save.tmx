@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't find a Style named "$1"</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132606Z" creationid="hcremers" creationdate="20141223T132606Z">
+        <seg>Kan stijl met naam "$1" niet vinden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't find the original image</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131304Z" creationid="hcremers" creationdate="20141223T131304Z">
@@ -354,6 +362,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132350Z" creationid="hcremers" creationdate="20141223T132350Z">
         <seg>Kon stijl niet van importeren "$1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't save this Style</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132540Z" creationid="hcremers" creationdate="20141223T132540Z">
+        <seg>Kon deze stijl niet opslaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132455Z" creationid="hcremers" creationdate="20141223T132455Z">
+        <seg>Vervangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restricting tools' effect to a color/luminosity range.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095401Z" creationid="hcremers" creationdate="20141214T095401Z">
@@ -1482,6 +1506,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101142Z">
         <seg>Hoewel een beschrijving van elke modus hieronder volgt, is het aan te raden te experimenteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to replace it?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132448Z" creationid="hcremers" creationdate="20141223T132448Z">
+        <seg>Wilt u het vervangen?</seg>
       </tuv>
     </tu>
     <tu>
