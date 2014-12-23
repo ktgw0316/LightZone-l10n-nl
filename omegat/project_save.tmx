@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converting...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133541Z" creationid="hcremers" creationdate="20141223T133541Z">
+        <seg>Converteren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Converting.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202923Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132641Z" creationid="hcremers" creationdate="20141223T132641Z">
         <seg>Geen toegang tot stijl "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't convert $1</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133554Z" creationid="hcremers" creationdate="20141223T133554Z">
+        <seg>Kon $1 niet converteren</seg>
       </tuv>
     </tu>
     <tu>
