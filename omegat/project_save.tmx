@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scanning Color Profiles</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T152010Z" creationid="hcremers" creationdate="20141223T152010Z">
+        <seg>Scannen van kleur profielen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150341Z">
