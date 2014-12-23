@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't access the "$1" Style</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132641Z" creationid="hcremers" creationdate="20141223T132641Z">
+        <seg>Geen toegang tot stijl "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't find a Style named "$1"</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132606Z" creationid="hcremers" creationdate="20141223T132606Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132350Z" creationid="hcremers" creationdate="20141223T132350Z">
         <seg>Kon stijl niet van importeren "$1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't interpret the file "$1" as a Style</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132723Z" creationid="hcremers" creationdate="20141223T132723Z">
+        <seg>Kon bestand "$1" niet als een stijl interpreteren</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +482,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194406Z">
         <seg>Editor anatomie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error applying Style "$1"</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132734Z" creationid="hcremers" creationdate="20141223T132734Z">
+        <seg>Fout bij toepassen stijl "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +698,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202612Z">
         <seg>Lichter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132743Z" creationid="hcremers" creationdate="20141223T132743Z">
+        <seg>Laden...</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,6 +1010,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193532Z" creationid="hcremers" creationdate="20141222T193532Z">
         <seg>Opslaan naar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132750Z" creationid="hcremers" creationdate="20141223T132750Z">
+        <seg>Opslaan...</seg>
       </tuv>
     </tu>
     <tu>
