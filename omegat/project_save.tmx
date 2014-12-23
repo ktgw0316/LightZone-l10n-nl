@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't save to $1</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132808Z" creationid="hcremers" creationdate="20141223T132808Z">
+        <seg>Kan niet opslaan naar $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creates an effect similar to, but lower in contrast than, the Difference blending mode.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T195234Z">
