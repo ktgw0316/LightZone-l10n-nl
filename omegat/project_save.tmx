@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to quit LightZone?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133937Z" creationid="hcremers" creationdate="20141223T133937Z">
+        <seg>Weet u zeker dat u LightZone wilt sluiten?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Average</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101239Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102302Z">
         <seg>Verschil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't Save</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133919Z" creationid="hcremers" creationdate="20141223T133919Z">
+        <seg>Niet opslaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133942Z" creationid="hcremers" creationdate="20141223T133942Z">
+        <seg>Sluiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions and masks</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T131216Z" creationid="hcremers" creationdate="20141220T131216Z">
@@ -1074,6 +1098,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095640Z">
         <seg>Resultaat kleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133907Z" creationid="hcremers" creationdate="20141223T133907Z">
+        <seg>Opslaan</seg>
       </tuv>
     </tu>
     <tu>
