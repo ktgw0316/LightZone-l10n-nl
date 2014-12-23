@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't find the original image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131304Z" creationid="hcremers" creationdate="20141223T131304Z">
+        <seg>Kon originele afbeelding te vinden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creates an effect similar to, but lower in contrast than, the Difference blending mode.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T195234Z">
