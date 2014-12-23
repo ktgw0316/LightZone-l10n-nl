@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't ask again</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T135508Z" creationid="hcremers" creationdate="20141223T135508Z">
+        <seg>Niet meer vragenDon't ask again</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Done</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193249Z" creationid="hcremers" creationdate="20141222T193249Z">
