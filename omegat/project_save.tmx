@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initializing Engine Utilities</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T153606Z" creationid="hcremers" creationdate="20141223T153606Z">
+        <seg>Initialiseren hulpprogramma's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insufficient memory to open this file</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131426Z" creationid="hcremers" creationdate="20141223T131426Z">
