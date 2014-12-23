@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import as Style</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131712Z" creationid="hcremers" creationdate="20141223T131712Z">
+        <seg>Importeren als stijl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to understand blending modes, there are a few terms to know:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095413Z">
@@ -746,6 +754,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202122Z">
         <seg>Aan de andere kant wordt het helderheid van uw foto samengedrukt om binnen het helderheidsbereik van het uitvoeraparaat te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Normally</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131726Z" creationid="hcremers" creationdate="20141223T131726Z">
+        <seg>Normaal openen</seg>
       </tuv>
     </tu>
     <tu>
