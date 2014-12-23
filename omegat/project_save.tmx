@@ -382,6 +382,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't manage to save directly.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132830Z" creationid="hcremers" creationdate="20141223T132830Z">
+        <seg>Kon niet direct opslaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't print</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132853Z" creationid="hcremers" creationdate="20141223T132853Z">
+        <seg>Kon niet afdrukken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't save this Style</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132540Z" creationid="hcremers" creationdate="20141223T132540Z">
@@ -946,6 +962,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T192240Z" creationid="hcremers" creationdate="20141222T192240Z">
         <seg>Kies een folder met afbeeldingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132836Z" creationid="hcremers" creationdate="20141223T132836Z">
+        <seg>Afdrukken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132842Z" creationid="hcremers" creationdate="20141223T132842Z">
+        <seg>Afdrukken...</seg>
       </tuv>
     </tu>
     <tu>
