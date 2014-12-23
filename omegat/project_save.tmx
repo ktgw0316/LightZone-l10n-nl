@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Style named "$1" already exists.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132418Z" creationid="hcremers" creationdate="20141223T132418Z">
+        <seg>Er bestaat al een stijl met de naam "$1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A blending mode controls how the effects of tools in the &lt;a1&gt;tool stack&lt;/a1&gt; blend together to form the final photo.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095217Z">
@@ -338,6 +346,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131304Z" creationid="hcremers" creationdate="20141223T131304Z">
         <seg>Kon originele afbeelding te vinden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't import a Style from "$1".</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132350Z" creationid="hcremers" creationdate="20141223T132350Z">
+        <seg>Kon stijl niet van importeren "$1".</seg>
       </tuv>
     </tu>
     <tu>
