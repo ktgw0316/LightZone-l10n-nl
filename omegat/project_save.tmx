@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you don't save, your changes will be lost.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133859Z" creationid="hcremers" creationdate="20141223T133859Z">
+        <seg>Als u de wijzigingen niet opslaat, gaan ze verloren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import as Style</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131712Z" creationid="hcremers" creationdate="20141223T131712Z">
