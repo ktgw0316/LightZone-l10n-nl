@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restoring Preferences</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T152351Z" creationid="hcremers" creationdate="20141223T152351Z">
+        <seg>Herstellen van voorkeuren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restricting tools' effect to a color/luminosity range.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095401Z" creationid="hcremers" creationdate="20141214T095401Z">
@@ -1154,6 +1162,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T152010Z" creationid="hcremers" creationdate="20141223T152010Z">
         <seg>Scannen van kleur profielen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning Saved Documents</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T152447Z" creationid="hcremers" creationdate="20141223T152447Z">
+        <seg>Scannen opgeslagen documenten</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1282,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141127T095903Z">
         <seg>Zacht licht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting Logging</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T152414Z" creationid="hcremers" creationdate="20141223T152414Z">
+        <seg>Start Log vastleggen</seg>
       </tuv>
     </tu>
     <tu>
