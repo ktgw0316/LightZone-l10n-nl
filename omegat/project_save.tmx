@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't delete an older version of "$1"</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133620Z" creationid="hcremers" creationdate="20141223T133620Z">
+        <seg>Kon een oudere versie van "$1" niet verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't find a Style named "$1"</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132606Z" creationid="hcremers" creationdate="20141223T132606Z">
@@ -410,6 +418,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132853Z" creationid="hcremers" creationdate="20141223T132853Z">
         <seg>Kon niet afdrukken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't rename "$1" to "$2"</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133638Z" creationid="hcremers" creationdate="20141223T133638Z">
+        <seg>Kon "$1" niet hernoemen tot "$2"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1082,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193532Z" creationid="hcremers" creationdate="20141222T193532Z">
         <seg>Opslaan naar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save changes to this document before closing?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133835Z" creationid="hcremers" creationdate="20141223T133835Z">
+        <seg>Wijzigingen opslaan voordat dit document gesloten wordt?</seg>
       </tuv>
     </tu>
     <tu>
