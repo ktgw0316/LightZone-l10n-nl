@@ -526,10 +526,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insufficient memory to open this file</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131426Z" creationid="hcremers" creationdate="20141223T131426Z">
+        <seg>Onvoldoende geheugen om dit bestand te openen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid image file</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193120Z" creationid="hcremers" creationdate="20141222T193120Z">
         <seg>Ongeldig afbeeldingsbestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is this a LightZone Style file?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131510Z" creationid="hcremers" creationdate="20141223T131510Z">
+        <seg>Is dit een LightZone Stijl bestand?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1374,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown error opening this file</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131446Z" creationid="hcremers" creationdate="20141223T131446Z">
+        <seg>Onbekende fout bij openen bestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown error processing this file</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193240Z" creationid="hcremers" creationdate="20141222T193240Z">
@@ -1426,6 +1450,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101142Z">
         <seg>Hoewel een beschrijving van elke modus hieronder volgt, is het aan te raden te experimenteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can go ahead and open this file, or you can try to import it as a LightZone Style.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131653Z" creationid="hcremers" creationdate="20141223T131653Z">
+        <seg>U kunt dit bestand openen of proberen het als Lightzone stijl bestand te importeren.</seg>
       </tuv>
     </tu>
     <tu>
