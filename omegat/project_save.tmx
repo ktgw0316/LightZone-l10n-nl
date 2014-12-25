@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error initializing browser</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204126Z" creationid="hcremers" creationdate="20141225T204126Z">
+        <seg>Fout bij initialiseren browser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error reading the file</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193130Z" creationid="hcremers" creationdate="20141222T193130Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102559Z">
         <seg>Uitsluiting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to restore from preferences</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204104Z" creationid="hcremers" creationdate="20141225T204104Z">
+        <seg>Kon voorkeuren niet herstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,6 +1202,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132750Z" creationid="hcremers" creationdate="20141223T132750Z">
         <seg>Opslaan...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning $1...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204112Z" creationid="hcremers" creationdate="20141225T204112Z">
+        <seg>Scannen $1...</seg>
       </tuv>
     </tu>
     <tu>
