@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 images selected</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205005Z" creationid="hcremers" creationdate="20141225T205005Z">
+        <seg>$1 afbeeldingen geselecteerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 of $2 files processed, $3 seconds remaining</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193426Z" creationid="hcremers" creationdate="20141222T193426Z">
@@ -1218,6 +1226,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193532Z" creationid="hcremers" creationdate="20141222T193532Z">
         <seg>Opslaan naar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save changes to $1?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205019Z" creationid="hcremers" creationdate="20141225T205019Z">
+        <seg>Wijzigingen opslaan naar $1?</seg>
       </tuv>
     </tu>
     <tu>
