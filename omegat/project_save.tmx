@@ -1878,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can turn it off in the LightZone Preferences.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205457Z" creationid="hcremers" creationdate="20141225T205457Z">
+        <seg>Dit kan worden uitgeschakeld in de LightZone voorkeuren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ZoneFinder.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194810Z">
