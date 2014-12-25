@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The LightZone file, "$1" can't locate its image file, "$2".</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205741Z" creationid="hcremers" creationdate="20141225T205741Z">
+        <seg>Het LightZone bestand "$1" kan z'n afbeeldingsbestand "$2" niet vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The RGB color space can represent all luminosities from 100% white to 100% black.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T210225Z">
