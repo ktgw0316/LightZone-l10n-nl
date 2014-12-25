@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is one of these the right image?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205849Z" creationid="hcremers" creationdate="20141225T205849Z">
+        <seg>Is een van deze de juiste afbeelding?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is this a LightZone Style file?</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131510Z" creationid="hcremers" creationdate="20141223T131510Z">
