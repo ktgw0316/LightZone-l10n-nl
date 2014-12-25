@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to save preferences</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204011Z" creationid="hcremers" creationdate="20141225T204011Z">
+        <seg>Kon voorkeuren niet opslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, as shown by the green arrows, the base colors of a photo have a tool's effect applied to them producing the blend colors.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100250Z">
