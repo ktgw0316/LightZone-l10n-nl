@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105320Z" creationid="hcremers" creationdate="20141226T105320Z">
+        <seg>Toevoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, color/luminosity selections have adjustable feathering thus eliminating sharp edges between where a selection is and isn't.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100255Z" creationid="hcremers" creationdate="20141214T100255Z">
@@ -338,6 +346,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102115Z">
         <seg>Maakt de basis kleur lichter om de vermengings kleur weer te geven door het contrast te verminderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bring All to Front</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105309Z" creationid="hcremers" creationdate="20141226T105309Z">
+        <seg>Alles naar voren brengen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,6 +1478,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105351Z" creationid="hcremers" creationdate="20141226T105351Z">
+        <seg>Geen afbeelding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Open Windows</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105315Z" creationid="hcremers" creationdate="20141226T105315Z">
+        <seg>Geen open vensters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Recent Files</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104538Z" creationid="hcremers" creationdate="20141226T104538Z">
@@ -1826,6 +1858,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103241Z" creationid="hcremers" creationdate="20141226T103241Z">
         <seg>Herhalen laatste stap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105356Z" creationid="hcremers" creationdate="20141226T105356Z">
+        <seg>Gebieden</seg>
       </tuv>
     </tu>
     <tu>
@@ -2238,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Proof Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105346Z" creationid="hcremers" creationdate="20141226T105346Z">
+        <seg>Toon proefdruk gereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Regions</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104325Z" creationid="hcremers" creationdate="20141226T104325Z">
@@ -2274,6 +2322,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101528Z" creationid="hcremers" creationdate="20141226T101528Z">
         <seg>Tonen/Verbergen geschiedenis paneel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide Regions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105406Z" creationid="hcremers" creationdate="20141226T105406Z">
+        <seg>Toon/Verberg gebieden</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +3010,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194810Z">
         <seg>ZoneVinder.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105258Z" creationid="hcremers" creationdate="20141226T105258Z">
+        <seg>Zoomen</seg>
       </tuv>
     </tu>
     <tu>
