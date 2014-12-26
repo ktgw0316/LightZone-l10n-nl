@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Style to the selected image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102720Z" creationid="hcremers" creationdate="20141226T102720Z">
+        <seg>Pas geselecteerde stijl toe op afbeelding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to quit LightZone?</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133937Z" creationid="hcremers" creationdate="20141223T133937Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101604Z" creationid="hcremers" creationdate="20141226T101604Z">
         <seg>Wijzig modus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit the selected image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102704Z" creationid="hcremers" creationdate="20141226T102704Z">
+        <seg>Wijzig geselecteerde afbeelding</seg>
       </tuv>
     </tu>
     <tu>
