@@ -1310,6 +1310,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205404Z" creationid="hcremers" creationdate="20141226T205404Z">
+        <seg>Bestandsnaam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Type</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205409Z" creationid="hcremers" creationdate="20141226T205409Z">
+        <seg>Bestandstype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find $1</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090627Z" creationid="hcremers" creationdate="20141226T090627Z">
