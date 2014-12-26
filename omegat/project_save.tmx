@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The previews will be recomputed automatically.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111958Z" creationid="hcremers" creationdate="20141226T111958Z">
+        <seg>(De voorbeelden worden (later) opnieuw automatisch gecreeerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 file to process</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193301Z" creationid="hcremers" creationdate="20141222T193301Z">
@@ -3354,6 +3362,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205457Z" creationid="hcremers" creationdate="20141225T205457Z">
         <seg>Dit kan worden uitgeschakeld in de LightZone voorkeuren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may have to restore orientations manually using the browser's rotate buttons.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112042Z" creationid="hcremers" creationdate="20141226T112042Z">
+        <seg>Mogelijk moet u de orientaties handmatig opnieuw instellen met de knoppen in de browser).</seg>
       </tuv>
     </tu>
     <tu>
