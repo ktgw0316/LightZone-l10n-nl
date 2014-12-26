@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone failed to start last time.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091327Z" creationid="hcremers" creationdate="20141226T091327Z">
+        <seg>LightZone kon vorige keer niet starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone has encountered an internal error.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090700Z" creationid="hcremers" creationdate="20141226T090700Z">
@@ -1306,6 +1314,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132455Z" creationid="hcremers" creationdate="20141223T132455Z">
         <seg>Vervangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resetting your LightZone Settings may fix this.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091406Z" creationid="hcremers" creationdate="20141226T091406Z">
+        <seg>Terugzetten van de LightZone instellingen zou dit kunnen oplossen.</seg>
       </tuv>
     </tu>
     <tu>
