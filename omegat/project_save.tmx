@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check here to show the Video Learning Center window when LightZone starts.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111404Z" creationid="hcremers" creationdate="20141226T111404Z">
+        <seg>Hier aanvinken om het video leercentrum te tonen als LightZone start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checking for update...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100734Z" creationid="hcremers" creationdate="20141226T100734Z">
@@ -2538,6 +2546,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104325Z" creationid="hcremers" creationdate="20141226T104325Z">
         <seg>Toon gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Video Learning Center</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111328Z" creationid="hcremers" creationdate="20141226T111328Z">
+        <seg>Toon video leercentrum</seg>
       </tuv>
     </tu>
     <tu>
