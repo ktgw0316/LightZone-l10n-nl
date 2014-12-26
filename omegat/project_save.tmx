@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Style</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104743Z" creationid="hcremers" creationdate="20141226T104743Z">
+        <seg>Stijl toepassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Style to the selected image</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102720Z" creationid="hcremers" creationdate="20141226T102720Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141218T140419Z" creationid="hcremers" creationdate="20141218T140419Z">
         <seg>Klik op de pipet knop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close Image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104805Z" creationid="hcremers" creationdate="20141226T104805Z">
+        <seg>Sluit afbeelding</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage Styles...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104757Z" creationid="hcremers" creationdate="20141226T104757Z">
+        <seg>Stijlen beheren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metadata.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192731Z">
@@ -1402,6 +1426,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104701Z" creationid="hcremers" creationdate="20141226T104701Z">
         <seg>Geen recent geopende folders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Styles</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104749Z" creationid="hcremers" creationdate="20141226T104749Z">
+        <seg>Geen stijlen</seg>
       </tuv>
     </tu>
     <tu>
