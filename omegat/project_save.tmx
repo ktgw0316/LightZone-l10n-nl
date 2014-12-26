@@ -2574,6 +2574,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate 90 degrees clockwise</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T203235Z" creationid="hcremers" creationdate="20141226T203235Z">
+        <seg>Draaien 90 graden rechtsom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate 90 degrees counter-clockwise</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T203218Z" creationid="hcremers" creationdate="20141226T203139Z">
+        <seg>Draaien 90 graden linksom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate Left</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110151Z" creationid="hcremers" creationdate="20141226T110151Z">
