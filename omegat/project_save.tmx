@@ -3198,6 +3198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then select an image in the browser, and click the button next to the copyright field in the browser's metadata area to write this copyright text to an image file.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T170605Z" creationid="hcremers" creationdate="20141226T170605Z">
+        <seg>Selecteer daarna een afbeelding in de browser en klik op de knop naast het copyright veld in het metadata gebied van de browser om deze copyright tekst aan een afbeelding toe te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are many blending modes to choose from.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100654Z">
