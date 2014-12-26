@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;Exit without saving files&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090958Z" creationid="hcremers" creationdate="20141226T090958Z">
+        <seg>&lt;html&gt;Sluiten zonder bestanden opslaan&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Save all files and exit  &lt;b&gt;(Recommended)&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090839Z" creationid="hcremers" creationdate="20141226T090839Z">
@@ -614,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error Details</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091026Z" creationid="hcremers" creationdate="20141226T091026Z">
+        <seg>Fout details</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error applying Style "$1"</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132734Z" creationid="hcremers" creationdate="20141223T132734Z">
@@ -770,6 +786,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131426Z" creationid="hcremers" creationdate="20141223T131426Z">
         <seg>Onvoldoende geheugen om dit bestand te openen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal Error</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091015Z" creationid="hcremers" creationdate="20141226T091015Z">
+        <seg>Interne fout</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1018,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195105Z">
         <seg>Vermenigvuldigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091043Z" creationid="hcremers" creationdate="20141226T091043Z">
+        <seg>Naam</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,6 +1986,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T151259Z" creationid="hcremers" creationdate="20141223T151259Z">
         <seg>Verifieren bibliotheken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Versions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091035Z" creationid="hcremers" creationdate="20141226T091035Z">
+        <seg>Versies</seg>
       </tuv>
     </tu>
     <tu>
