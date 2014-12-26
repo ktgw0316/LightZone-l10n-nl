@@ -2854,10 +2854,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Tool Titles</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T165933Z" creationid="hcremers" creationdate="20141226T165933Z">
+        <seg>Toon gereedschapstitels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Video Learning Center</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111328Z" creationid="hcremers" creationdate="20141226T111328Z">
         <seg>Toon video leercentrum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show and hide the titled borders around buttons in the LightZone toolbars.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T170027Z" creationid="hcremers" creationdate="20141226T170027Z">
+        <seg>Toon en verberg de randen met titels rond de knoppen in de LightZone gereedschapsbalken.</seg>
       </tuv>
     </tu>
     <tu>
