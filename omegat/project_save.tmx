@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse image stacks</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103059Z" creationid="hcremers" creationdate="20141226T103059Z">
+        <seg>Inklappen afbeeldingsstapels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Burn</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101547Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102559Z">
         <seg>Uitsluiting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand image stacks</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103220Z" creationid="hcremers" creationdate="20141226T103220Z">
+        <seg>Uitklappen afbeeldingsstapels</seg>
       </tuv>
     </tu>
     <tu>
