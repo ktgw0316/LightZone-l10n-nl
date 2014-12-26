@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't Reset</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T093945Z" creationid="hcremers" creationdate="20141226T093945Z">
+        <seg>Niet terugzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't Save</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133919Z" creationid="hcremers" creationdate="20141223T133919Z">
@@ -1322,6 +1330,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132455Z" creationid="hcremers" creationdate="20141223T132455Z">
         <seg>Vervangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T093934Z" creationid="hcremers" creationdate="20141226T093934Z">
+        <seg>Terugzetten</seg>
       </tuv>
     </tu>
     <tu>
