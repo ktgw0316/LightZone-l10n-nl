@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick a new color profile for this display</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112759Z" creationid="hcremers" creationdate="20141226T112759Z">
+        <seg>Kies een nieuw kleur profiel voor uw beeldscherm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please connect, then try again.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101133Z" creationid="hcremers" creationdate="20141226T101133Z">
@@ -2266,6 +2274,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100137Z" creationid="hcremers" creationdate="20141226T100137Z">
         <seg>Herstellen LightZone instellingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112817Z" creationid="hcremers" creationdate="20141226T112817Z">
+        <seg>Terugzetten...</seg>
       </tuv>
     </tu>
     <tu>
