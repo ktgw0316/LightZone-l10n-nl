@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new version ($1) of $2 is available.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101225Z" creationid="hcremers" creationdate="20141226T101225Z">
+        <seg>Een nieuwe versie ($1) van $2 is beschibaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acknowledgments</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185519Z">
@@ -1198,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No update is available.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101145Z" creationid="hcremers" creationdate="20141226T101145Z">
+        <seg>Geen update beschikbaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100546Z" creationid="hcremers" creationdate="20141226T100546Z">
@@ -1366,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please connect, then try again.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101133Z" creationid="hcremers" creationdate="20141226T101133Z">
+        <seg>A.u.b. verbinden, daarna opnieuw proberen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previewing...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204247Z" creationid="hcremers" creationdate="20141225T204247Z">
@@ -1434,6 +1458,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T131206Z" creationid="hcremers" creationdate="20141220T131206Z">
         <seg>Gebieden.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remind me later</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101200Z" creationid="hcremers" creationdate="20141226T101200Z">
+        <seg>Later herinneren</seg>
       </tuv>
     </tu>
     <tu>
