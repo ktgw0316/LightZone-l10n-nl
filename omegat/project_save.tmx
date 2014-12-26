@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browser Cache</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111417Z" creationid="hcremers" creationdate="20141226T111417Z">
+        <seg>Browser gehuegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browser Layout</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110415Z" creationid="hcremers" creationdate="20141226T110415Z">
@@ -1142,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111428Z" creationid="hcremers" creationdate="20141226T111428Z">
+        <seg>Globaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Greens</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110839Z" creationid="hcremers" creationdate="20141226T110839Z">
@@ -1514,6 +1530,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132743Z" creationid="hcremers" creationdate="20141223T132743Z">
         <seg>Laden...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111424Z" creationid="hcremers" creationdate="20141226T111424Z">
+        <seg>Lokaal</seg>
       </tuv>
     </tu>
     <tu>
