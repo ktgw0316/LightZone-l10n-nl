@@ -318,6 +318,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101546Z" creationid="hcremers" creationdate="20141226T101546Z">
+        <seg>Bladeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Mode</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101557Z" creationid="hcremers" creationdate="20141226T101557Z">
+        <seg>Blader modus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browser anatomy</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190752Z">
@@ -450,6 +466,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202923Z">
         <seg>Verwerken.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy the selected image to another folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101636Z" creationid="hcremers" creationdate="20141226T101636Z">
+        <seg>Kopieer de geselecteerde afbeelding naar een andere folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +730,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T192055Z" creationid="hcremers" creationdate="20141222T192055Z">
         <seg>Sleep een vierkant in de afbeelding om die bij te snijden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101551Z" creationid="hcremers" creationdate="20141226T101551Z">
+        <seg>Wijzigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Mode</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101604Z" creationid="hcremers" creationdate="20141226T101604Z">
+        <seg>Wijzig modus</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1818,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193809Z" creationid="hcremers" creationdate="20141222T193809Z">
         <seg>Toon help voor LightZone verzenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show LightZone Help</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101617Z" creationid="hcremers" creationdate="20141226T101617Z">
+        <seg>Toon LightZone help</seg>
       </tuv>
     </tu>
     <tu>
