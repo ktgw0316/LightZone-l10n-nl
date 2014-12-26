@@ -446,6 +446,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102300Z" creationid="hcremers" creationdate="20141226T102300Z">
+        <seg>Converteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert the selected image to a new image type</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102518Z" creationid="hcremers" creationdate="20141226T102518Z">
+        <seg>Geselecteerde afbeelding converteren naar nieuw afbeeldingstype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204256Z" creationid="hcremers" creationdate="20141225T204256Z">
@@ -1294,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102522Z" creationid="hcremers" creationdate="20141226T102522Z">
+        <seg>Openen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Normally</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131726Z" creationid="hcremers" creationdate="20141223T131726Z">
@@ -1306,6 +1330,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204316Z" creationid="hcremers" creationdate="20141225T204316Z">
         <seg>Afbeelding openen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open image from dialog</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102612Z" creationid="hcremers" creationdate="20141226T102612Z">
+        <seg>Afbeelding openen in dialoogvenster</seg>
       </tuv>
     </tu>
     <tu>
@@ -1450,6 +1482,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132836Z" creationid="hcremers" creationdate="20141223T132836Z">
         <seg>Afdrukken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print the selected image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102236Z" creationid="hcremers" creationdate="20141226T102236Z">
+        <seg>Afdrukken van geselecteerde afbeelding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print this image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102254Z" creationid="hcremers" creationdate="20141226T102254Z">
+        <seg>Deze afbeelding afdrukken</seg>
       </tuv>
     </tu>
     <tu>
