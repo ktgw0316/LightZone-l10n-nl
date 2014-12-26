@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091223Z" creationid="hcremers" creationdate="20141226T091223Z">
+        <seg>Aangepast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Darken</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102156Z">
@@ -1358,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save Style</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091239Z" creationid="hcremers" creationdate="20141226T091239Z">
+        <seg>Stijl opslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save To:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193532Z" creationid="hcremers" creationdate="20141222T193532Z">
@@ -1562,6 +1578,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T152414Z" creationid="hcremers" creationdate="20141223T152414Z">
         <seg>Start Log vastleggen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style Number $1</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091230Z" creationid="hcremers" creationdate="20141226T091230Z">
+        <seg>Stijl nummer $1</seg>
       </tuv>
     </tu>
     <tu>
