@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check for Update</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112207Z" creationid="hcremers" creationdate="20141226T112207Z">
+        <seg>Update controleren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check for Update...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110523Z" creationid="hcremers" creationdate="20141226T110523Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193507Z" creationid="hcremers" creationdate="20141222T193507Z">
         <seg>Kies...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112117Z" creationid="hcremers" creationdate="20141226T112117Z">
+        <seg>Opschonen</seg>
       </tuv>
     </tu>
     <tu>
@@ -730,6 +746,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132641Z" creationid="hcremers" creationdate="20141223T132641Z">
         <seg>Geen toegang tot stijl "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't clear the global browser cache.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112141Z" creationid="hcremers" creationdate="20141226T112141Z">
+        <seg>Kan globaal browser geheugen niet opschonen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +970,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103455Z" creationid="hcremers" creationdate="20141226T103455Z">
         <seg>Negeer wijzigingen op deze afbeelding en start opnieuw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display Color Profile</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112345Z" creationid="hcremers" creationdate="20141226T112345Z">
+        <seg>Toon kleur profiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -3298,6 +3330,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T204940Z">
         <seg>Om &lt;e2&gt;zwartpunt compensatie&lt;/e2&gt; te gebruiken bij het &lt;a0&gt;verwerken&lt;/a0&gt; of &lt;a1&gt;printen&lt;/a1&gt; van uw foto's als u gebruik maakt van applicatie beheerde kleuren, kiest u &lt;a3&gt;opbouw principe&lt;/a3&gt; Relatief Colorimetrisch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When launched, LightZone can automatically check if a newer version is available for download.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112333Z" creationid="hcremers" creationdate="20141226T112333Z">
+        <seg>Lightzone kan tijdens het starten automatisch controleren of een nieuwe versie beschikbaar is.</seg>
       </tuv>
     </tu>
     <tu>
