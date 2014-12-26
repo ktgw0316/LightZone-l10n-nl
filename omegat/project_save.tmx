@@ -1814,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permission denied</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110659Z" creationid="hcremers" creationdate="20141226T110659Z">
+        <seg>Toegang geweigerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Photo buttons overview</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T211715Z" creationid="hcremers" creationdate="20141213T211715Z">
