@@ -1998,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Original Folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T153759Z" creationid="hcremers" creationdate="20141226T153759Z">
+        <seg>Originele folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output Size:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193735Z" creationid="hcremers" creationdate="20141222T193735Z">
@@ -2218,6 +2226,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105206Z" creationid="hcremers" creationdate="20141226T105206Z">
         <seg>Waardering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recent Folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T153807Z" creationid="hcremers" creationdate="20141226T153807Z">
+        <seg>Recente folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -3498,6 +3514,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112333Z" creationid="hcremers" creationdate="20141226T112333Z">
         <seg>Lightzone kan tijdens het starten automatisch controleren of een nieuwe versie beschikbaar is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When saving your photo for the first time, the file chooser can automatically display the folder where your original photo came from, or it can display the last folder where LightZone saved something.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T153742Z" creationid="hcremers" creationdate="20141226T153742Z">
+        <seg>Bij het voor de eerste keer opslaan van de foto kan de bestandskiezer automatisch de folder waar de originele fot vandaan kwam tonen, of de laatste folder waar door Lightzone iets werd opgeslagen.</seg>
       </tuv>
     </tu>
     <tu>
