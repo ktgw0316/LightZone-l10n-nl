@@ -2582,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the color profile of your display device.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112424Z" creationid="hcremers" creationdate="20141226T112424Z">
+        <seg>Stel het kleur profiel van uw beeldcherm in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shadows</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150601Z">
