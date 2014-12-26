@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the Time</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T165133Z" creationid="hcremers" creationdate="20141226T165011Z">
+        <seg>Onmiddelijk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along the top-left of the LightZone browser window is a toolbar containing the set of photo buttons shown below.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212535Z" creationid="hcremers" creationdate="20141213T212535Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193517Z" creationid="hcremers" creationdate="20141222T193517Z">
         <seg>Batch Uitvoer Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Between Region Changes</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T165109Z" creationid="hcremers" creationdate="20141226T165109Z">
+        <seg>Tussen gebiedswijzigingen</seg>
       </tuv>
     </tu>
     <tu>
@@ -3538,6 +3554,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090708Z" creationid="hcremers" creationdate="20141226T090708Z">
         <seg>Wat wilt u doen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When Regions are Done</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T165123Z" creationid="hcremers" creationdate="20141226T165123Z">
+        <seg>Als gebieden klaar zijn</seg>
       </tuv>
     </tu>
     <tu>
