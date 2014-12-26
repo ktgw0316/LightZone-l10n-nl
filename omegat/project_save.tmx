@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings remember what was going on the last time you used LightZone: your recently used files and folders; recent window positions and sizes; and so on.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T113309Z" creationid="hcremers" creationdate="20141226T113309Z">
+        <seg>LightZone onthoudt instellingen zoals die waren ingesteld de laatste keer dat u LightZone gebruikte: recent gebruikte bestanden en folders, recente venster posities en afmetingen, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Settings were successfully reset.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100240Z" creationid="hcremers" creationdate="20141226T100240Z">
