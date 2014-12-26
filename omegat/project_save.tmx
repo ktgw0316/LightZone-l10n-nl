@@ -542,6 +542,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear cache</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111717Z" creationid="hcremers" creationdate="20141226T111717Z">
+        <seg>Opschonen geheugen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111707Z" creationid="hcremers" creationdate="20141226T111707Z">
+        <seg>Opschonen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T134451Z" creationid="hcremers" creationdate="20141220T134451Z">
