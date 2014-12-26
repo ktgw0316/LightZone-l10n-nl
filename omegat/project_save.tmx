@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert Image...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104828Z" creationid="hcremers" creationdate="20141226T104828Z">
+        <seg>Converteren afbeelding...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert the selected image to a new image type</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102518Z" creationid="hcremers" creationdate="20141226T102518Z">
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202923Z">
         <seg>Verwerken.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Region</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105045Z" creationid="hcremers" creationdate="20141226T105045Z">
+        <seg>Kopieer gebied</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +682,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091223Z" creationid="hcremers" creationdate="20141226T091223Z">
         <seg>Aangepast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cut Region</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105049Z" creationid="hcremers" creationdate="20141226T105033Z">
+        <seg>Knip gebied</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +914,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102559Z">
         <seg>Uitsluiting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105015Z" creationid="hcremers" creationdate="20141226T105015Z">
+        <seg>Afsluiten</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,6 +1638,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste Region</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105057Z" creationid="hcremers" creationdate="20141226T105057Z">
+        <seg>Plak gebied</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste Region Linked</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105143Z" creationid="hcremers" creationdate="20141226T105143Z">
+        <seg>Plak gekoppeld gebied</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Patterns or colors overlay existing pixels while preserving the highlights and shadows of the base color.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T145508Z">
@@ -1658,6 +1706,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101133Z" creationid="hcremers" creationdate="20141226T101133Z">
         <seg>A.u.b. verbinden, daarna opnieuw proberen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105151Z" creationid="hcremers" creationdate="20141226T105151Z">
+        <seg>Voorkeuren...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,10 +1782,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rating</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105206Z" creationid="hcremers" creationdate="20141226T105206Z">
+        <seg>Waardering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recently used files and directories</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095228Z" creationid="hcremers" creationdate="20141226T095228Z">
         <seg>Recent gebruikte bestanden en folders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105026Z" creationid="hcremers" creationdate="20141226T105026Z">
+        <seg>Herhalen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104816Z" creationid="hcremers" creationdate="20141226T104816Z">
+        <seg>Verzenden...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shadows</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150601Z">
@@ -2138,6 +2218,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104325Z" creationid="hcremers" creationdate="20141226T104325Z">
         <seg>Toon gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Explorer</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104943Z" creationid="hcremers" creationdate="20141226T104859Z">
+        <seg>Toon in bestandsverkenner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Finder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104952Z" creationid="hcremers" creationdate="20141226T104904Z">
+        <seg>Toon in Finder</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2738,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194827Z">
         <seg>Gereedschap-Wijziging.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105021Z" creationid="hcremers" creationdate="20141226T105021Z">
+        <seg>Ongedaan maken</seg>
       </tuv>
     </tu>
     <tu>
