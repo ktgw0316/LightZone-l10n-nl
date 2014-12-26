@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the browser sort criteria</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T202811Z" creationid="hcremers" creationdate="20141226T202811Z">
+        <seg>Kies de browser sorteer criteria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193507Z" creationid="hcremers" creationdate="20141222T193507Z">
@@ -3050,6 +3058,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141127T095903Z">
         <seg>Zacht licht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort Ascending</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T202821Z" creationid="hcremers" creationdate="20141226T202821Z">
+        <seg>Sorteer oplopend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort Descending</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T202830Z" creationid="hcremers" creationdate="20141226T202830Z">
+        <seg>Sorteer aflopend</seg>
       </tuv>
     </tu>
     <tu>
