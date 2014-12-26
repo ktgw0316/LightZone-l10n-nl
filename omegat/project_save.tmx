@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resetting LightZone Settings means LightZone will work the way it did when it was new.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095658Z" creationid="hcremers" creationdate="20141226T095658Z">
+        <seg>Terugzetten van de LightZone instellingen brengt LightZone terug in de originele staat, zoals het pas geinstalleerd was.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resetting your LightZone Settings may fix this.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091406Z" creationid="hcremers" creationdate="20141226T091406Z">
