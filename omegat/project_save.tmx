@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings Reset</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T152324Z" creationid="hcremers" creationdate="20141226T152309Z">
+        <seg>LightZone instellingen herstel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Settings couldn't be reset</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100259Z" creationid="hcremers" creationdate="20141226T100259Z">
@@ -1666,6 +1674,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104757Z" creationid="hcremers" creationdate="20141226T104757Z">
         <seg>Stijlen beheren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Memory Limit</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T152337Z" creationid="hcremers" creationdate="20141226T152337Z">
+        <seg>Geheugen limiet</seg>
       </tuv>
     </tu>
     <tu>
