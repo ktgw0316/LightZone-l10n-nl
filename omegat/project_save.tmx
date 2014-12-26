@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have a fast hard disk, using a folder on it will enable LightZone to operate faster.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T154201Z" creationid="hcremers" creationdate="20141226T154201Z">
+        <seg>Als u een snelle harde schijf hebt, is het aan te bevelen deze te gebruiken om de werking van Lightzone sneller te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you open an new image while you are still editing another image, LightZone can automatically save your work, or it can ask you what to do.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111313Z" creationid="hcremers" creationdate="20141226T111313Z">
@@ -2126,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick a new scratch folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T154213Z" creationid="hcremers" creationdate="20141226T154213Z">
+        <seg>Kies een nieuwe scratch folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please connect, then try again.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101133Z" creationid="hcremers" creationdate="20141226T101133Z">
@@ -2626,6 +2642,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T152447Z" creationid="hcremers" creationdate="20141223T152447Z">
         <seg>Scannen opgeslagen documenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scratch Folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T154034Z" creationid="hcremers" creationdate="20141226T154034Z">
+        <seg>Scratch folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -3258,6 +3282,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095507Z">
         <seg>Dit is de kleur van een pixel voordat enig effect van een gereedschap is toegepast op de foto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the folder that LightZone will use to store data temporarily while you edit your photos.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T154117Z" creationid="hcremers" creationdate="20141226T154117Z">
+        <seg>Dit is de folder waar LightZone tijdelijk gegevens zal opslaan tijdens het werken aan foto's.</seg>
       </tuv>
     </tu>
     <tu>
