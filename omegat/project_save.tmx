@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105244Z" creationid="hcremers" creationdate="20141226T105244Z">
+        <seg>Minimaliseren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most tools can have a &lt;e0&gt;blending mode&lt;/e0&gt; specified for them.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095039Z">
@@ -1442,6 +1450,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104403Z" creationid="hcremers" creationdate="20141226T104403Z">
         <seg>Nieuwe venster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Browser</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105223Z" creationid="hcremers" creationdate="20141226T105223Z">
+        <seg>Geen Browser</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Browser</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105219Z" creationid="hcremers" creationdate="20141226T105219Z">
+        <seg>Toon Browser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Details</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090749Z" creationid="hcremers" creationdate="20141226T090749Z">
@@ -2866,6 +2890,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101142Z">
         <seg>Hoewel een beschrijving van elke modus hieronder volgt, is het aan te raden te experimenteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105228Z" creationid="hcremers" creationdate="20141226T105228Z">
+        <seg>Venster</seg>
       </tuv>
     </tu>
     <tu>
