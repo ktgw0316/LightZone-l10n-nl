@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you want to search for it?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090507Z" creationid="hcremers" creationdate="20141226T090507Z">
+        <seg>Wilt u ernaar zoeken?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't Save</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133919Z" creationid="hcremers" creationdate="20141223T133919Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131510Z" creationid="hcremers" creationdate="20141223T131510Z">
         <seg>Is dit een LightZone Stijl bestand?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is this right?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090453Z" creationid="hcremers" creationdate="20141226T090453Z">
+        <seg>Is dit juist?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The LightZone file, "$1" can't locate its image file, "$2", but it found "$3" instead.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090441Z" creationid="hcremers" creationdate="20141226T090441Z">
+        <seg>Het LightZone bestand "$1" kan z'n afbeeldingsbestand "$2" niet vinden, maar heeft in plaats daarvan "$3" gevonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LightZone file, "$1" can't locate its image file, "$2".</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205741Z" creationid="hcremers" creationdate="20141225T205741Z">
@@ -1842,6 +1866,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193219Z" creationid="hcremers" creationdate="20141222T193219Z">
         <seg>Niet ondersteund kleur profiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use $1</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090522Z" creationid="hcremers" creationdate="20141226T090522Z">
+        <seg>Gebruik $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use This</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090516Z" creationid="hcremers" creationdate="20141226T090516Z">
+        <seg>Gebruik dit</seg>
       </tuv>
     </tu>
     <tu>
