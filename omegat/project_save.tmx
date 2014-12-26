@@ -3070,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To save work, the browser saves previews in a special cache folder.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111529Z" creationid="hcremers" creationdate="20141226T111529Z">
+        <seg>Om werk te besparen, slaat de browser voorbeelden op in een speciale geheugen folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To select all colors except the selected color, click the Invert checkbox.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T130653Z" creationid="hcremers" creationdate="20141220T130623Z">
