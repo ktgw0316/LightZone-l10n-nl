@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resetting LightZone Settings will restore LightZone to its factory settings.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100108Z" creationid="hcremers" creationdate="20141226T100108Z">
+        <seg>Terugzetten van de LightZone instellingen herstelt LightZone naar de fabrieksinstellingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resetting your LightZone Settings may fix this.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091406Z" creationid="hcremers" creationdate="20141226T091406Z">
