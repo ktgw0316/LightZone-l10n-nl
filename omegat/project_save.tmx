@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101322Z" creationid="hcremers" creationdate="20141226T101322Z">
+        <seg>Geschiedenis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T204018Z">
@@ -1622,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Saving to $1...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101248Z" creationid="hcremers" creationdate="20141226T101248Z">
+        <seg>Opslaan naar $1...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Saving...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132750Z" creationid="hcremers" creationdate="20141223T132750Z">
@@ -1766,6 +1782,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show/Hide Folder Tree Pane</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101435Z" creationid="hcremers" creationdate="20141226T101435Z">
+        <seg>Tonen/Verbergen folder structuur paneel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide History Pane</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101528Z" creationid="hcremers" creationdate="20141226T101528Z">
+        <seg>Tonen/Verbergen geschiedenis paneel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide Styles Pane</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101402Z" creationid="hcremers" creationdate="20141226T101402Z">
+        <seg>Tonen/Verbergen stijlen paneel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide Tool Pane</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101514Z" creationid="hcremers" creationdate="20141226T101514Z">
+        <seg>Tonen/Verbergen gereedschap paneel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide metadata Info Pane</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101456Z" creationid="hcremers" creationdate="20141226T101456Z">
+        <seg>Tonen/Verbergen metadata info paneel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soft Burn</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150802Z">
@@ -1810,6 +1866,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193105Z" creationid="hcremers" creationdate="20141222T193105Z">
         <seg>Stijl kon niet worden toegepast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101256Z" creationid="hcremers" creationdate="20141226T101256Z">
+        <seg>Stijlen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,6 +2258,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195003Z">
         <seg>Gereedschap_Groep.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101305Z" creationid="hcremers" creationdate="20141226T101305Z">
+        <seg>Gereedschappen</seg>
       </tuv>
     </tu>
     <tu>
