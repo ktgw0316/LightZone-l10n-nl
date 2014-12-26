@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Save</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111138Z" creationid="hcremers" creationdate="20141226T111138Z">
+        <seg>Auto-opslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-save is now on.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205221Z" creationid="hcremers" creationdate="20141225T205221Z">
@@ -1210,6 +1218,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133859Z" creationid="hcremers" creationdate="20141223T133859Z">
         <seg>Als u de wijzigingen niet opslaat, gaan ze verloren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you open an new image while you are still editing another image, LightZone can automatically save your work, or it can ask you what to do.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111313Z" creationid="hcremers" creationdate="20141226T111313Z">
+        <seg>Als u een nieuwe afbeelding opent terwijl u al een andere afbeelding geopend had, kan LightZone automatisch uw werk opslaan, or het kan u vragen wat te doen.</seg>
       </tuv>
     </tu>
     <tu>
