@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100517Z" creationid="hcremers" creationdate="20141226T100517Z">
+        <seg>Alles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along the top-left of the LightZone browser window is a toolbar containing the set of photo buttons shown below.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212535Z" creationid="hcremers" creationdate="20141213T212535Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T192651Z" creationid="hcremers" creationdate="20141222T192651Z">
         <seg>Annuleren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking for update...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100734Z" creationid="hcremers" creationdate="20141226T100734Z">
+        <seg>Update controleren ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,10 +926,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings Error</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100510Z" creationid="hcremers" creationdate="20141226T100510Z">
+        <seg>LightZone instellingen fout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Settings Help</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095858Z" creationid="hcremers" creationdate="20141226T095858Z">
         <seg>LightZone instellingen help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings couldn't be reset</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100259Z" creationid="hcremers" creationdate="20141226T100259Z">
+        <seg>LightZone instellingen kunnen niet worden hersteld</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1170,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200618Z">
         <seg>Negatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100546Z" creationid="hcremers" creationdate="20141226T100546Z">
+        <seg>Geen</seg>
       </tuv>
     </tu>
     <tu>
