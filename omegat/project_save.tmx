@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205159Z" creationid="hcremers" creationdate="20141226T205159Z">
+        <seg>Verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Selected Regions</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110125Z" creationid="hcremers" creationdate="20141226T110125Z">
@@ -1554,6 +1562,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110443Z" creationid="hcremers" creationdate="20141226T110443Z">
         <seg>Leercentrum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lift Tools</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205013Z" creationid="hcremers" creationdate="20141226T205013Z">
+        <seg>Gereedschappen oppakken</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orient</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T204851Z" creationid="hcremers" creationdate="20141226T204851Z">
+        <seg>Orienteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Original Folder</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T153759Z" creationid="hcremers" creationdate="20141226T153759Z">
@@ -2362,6 +2386,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133942Z" creationid="hcremers" creationdate="20141223T133942Z">
         <seg>Sluiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T204858Z" creationid="hcremers" creationdate="20141226T204858Z">
+        <seg>Waarderen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205154Z" creationid="hcremers" creationdate="20141226T205154Z">
+        <seg>Selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select an Image</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204946Z" creationid="hcremers" creationdate="20141225T204946Z">
@@ -3118,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sort</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205018Z" creationid="hcremers" creationdate="20141226T205018Z">
+        <seg>Sorteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort Ascending</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T202821Z" creationid="hcremers" creationdate="20141226T202821Z">
@@ -3146,6 +3194,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110104Z" creationid="hcremers" creationdate="20141226T110104Z">
         <seg>Vrijevorm kromme (spline) gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stack</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205203Z" creationid="hcremers" creationdate="20141226T205203Z">
+        <seg>Stapel</seg>
       </tuv>
     </tu>
     <tu>
@@ -3562,6 +3618,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T202000Z" creationid="hcremers" creationdate="20141226T202000Z">
         <seg>Miniatuur voortgang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail Size</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205148Z" creationid="hcremers" creationdate="20141226T205148Z">
+        <seg>Miniatuur formaat</seg>
       </tuv>
     </tu>
     <tu>
