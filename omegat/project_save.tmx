@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A file named "$1" already exists in $2.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103612Z" creationid="hcremers" creationdate="20141226T103612Z">
+        <seg>Een bestand met naam "$1" bestaat al in $2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new version ($1) of $2 is available.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101225Z" creationid="hcremers" creationdate="20141226T101225Z">
@@ -1110,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone could not copy $1 to $2.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103632Z" creationid="hcremers" creationdate="20141226T103632Z">
+        <seg>LightZone kon niet kopieren $1 naar $2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone failed to start last time.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091327Z" creationid="hcremers" creationdate="20141226T091327Z">
@@ -1770,6 +1786,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103323Z" creationid="hcremers" creationdate="20141226T103323Z">
         <seg>Deze afbeelding opslaan in een nieuw formaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save this image to a file</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103511Z" creationid="hcremers" creationdate="20141226T103511Z">
+        <seg>Deze afbeelding opslaan naar een bestand</seg>
       </tuv>
     </tu>
     <tu>
