@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actual Pixels</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110312Z" creationid="hcremers" creationdate="20141226T110312Z">
+        <seg>Werkelijke beeldpunten (pixels)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105320Z" creationid="hcremers" creationdate="20141226T105320Z">
