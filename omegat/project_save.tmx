@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find $1</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090627Z" creationid="hcremers" creationdate="20141226T090627Z">
+        <seg>Vindt $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, as shown by the green arrows, the base colors of a photo have a tool's effect applied to them producing the blend colors.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100250Z">
@@ -802,6 +810,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193604Z" creationid="hcremers" creationdate="20141222T193604Z">
         <seg>LightZone Verzenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone has encountered an internal error.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090700Z" creationid="hcremers" creationdate="20141226T090700Z">
+        <seg>LightZone is geconfronteerd met een interne fout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1354,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150341Z">
         <seg>Bleken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090620Z" creationid="hcremers" creationdate="20141226T090620Z">
+        <seg>Zoeken</seg>
       </tuv>
     </tu>
     <tu>
@@ -1898,6 +1922,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T151259Z" creationid="hcremers" creationdate="20141223T151259Z">
         <seg>Verifieren bibliotheken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What would you like to do?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090708Z" creationid="hcremers" creationdate="20141226T090708Z">
+        <seg>Wat wilt u doen?</seg>
       </tuv>
     </tu>
     <tu>
