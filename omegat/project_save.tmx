@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(LightZone must restart for this to take effect.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111121Z" creationid="hcremers" creationdate="20141226T111121Z">
+        <seg>(LightZone moet opnieuw gestart worden voordat de wijzigingen worden doorgevoerd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Color Burn.)</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102135Z">
@@ -1930,6 +1938,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105947Z" creationid="hcremers" creationdate="20141226T105947Z">
         <seg>Veelhoekige (polygonale) gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111046Z" creationid="hcremers" creationdate="20141226T111046Z">
+        <seg>Voorkeuren</seg>
       </tuv>
     </tu>
     <tu>
