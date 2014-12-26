@@ -1742,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The amount of memory LightZone should use</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095038Z" creationid="hcremers" creationdate="20141226T095038Z">
+        <seg>De hoeveelheid intern geheugen dat LightZone zou moeten gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The base color is not replaced, but is mixed with the blend color to reflect the relative lightness or darkness of the original color.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T145756Z">
