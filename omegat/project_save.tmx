@@ -2990,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smaller image files will make LightZone faster.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T171339Z" creationid="hcremers" creationdate="20141226T171339Z">
+        <seg>Kleinere afbeeldingsbestanden maken LightZone sneller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soft Burn</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150802Z">
@@ -3010,6 +3018,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141127T095903Z">
         <seg>Zacht licht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the image file format LightZone should use when it saves your work.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T171245Z" creationid="hcremers" creationdate="20141226T171245Z">
+        <seg>Specificeer het afbeeldingsformaat dat LightZone moet gebruiken om uw werk op te slaan.</seg>
       </tuv>
     </tu>
     <tu>
