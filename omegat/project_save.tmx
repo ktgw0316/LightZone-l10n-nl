@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104349Z" creationid="hcremers" creationdate="20141226T104349Z">
+        <seg>Bestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find $1</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090627Z" creationid="hcremers" creationdate="20141226T090627Z">
@@ -1350,6 +1358,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Window</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104403Z" creationid="hcremers" creationdate="20141226T104403Z">
+        <seg>Nieuwe venster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Recent Files</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104538Z" creationid="hcremers" creationdate="20141226T104538Z">
+        <seg>Geen recent geopende bestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No internet connection</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100915Z" creationid="hcremers" creationdate="20141226T100915Z">
@@ -1414,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Recent</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104545Z" creationid="hcremers" creationdate="20141226T104522Z">
+        <seg>Recent geopende bestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open an Image</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204316Z" creationid="hcremers" creationdate="20141225T204316Z">
@@ -1426,6 +1458,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102612Z" creationid="hcremers" creationdate="20141226T102612Z">
         <seg>Afbeelding openen in dialoogvenster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104408Z" creationid="hcremers" creationdate="20141226T104408Z">
+        <seg>Openen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rescan Folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104458Z" creationid="hcremers" creationdate="20141226T104458Z">
+        <seg>Opnieuw scannen folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T093934Z" creationid="hcremers" creationdate="20141226T093934Z">
@@ -1746,6 +1794,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103805Z" creationid="hcremers" creationdate="20141226T103805Z">
         <seg>Teruggaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104415Z" creationid="hcremers" creationdate="20141226T104415Z">
+        <seg>Teruggaan...</seg>
       </tuv>
     </tu>
     <tu>
