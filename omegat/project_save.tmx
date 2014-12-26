@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings Info</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T152223Z" creationid="hcremers" creationdate="20141226T152223Z">
+        <seg>LightZone instellingen Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Settings couldn't be reset</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100259Z" creationid="hcremers" creationdate="20141226T100259Z">
@@ -1546,6 +1554,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112521Z" creationid="hcremers" creationdate="20141226T112521Z">
         <seg>LightZone moet het juiste kleur profiel van uw beeldscherm kennen om de kleuren correct weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone must now quit.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T152240Z" creationid="hcremers" creationdate="20141226T152240Z">
+        <seg>LightZone moet nu worden gesloten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recently used files and folders</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T151943Z" creationid="hcremers" creationdate="20141226T151943Z">
+        <seg>Recent gebruikte bestanden en folders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recently used settings for tools</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T151754Z" creationid="hcremers" creationdate="20141226T151754Z">
@@ -2338,6 +2362,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091406Z" creationid="hcremers" creationdate="20141226T091406Z">
         <seg>Terugzetten van de LightZone instellingen zou dit kunnen oplossen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restoring LightZone Settings means LightZone will work the way it did when it was new.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T152045Z" creationid="hcremers" creationdate="20141226T152045Z">
+        <seg>Herstellen van de LightZone instellingen brengt LightZone terug in de originele staat, zoals het pas geinstalleerd was.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3146,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195213Z">
         <seg>Deze vermengings modus vermenigvuldigt de basis kleur en de vermengings kleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can fix lots of problems, but loses your customizations.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T152208Z" creationid="hcremers" creationdate="20141226T152208Z">
+        <seg>Dit kan sommige problemen oplossen, maar u verliest uw zelf ingestelde waarden.</seg>
       </tuv>
     </tu>
     <tu>
