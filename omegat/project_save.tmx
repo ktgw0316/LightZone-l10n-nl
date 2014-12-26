@@ -3070,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will discard preview images and orientations saved by the LightZone browser.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111926Z" creationid="hcremers" creationdate="20141226T111926Z">
+        <seg>Dit zal de afbeeldingsvoorbeelden en orientaties verwijderen die door de LightZone browser waren opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumbnail copies of your images</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T094947Z" creationid="hcremers" creationdate="20141226T094947Z">
