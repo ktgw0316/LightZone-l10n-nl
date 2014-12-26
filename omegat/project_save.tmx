@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Regions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104339Z" creationid="hcremers" creationdate="20141226T104339Z">
+        <seg>Verberg gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>History</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101322Z" creationid="hcremers" creationdate="20141226T101322Z">
@@ -1994,6 +2002,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101617Z" creationid="hcremers" creationdate="20141226T101617Z">
         <seg>Toon LightZone help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Regions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104325Z" creationid="hcremers" creationdate="20141226T104325Z">
+        <seg>Toon gebieden</seg>
       </tuv>
     </tu>
     <tu>
