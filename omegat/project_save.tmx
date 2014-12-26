@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Debug</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110546Z" creationid="hcremers" creationdate="20141226T110546Z">
+        <seg>Fouten opsporen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default settings for batch processing</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095456Z" creationid="hcremers" creationdate="20141226T095456Z">
