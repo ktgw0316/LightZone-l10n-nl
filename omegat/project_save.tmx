@@ -3014,6 +3014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slide right to increase thumbnail size</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T202750Z" creationid="hcremers" creationdate="20141226T202750Z">
+        <seg>Beweeg de schuifregelaar naar rechts om het miniatuurformaat te vergroten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smaller image files will make LightZone faster.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T171339Z" creationid="hcremers" creationdate="20141226T171339Z">
