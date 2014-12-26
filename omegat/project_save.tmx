@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capture Time</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T210512Z" creationid="hcremers" creationdate="20141226T210512Z">
+        <seg>Vastleggingstijd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check for Update</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112207Z" creationid="hcremers" creationdate="20141226T112207Z">
