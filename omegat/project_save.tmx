@@ -902,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings Help</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095858Z" creationid="hcremers" creationdate="20141226T095858Z">
+        <seg>LightZone instellingen help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Settings remember what was going on the last time you used LightZone.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T094502Z" creationid="hcremers" creationdate="20141226T094502Z">
