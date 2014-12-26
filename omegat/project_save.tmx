@@ -1302,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112606Z" creationid="hcremers" creationdate="20141226T112606Z">
+        <seg>Als u deze optie niet instelt, zal LightZone een sRGB standaard profiel gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you don't save, your changes will be lost.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133859Z" creationid="hcremers" creationdate="20141223T133859Z">
