@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Startup Error</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091516Z" creationid="hcremers" creationdate="20141226T091516Z">
+        <seg>LightZone start fout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone failed to start last time.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091327Z" creationid="hcremers" creationdate="20141226T091327Z">
@@ -2082,6 +2090,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132448Z" creationid="hcremers" creationdate="20141223T132448Z">
         <seg>Wilt u het vervangen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to try resetting your LightZone Settings?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091500Z" creationid="hcremers" creationdate="20141226T091500Z">
+        <seg>Wilt u proberen de LightZone instellingen terug te zetten?</seg>
       </tuv>
     </tu>
     <tu>
