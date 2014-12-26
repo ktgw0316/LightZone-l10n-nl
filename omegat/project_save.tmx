@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to reset?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100125Z" creationid="hcremers" creationdate="20141226T100125Z">
+        <seg>Weet u zeker dat u wilt herstellen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-save is now on.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205221Z" creationid="hcremers" creationdate="20141225T205221Z">
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T093934Z" creationid="hcremers" creationdate="20141226T093934Z">
         <seg>Terugzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset LightZone Settings</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100137Z" creationid="hcremers" creationdate="20141226T100137Z">
+        <seg>Herstellen LightZone instellingen</seg>
       </tuv>
     </tu>
     <tu>
