@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bezier Regions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110009Z" creationid="hcremers" creationdate="20141226T110009Z">
+        <seg>Bezier gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black point compensation</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195408Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095426Z" creationid="hcremers" creationdate="20141226T095426Z">
         <seg>Standaard instellingen voor opslaan, afdrukken en converteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Selected Regions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110125Z" creationid="hcremers" creationdate="20141226T110125Z">
+        <seg>Verwijderen geselecteerde gebieden</seg>
       </tuv>
     </tu>
     <tu>
@@ -1510,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Regions Defined</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110136Z" creationid="hcremers" creationdate="20141226T110136Z">
+        <seg>Geen gebieden gedefineerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Styles</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104749Z" creationid="hcremers" creationdate="20141226T104749Z">
@@ -1758,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Polygonal Regions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105947Z" creationid="hcremers" creationdate="20141226T105947Z">
+        <seg>Veelhoekige (polygonale) gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preferences...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105151Z" creationid="hcremers" creationdate="20141226T105151Z">
@@ -1994,6 +2026,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104415Z" creationid="hcremers" creationdate="20141226T104415Z">
         <seg>Teruggaan...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Left</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110151Z" creationid="hcremers" creationdate="20141226T110151Z">
+        <seg>Draaien links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Right</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110157Z" creationid="hcremers" creationdate="20141226T110157Z">
+        <seg>Draaien rechts</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2426,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141127T095903Z">
         <seg>Zacht licht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spline Regions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110104Z" creationid="hcremers" creationdate="20141226T110104Z">
+        <seg>Vrijevorm kromme (spline) gebieden</seg>
       </tuv>
     </tu>
     <tu>
@@ -2926,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110144Z" creationid="hcremers" creationdate="20141226T110144Z">
+        <seg>Bekijken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What would you like to do?</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090708Z" creationid="hcremers" creationdate="20141226T090708Z">
@@ -3018,6 +3082,30 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105258Z" creationid="hcremers" creationdate="20141226T105258Z">
         <seg>Zoomen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom In</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110208Z" creationid="hcremers" creationdate="20141226T110208Z">
+        <seg>Inzoomen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom Out</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110216Z" creationid="hcremers" creationdate="20141226T110216Z">
+        <seg>Uitzoomen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom To Fit</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110234Z" creationid="hcremers" creationdate="20141226T110234Z">
+        <seg>Passend zoomen</seg>
       </tuv>
     </tu>
     <tu>
