@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103811Z" creationid="hcremers" creationdate="20141226T103811Z">
+        <seg>Exporteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to restore from preferences</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204104Z" creationid="hcremers" creationdate="20141225T204104Z">
@@ -1726,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revert</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103805Z" creationid="hcremers" creationdate="20141226T103805Z">
+        <seg>Teruggaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133907Z" creationid="hcremers" creationdate="20141223T133907Z">
@@ -2474,6 +2490,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194827Z">
         <seg>Gereedschap-Wijziging.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo Redo</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103745Z" creationid="hcremers" creationdate="20141226T103745Z">
+        <seg>Ongedaan/Herhalen</seg>
       </tuv>
     </tu>
     <tu>
