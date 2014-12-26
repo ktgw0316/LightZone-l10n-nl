@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aperture</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T210539Z" creationid="hcremers" creationdate="20141226T210539Z">
+        <seg>Diafragma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Style</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104743Z" creationid="hcremers" creationdate="20141226T104743Z">
@@ -1902,6 +1910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modification Time</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T210530Z" creationid="hcremers" creationdate="20141226T210530Z">
+        <seg>Wijzigingstijd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most tools can have a &lt;e0&gt;blending mode&lt;/e0&gt; specified for them.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095039Z">
@@ -3146,6 +3162,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101456Z" creationid="hcremers" creationdate="20141226T101456Z">
         <seg>Tonen/Verbergen metadata info paneel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shutter Speed</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T210546Z" creationid="hcremers" creationdate="20141226T210546Z">
+        <seg>Sluitertijd</seg>
       </tuv>
     </tu>
     <tu>
