@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A high limit enables LightZone operate faster and smoother; a low limit leaves more memory for other applications.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T153410Z" creationid="hcremers" creationdate="20141226T153410Z">
+        <seg>Een hoge limiet laat LightZone sneller en vloeiender werken, een lage limiet laat meer geheugen vrij voor andere applicaties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new version ($1) of $2 is available.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101225Z" creationid="hcremers" creationdate="20141226T101225Z">
@@ -2546,6 +2554,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104309Z" creationid="hcremers" creationdate="20141226T104309Z">
         <seg>Opslaan naar $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save to Folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T153423Z" creationid="hcremers" creationdate="20141226T153423Z">
+        <seg>Opslaan naar folder</seg>
       </tuv>
     </tu>
     <tu>
