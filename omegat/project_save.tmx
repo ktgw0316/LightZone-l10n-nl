@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direct Save</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T165525Z" creationid="hcremers" creationdate="20141226T165525Z">
+        <seg>Direct opslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103455Z" creationid="hcremers" creationdate="20141226T103455Z">
