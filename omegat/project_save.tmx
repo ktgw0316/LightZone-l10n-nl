@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone must know the correct color profile for your display in order to show colors correctly.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112521Z" creationid="hcremers" creationdate="20141226T112521Z">
+        <seg>LightZone moet het juiste kleur profiel van uw beeldscherm kennen om de kleuren correct weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Acknowledgments</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185419Z">
