@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your computer needs to be connected to the internet to check for an update.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101015Z" creationid="hcremers" creationdate="20141226T101015Z">
+        <seg>Uw computer moet op het internet aangesloten zij om updates te controleren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ZoneFinder.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194810Z">
