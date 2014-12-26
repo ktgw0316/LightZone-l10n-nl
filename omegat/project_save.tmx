@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse Recent</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104648Z" creationid="hcremers" creationdate="20141226T104648Z">
+        <seg>Bladeren recent geopende bestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browser anatomy</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T190752Z">
@@ -386,6 +394,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193507Z" creationid="hcremers" creationdate="20141222T193507Z">
         <seg>Kies...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Recent Files</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104633Z" creationid="hcremers" creationdate="20141226T104633Z">
+        <seg>Opschonen recent geopende bestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Recent Folders</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104716Z" creationid="hcremers" creationdate="20141226T104716Z">
+        <seg>Opschonen recent geopende folders</seg>
       </tuv>
     </tu>
     <tu>
@@ -1374,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Recent Folders</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104701Z" creationid="hcremers" creationdate="20141226T104701Z">
+        <seg>Geen recent geopende folders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No internet connection</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100915Z" creationid="hcremers" creationdate="20141226T100915Z">
@@ -1850,6 +1882,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193532Z" creationid="hcremers" creationdate="20141222T193532Z">
         <seg>Opslaan naar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save as Style...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104729Z" creationid="hcremers" creationdate="20141226T104729Z">
+        <seg>Opslaan als stijl...</seg>
       </tuv>
     </tu>
     <tu>
