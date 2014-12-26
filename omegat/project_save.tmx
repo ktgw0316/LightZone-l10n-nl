@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to clear the global browser cache?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111743Z" creationid="hcremers" creationdate="20141226T111743Z">
+        <seg>Weet u zeker dat u het globale browser geheugen wilt opschonen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to quit LightZone?</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133937Z" creationid="hcremers" creationdate="20141223T133937Z">
