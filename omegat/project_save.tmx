@@ -3574,6 +3574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When checked, using LightZone as the external editor for another application will cause LightZone to save your photo directly back to the other application when you select File &gt; Save.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T165708Z" creationid="hcremers" creationdate="20141226T165708Z">
+        <seg>Als deze optie is aangevinkt, wordt uw foto direct opgeslagen naar de applicatie vanwaar u Lightzone geopend had als u kiest Bestand &gt; Opslaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When drawing regions, LightZone can update the photo in real time, it can update only between changes, or it can wait until regions are done.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T154510Z" creationid="hcremers" creationdate="20141226T154510Z">
