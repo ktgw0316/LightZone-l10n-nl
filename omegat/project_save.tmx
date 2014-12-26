@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete the selected image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T204246Z" creationid="hcremers" creationdate="20141226T204246Z">
+        <seg>Verwijder geselecteerde afbeelding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of black point compensation.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195110Z">
@@ -2358,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rate the selected image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T204304Z" creationid="hcremers" creationdate="20141226T204304Z">
+        <seg>Waardeer de geselecteerde afbeelding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rating</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105206Z" creationid="hcremers" creationdate="20141226T105206Z">
@@ -2842,6 +2858,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204946Z" creationid="hcremers" creationdate="20141225T204946Z">
         <seg>Selecteer een afbeelding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select only most recent version from each stack</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T204617Z" creationid="hcremers" creationdate="20141226T204617Z">
+        <seg>Selecteer alleen de meest recente versie van elke stapel</seg>
       </tuv>
     </tu>
     <tu>
