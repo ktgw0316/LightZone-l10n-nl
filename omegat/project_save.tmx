@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recently used settings for tools</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T151754Z" creationid="hcremers" creationdate="20141226T151754Z">
+        <seg>Recent gebruikte instellingen voor gereedschappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Redo</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105026Z" creationid="hcremers" creationdate="20141226T105026Z">
