@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T153238Z" creationid="hcremers" creationdate="20141226T153238Z">
+        <seg>Zet de boven limiet van het geheugen dat LightZone kan gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shadows</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150601Z">
