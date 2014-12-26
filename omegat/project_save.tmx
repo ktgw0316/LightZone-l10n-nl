@@ -1942,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can fix some problems, but loses your customizations and slows things down for a short while.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095821Z" creationid="hcremers" creationdate="20141226T095821Z">
+        <seg>Dit kan mogelijk sommige problemen oplossen, maar u verliest uw zelf ingestelde waarden en het kan mogelijk tijdelijk vertraging opleveren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is illustrated in the figure below.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095851Z">
