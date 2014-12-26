@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings were successfully reset.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100240Z" creationid="hcremers" creationdate="20141226T100240Z">
+        <seg>LightZone instellingen zijn succesvol hersteld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Startup Error</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091516Z" creationid="hcremers" creationdate="20141226T091516Z">
