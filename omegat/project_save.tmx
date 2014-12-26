@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply toolstack to the selected image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T203710Z" creationid="hcremers" creationdate="20141226T203710Z">
+        <seg>Pas gereedschapsstapel toe op geselecteerde afbeelding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to clear the global browser cache?</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111743Z" creationid="hcremers" creationdate="20141226T111743Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101636Z" creationid="hcremers" creationdate="20141226T101636Z">
         <seg>Kopieer de geselecteerde afbeelding naar een andere folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy toolstack to clipboard from selected image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T203648Z" creationid="hcremers" creationdate="20141226T203648Z">
+        <seg>Kopieer gereedschapsstapel van de geselecteerde afbeelding naar het klembord</seg>
       </tuv>
     </tu>
     <tu>
