@@ -118,6 +118,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090930Z" creationid="hcremers" creationdate="20141226T090930Z">
+        <seg>&lt;html&gt;Doorgaan (Het programma kan nu instabiel worden)&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Save all files and exit  &lt;b&gt;(Recommended)&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090839Z" creationid="hcremers" creationdate="20141226T090839Z">
+        <seg>&lt;html&gt;Opslaan alle bestanden en sluiten &lt;b&gt;(Aanbevolen)&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Style named "$1" already exists.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132418Z" creationid="hcremers" creationdate="20141223T132418Z">
@@ -822,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone has run out of memory and will now shut down.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090742Z" creationid="hcremers" creationdate="20141226T090742Z">
+        <seg>LightZone heeft niet genoeg intern geheugen en zal nu sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Acknowledgments</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185419Z">
@@ -1442,6 +1466,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150601Z">
         <seg>Schaduwen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Details</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090749Z" creationid="hcremers" creationdate="20141226T090749Z">
+        <seg>Toon details</seg>
       </tuv>
     </tu>
     <tu>
