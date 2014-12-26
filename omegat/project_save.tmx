@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Colors</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110744Z" creationid="hcremers" creationdate="20141226T110744Z">
+        <seg>Alle kleuren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along the top-left of the LightZone browser window is a toolbar containing the set of photo buttons shown below.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212535Z" creationid="hcremers" creationdate="20141213T212535Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T084815Z">
         <seg>Vermengings modi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blues</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110850Z" creationid="hcremers" creationdate="20141226T110850Z">
+        <seg>Blauwen</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyans</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110845Z" creationid="hcremers" creationdate="20141226T110845Z">
+        <seg>Cyanen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Darken</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102156Z">
@@ -1066,6 +1090,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100250Z">
         <seg>Ten eerste, getoond met de groene pijlen, de basis kleuren van een foto hebben een gereedschaps effect toegepast, wat vermengde kleuren oplevert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greens</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110839Z" creationid="hcremers" creationdate="20141226T110839Z">
+        <seg>Groenen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1982,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reds</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110835Z" creationid="hcremers" creationdate="20141226T110826Z">
+        <seg>Roden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105356Z" creationid="hcremers" creationdate="20141226T105356Z">
@@ -2130,6 +2170,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110157Z" creationid="hcremers" creationdate="20141226T110157Z">
         <seg>Draaien rechts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sampled Colors</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110817Z" creationid="hcremers" creationdate="20141226T110817Z">
+        <seg>Proef kleuren</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3178,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091500Z" creationid="hcremers" creationdate="20141226T091500Z">
         <seg>Wilt u proberen de LightZone instellingen terug te zetten?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yellows</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110830Z" creationid="hcremers" creationdate="20141226T110830Z">
+        <seg>Gelen</seg>
       </tuv>
     </tu>
     <tu>
