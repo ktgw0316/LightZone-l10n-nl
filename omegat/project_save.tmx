@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interactive Rendering</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T154337Z" creationid="hcremers" creationdate="20141226T154337Z">
+        <seg>Interactieve weergave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internal Error</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091015Z" creationid="hcremers" creationdate="20141226T091015Z">
@@ -3530,6 +3538,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090708Z" creationid="hcremers" creationdate="20141226T090708Z">
         <seg>Wat wilt u doen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When drawing regions, LightZone can update the photo in real time, it can update only between changes, or it can wait until regions are done.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T154510Z" creationid="hcremers" creationdate="20141226T154510Z">
+        <seg>Terwijl u gebieden tekent, kan LightZone onmiddelijk bijwerken, alleen bijwerken tussen wijzigignen, of wachten met bijwerken tot het tekenen van gebieden klaar is.</seg>
       </tuv>
     </tu>
     <tu>
