@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard changes to this image and start over</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103455Z" creationid="hcremers" creationdate="20141226T103455Z">
+        <seg>Negeer wijzigingen op deze afbeelding en start opnieuw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to search for it?</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090507Z" creationid="hcremers" creationdate="20141226T090507Z">
