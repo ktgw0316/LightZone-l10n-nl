@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recently used files and directories</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095228Z" creationid="hcremers" creationdate="20141226T095228Z">
+        <seg>Recent gebruikte bestanden en folders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions and masks</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T131216Z" creationid="hcremers" creationdate="20141220T131216Z">
@@ -2130,6 +2138,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101142Z">
         <seg>Hoewel een beschrijving van elke modus hieronder volgt, is het aan te raden te experimenteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window positions and sizes</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095245Z" creationid="hcremers" creationdate="20141226T095245Z">
+        <seg>Venster posities en afmetingen</seg>
       </tuv>
     </tu>
     <tu>
