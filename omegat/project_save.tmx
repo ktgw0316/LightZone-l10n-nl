@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings remember what was going on the last time you used LightZone.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T094502Z" creationid="hcremers" creationdate="20141226T094502Z">
+        <seg>LightZone onthoudt instellingen zoals die waren ingesteld de laatste keer dat u LightZone gebruikte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Startup Error</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091516Z" creationid="hcremers" creationdate="20141226T091516Z">
