@@ -2142,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open LightZone files to rotate them</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T211652Z" creationid="hcremers" creationdate="20141226T211652Z">
+        <seg>Open LightZone bestanden om ze draaien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Normally</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131726Z" creationid="hcremers" creationdate="20141223T131726Z">
