@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't remind me</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100848Z" creationid="hcremers" creationdate="20141226T100848Z">
+        <seg>Geen herinnering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Done</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193249Z" creationid="hcremers" creationdate="20141222T193249Z">
@@ -674,6 +682,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T134652Z" creationid="hcremers" creationdate="20141220T134652Z">
         <seg>Dubbelklik om het creeren van het gebied te beeindigen (of shift-click, of druk op ESC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Now</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100901Z" creationid="hcremers" creationdate="20141226T100901Z">
+        <seg>Nu downloaden</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,6 +1186,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200618Z">
         <seg>Negatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No internet connection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100915Z" creationid="hcremers" creationdate="20141226T100915Z">
+        <seg>Geen internet verbinding</seg>
       </tuv>
     </tu>
     <tu>
@@ -1930,6 +1954,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100654Z">
         <seg>Er zijn veel beschikbare vermengings modi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There was a problem checking for an update.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100832Z" creationid="hcremers" creationdate="20141226T100832Z">
+        <seg>Er is een probleem tijdens update controleren.</seg>
       </tuv>
     </tu>
     <tu>
