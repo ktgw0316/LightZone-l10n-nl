@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default settings for saving, printing, and converting</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095426Z" creationid="hcremers" creationdate="20141226T095426Z">
+        <seg>Standaard instellingen voor opslaan, afdrukken en converteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of black point compensation.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195110Z">
