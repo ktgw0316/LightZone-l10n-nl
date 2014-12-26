@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T170851Z" creationid="hcremers" creationdate="20141226T170851Z">
+        <seg>Maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091223Z" creationid="hcremers" creationdate="20141226T091223Z">
@@ -1142,10 +1150,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter copyright text here.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T170819Z" creationid="hcremers" creationdate="20141226T170819Z">
+        <seg>Geef hier copyright tekst in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter copyright text in the space above.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T170339Z" creationid="hcremers" creationdate="20141226T170339Z">
         <seg>Geef copyright tekst in de ruimte hierboven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter creator here.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T170844Z" creationid="hcremers" creationdate="20141226T170844Z">
+        <seg>Geef hier maker in.</seg>
       </tuv>
     </tu>
     <tu>
