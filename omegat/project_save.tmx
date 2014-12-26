@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finish editing and return to Browse Mode</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103308Z" creationid="hcremers" creationdate="20141226T103308Z">
+        <seg>Beeindigen wijzigings modus en terugkeren naar blader modus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, as shown by the green arrows, the base colors of a photo have a tool's effect applied to them producing the blend colors.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T100250Z">
@@ -1574,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Redo last step</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103241Z" creationid="hcremers" creationdate="20141226T103241Z">
+        <seg>Herhalen laatste stap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions and masks</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T131216Z" creationid="hcremers" creationdate="20141220T131216Z">
@@ -1738,6 +1754,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133835Z" creationid="hcremers" creationdate="20141223T133835Z">
         <seg>Wijzigingen opslaan voordat dit document gesloten wordt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save this image in a new format</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103323Z" creationid="hcremers" creationdate="20141226T103323Z">
+        <seg>Deze afbeelding opslaan in een nieuw formaat</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,6 +2434,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194827Z">
         <seg>Gereedschap-Wijziging.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo last step</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103231Z" creationid="hcremers" creationdate="20141226T103231Z">
+        <seg>Ongedaan maken laatste stap</seg>
       </tuv>
     </tu>
     <tu>
