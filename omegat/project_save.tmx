@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resetting these can help fix some problems, but loses your customizations.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T143616Z" creationid="hcremers" creationdate="20141226T143616Z">
+        <seg>Terugzetten van instellingen kan sommige problemen oplossen, maar u verliest uw zelf ingestelde waarden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resetting your LightZone Settings may fix this.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091406Z" creationid="hcremers" creationdate="20141226T091406Z">
@@ -3154,6 +3162,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202432Z">
         <seg>Dit is bruikbaar voor het toevoegen van hoge lichten of schaduwen aan een afbeelding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This reset will restore LightZone to its factory settings.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T143629Z" creationid="hcremers" creationdate="20141226T143629Z">
+        <seg>Terugzetten van de LightZone instellingen herstelt LightZone naar de fabrieksinstellingen.</seg>
       </tuv>
     </tu>
     <tu>
