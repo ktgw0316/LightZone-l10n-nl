@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display the path of the current folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T201837Z" creationid="hcremers" creationdate="20141226T201837Z">
+        <seg>Toon het pad van de huidige folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to replace it?</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111008Z" creationid="hcremers" creationdate="20141226T111008Z">
@@ -1298,6 +1306,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111428Z" creationid="hcremers" creationdate="20141226T111428Z">
         <seg>Globaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go back to previously selected folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T201724Z" creationid="hcremers" creationdate="20141226T201724Z">
+        <seg>Ga terug naar de vorige geselecteerde folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go forward to recently selected folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T201824Z" creationid="hcremers" creationdate="20141226T201824Z">
+        <seg>Ga vooruit naar de recent geselecteerde folder</seg>
       </tuv>
     </tu>
     <tu>
