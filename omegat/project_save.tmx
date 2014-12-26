@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Settings include things like:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T094729Z" creationid="hcremers" creationdate="20141226T094729Z">
+        <seg>Instellingen bevatten zaken als:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The base color is not replaced, but is mixed with the blend color to reflect the relative lightness or darkness of the original color.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T145756Z">
@@ -1938,6 +1946,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202432Z">
         <seg>Dit is bruikbaar voor het toevoegen van hoge lichten of schaduwen aan een afbeelding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail copies of your images</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T094947Z" creationid="hcremers" creationdate="20141226T094947Z">
+        <seg>Miniatuur kopieen van uw afbeeldingen</seg>
       </tuv>
     </tu>
     <tu>
