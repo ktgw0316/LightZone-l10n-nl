@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150428Z" creationid="hcremers" creationdate="20141229T150428Z">
+        <seg>Elke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aperture</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T210539Z" creationid="hcremers" creationdate="20141226T210539Z">
@@ -746,6 +754,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T124701Z" creationid="hcremers" creationdate="20141220T124521Z">
         <seg>Kleur_Selectie_Viewer.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Common aspect ratios</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150541Z" creationid="hcremers" creationdate="20141229T150541Z">
+        <seg>Normale hoogte-breedte verhouding</seg>
       </tuv>
     </tu>
     <tu>
@@ -2770,6 +2786,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101200Z" creationid="hcremers" creationdate="20141226T101200Z">
         <seg>Later herinneren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Aspect Ratio Constraints</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150644Z" creationid="hcremers" creationdate="20141229T150644Z">
+        <seg>Verwijder beperkingen hoogte-breedte verhouding</seg>
       </tuv>
     </tu>
     <tu>
