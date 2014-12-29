@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone File Error</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150314Z" creationid="hcremers" creationdate="20141229T150314Z">
+        <seg>LightZone bestandsfout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Product Page</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110454Z" creationid="hcremers" creationdate="20141226T110454Z">
@@ -3206,6 +3214,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150333Z" creationid="hcremers" creationdate="20141229T150333Z">
+        <seg>Selecteer alles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Recent</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150326Z" creationid="hcremers" creationdate="20141229T150326Z">
+        <seg>Selecteer recent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a Folder</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145644Z" creationid="hcremers" creationdate="20141229T145644Z">
@@ -4106,6 +4130,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193156Z" creationid="hcremers" creationdate="20141222T193156Z">
         <seg>Onbekend afbeeldingsformaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unselect All</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150347Z" creationid="hcremers" creationdate="20141229T150347Z">
+        <seg>Deselecteer alles</seg>
       </tuv>
     </tu>
     <tu>
