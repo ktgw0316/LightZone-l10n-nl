@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't rename the XMP file for "$1".</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150303Z" creationid="hcremers" creationdate="20141229T150303Z">
+        <seg>Kan het XMP bestand voor "$1" niet hernoemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't save this Style</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132540Z" creationid="hcremers" creationdate="20141223T132540Z">
