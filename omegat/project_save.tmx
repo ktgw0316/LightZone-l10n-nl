@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145507Z" creationid="hcremers" creationdate="20141229T145507Z">
+        <seg>Verwijderen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of black point compensation.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195110Z">
@@ -1970,6 +1978,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145006Z" creationid="hcremers" creationdate="20141229T145006Z">
         <seg>Verplaatsen naar prullenbak...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Trash...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145455Z" creationid="hcremers" creationdate="20141229T145455Z">
+        <seg>Verplaatsen naar afval...</seg>
       </tuv>
     </tu>
     <tu>
