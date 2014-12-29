@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy Tools</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T144748Z" creationid="hcremers" creationdate="20141229T144748Z">
+        <seg>Kopie gereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy the selected image to another folder</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101636Z" creationid="hcremers" creationdate="20141226T101636Z">
@@ -1958,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move to Recycle Bin...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145006Z" creationid="hcremers" creationdate="20141229T145006Z">
+        <seg>Verplaatsen naar prullenbak...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiplies or screens the colors depending on the base color.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T201933Z">
@@ -2294,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste Tools...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T144759Z" creationid="hcremers" creationdate="20141229T144759Z">
+        <seg>Plak gereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Patterns or colors overlay existing pixels while preserving the highlights and shadows of the base color.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T145508Z">
@@ -2542,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T144901Z" creationid="hcremers" creationdate="20141229T144901Z">
+        <seg>Verversen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105356Z" creationid="hcremers" creationdate="20141226T105356Z">
@@ -2570,6 +2602,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101200Z" creationid="hcremers" creationdate="20141226T101200Z">
         <seg>Later herinneren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T144923Z" creationid="hcremers" creationdate="20141229T144923Z">
+        <seg>Hernoemen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2734,10 +2774,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate Left and Select Next</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T144838Z" creationid="hcremers" creationdate="20141229T144821Z">
+        <seg>Draaien links en volgende selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate Right</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110157Z" creationid="hcremers" creationdate="20141226T110157Z">
         <seg>Draaien rechts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Right and Select Next</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T144851Z" creationid="hcremers" creationdate="20141229T144851Z">
+        <seg>Draaien rechts en volgende selecteren</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3194,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104952Z" creationid="hcremers" creationdate="20141226T104904Z">
         <seg>Toon in Finder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T144915Z" creationid="hcremers" creationdate="20141229T144915Z">
+        <seg>Toon in folder</seg>
       </tuv>
     </tu>
     <tu>
