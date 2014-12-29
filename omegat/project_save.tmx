@@ -2646,6 +2646,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove Rating</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145610Z" creationid="hcremers" creationdate="20141229T145610Z">
+        <seg>Verwijder waardering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Rating and Select Next</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145629Z" creationid="hcremers" creationdate="20141229T145629Z">
+        <seg>Verwijder waardering en selecteer volgende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rename...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T144923Z" creationid="hcremers" creationdate="20141229T144923Z">
