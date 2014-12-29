@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't move $1 to the Recycle Bin.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150006Z" creationid="hcremers" creationdate="20141229T150006Z">
+        <seg>Kan $1 niet verplaatsen naar prullenbak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't move $1 to the Trash.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145802Z" creationid="hcremers" creationdate="20141229T145802Z">
@@ -2022,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move to Recycle Bin</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145940Z" creationid="hcremers" creationdate="20141229T145940Z">
+        <seg>Verplaatsen naar prullenbak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move to Recycle Bin...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145006Z" creationid="hcremers" creationdate="20141229T145006Z">
@@ -2594,6 +2610,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105206Z" creationid="hcremers" creationdate="20141226T105206Z">
         <seg>Waardering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Really delete this file?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150021Z" creationid="hcremers" creationdate="20141229T150021Z">
+        <seg>Dit bestand werkelijk verwijderen?</seg>
       </tuv>
     </tu>
     <tu>
