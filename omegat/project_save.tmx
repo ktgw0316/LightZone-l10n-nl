@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Image Types</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145534Z" creationid="hcremers" creationdate="20141229T145534Z">
+        <seg>Verberg afbeeldingstypes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Regions</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104339Z" creationid="hcremers" creationdate="20141226T104339Z">
@@ -2510,6 +2518,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rate $1</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145543Z" creationid="hcremers" creationdate="20141229T145543Z">
+        <seg>Waardeer $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate $1 and Select Next</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145602Z" creationid="hcremers" creationdate="20141229T145602Z">
+        <seg>Waardeer $1 en selecteer volgende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rate the selected image</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T204304Z" creationid="hcremers" creationdate="20141226T204304Z">
@@ -3146,6 +3170,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193809Z" creationid="hcremers" creationdate="20141222T193809Z">
         <seg>Toon help voor LightZone verzenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Image Types</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145524Z" creationid="hcremers" creationdate="20141229T145524Z">
+        <seg>Toon afbeeldingstypes</seg>
       </tuv>
     </tu>
     <tu>
