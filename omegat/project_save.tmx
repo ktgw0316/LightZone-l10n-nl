@@ -1974,10 +1974,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move "$1" to the Recycle Bin?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145853Z" creationid="hcremers" creationdate="20141229T145853Z">
+        <seg>Verplaats "$1" naar prullenbak?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move "$1" to the Trash?</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145710Z" creationid="hcremers" creationdate="20141229T145710Z">
         <seg>Verplaats "$1" naar het afval?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move $1 selected images to the Recycle Bin?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145913Z" creationid="hcremers" creationdate="20141229T145913Z">
+        <seg>Verplaats $1 geselecteerde afbeeldingen naar prullenbak?</seg>
       </tuv>
     </tu>
     <tu>
