@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't move $1 to the Trash.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145802Z" creationid="hcremers" creationdate="20141229T145802Z">
+        <seg>Kan $1 niet verplaatsen naar afval</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't print</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132853Z" creationid="hcremers" creationdate="20141223T132853Z">
@@ -1966,6 +1974,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move "$1" to the Trash?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145710Z" creationid="hcremers" creationdate="20141229T145710Z">
+        <seg>Verplaats "$1" naar het afval?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move $1 selected images to the Trash?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145730Z" creationid="hcremers" creationdate="20141229T145730Z">
+        <seg>Verplaats $1 geselecteerde afbeeldingen naar het afval?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse to an area of interest and click to learn more about it.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191551Z">
@@ -1986,6 +2010,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145006Z" creationid="hcremers" creationdate="20141229T145006Z">
         <seg>Verplaatsen naar prullenbak...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Trash</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145746Z" creationid="hcremers" creationdate="20141229T145746Z">
+        <seg>Verplaatsen naar afval</seg>
       </tuv>
     </tu>
     <tu>
