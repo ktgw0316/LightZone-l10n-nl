@@ -3598,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show original image while pressed</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T152642Z" creationid="hcremers" creationdate="20141230T152642Z">
+        <seg>Houd ingedrukt om originele afbeelding te tonen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show the Crop Tool</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T084832Z" creationid="hcremers" creationdate="20141230T084832Z">
