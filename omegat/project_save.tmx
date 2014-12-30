@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Proof Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153406Z" creationid="hcremers" creationdate="20141230T153406Z">
+        <seg>Verberg proefdruk gereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Regions</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104339Z" creationid="hcremers" creationdate="20141226T104339Z">
@@ -2774,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Printer Profile</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153427Z" creationid="hcremers" creationdate="20141230T153427Z">
+        <seg>Printer profiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printing...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132842Z" creationid="hcremers" creationdate="20141223T132842Z">
@@ -2786,6 +2802,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T202929Z">
         <seg>Printen.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proof</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153413Z" creationid="hcremers" creationdate="20141230T153413Z">
+        <seg>Proefdruk</seg>
       </tuv>
     </tu>
     <tu>
