@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyan-Red</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155438Z" creationid="hcremers" creationdate="20141230T155438Z">
+        <seg>Cyaan-Rood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cyans</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110845Z" creationid="hcremers" creationdate="20141226T110845Z">
@@ -1314,6 +1322,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145507Z" creationid="hcremers" creationdate="20141229T145507Z">
         <seg>Verwijderen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155546Z" creationid="hcremers" creationdate="20141230T155546Z">
+        <seg>Diepte</seg>
       </tuv>
     </tu>
     <tu>
@@ -1950,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Highlights</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155539Z" creationid="hcremers" creationdate="20141230T155539Z">
+        <seg>Hoge lichten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>History</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101322Z" creationid="hcremers" creationdate="20141226T101322Z">
@@ -2382,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Magenta-Green</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155454Z" creationid="hcremers" creationdate="20141230T155454Z">
+        <seg>Magenta-Groen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Malformed LightZone file</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131357Z" creationid="hcremers" creationdate="20141223T131357Z">
@@ -2418,6 +2450,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T203149Z">
         <seg>Midden+Hoge lichten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Midpoint</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155514Z" creationid="hcremers" creationdate="20141230T155514Z">
+        <seg>Middenpunt</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,6 +4278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strength</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155431Z" creationid="hcremers" creationdate="20141230T155431Z">
+        <seg>Sterkte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Style Number $1</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091230Z" creationid="hcremers" creationdate="20141226T091230Z">
@@ -4986,6 +5034,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091500Z" creationid="hcremers" creationdate="20141226T091500Z">
         <seg>Wilt u proberen de LightZone instellingen terug te zetten?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yellow-Blue</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155504Z" creationid="hcremers" creationdate="20141230T155504Z">
+        <seg>Geel-Blauw</seg>
       </tuv>
     </tu>
     <tu>
