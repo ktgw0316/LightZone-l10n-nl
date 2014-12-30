@@ -1270,6 +1270,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw Bezier Regions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T150841Z" creationid="hcremers" creationdate="20141230T150841Z">
+        <seg>Teken Bezier gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Polygon Regions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T150757Z" creationid="hcremers" creationdate="20141230T150757Z">
+        <seg>Teken veelhoekige (polygonale) gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101551Z" creationid="hcremers" creationdate="20141226T101551Z">
