@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 is an empty file</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T152700Z" creationid="hcremers" creationdate="20141230T152700Z">
+        <seg>$1 is een leeg bestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 not found</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T150917Z" creationid="hcremers" creationdate="20141230T150917Z">
@@ -782,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Mask</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153029Z" creationid="hcremers" creationdate="20141230T153029Z">
+        <seg>Kleur masker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color/Luminosity selection</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100331Z" creationid="hcremers" creationdate="20141214T095422Z">
@@ -938,6 +954,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132606Z" creationid="hcremers" creationdate="20141223T132606Z">
         <seg>Kan stijl met naam "$1" niet vinden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't find an Image path attribute</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153006Z" creationid="hcremers" creationdate="20141230T153006Z">
+        <seg>Kan geen afbeeldingspad attributen vinden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't find an Image tag</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T152916Z" creationid="hcremers" creationdate="20141230T152916Z">
+        <seg>Kan geen afbeeldingsetiket vinden</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1650,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145534Z" creationid="hcremers" creationdate="20141229T145534Z">
         <seg>Verberg afbeeldingstypes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Previews</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153021Z" creationid="hcremers" creationdate="20141230T153021Z">
+        <seg>Verberg voorbeelden</seg>
       </tuv>
     </tu>
     <tu>
@@ -3530,6 +3570,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101617Z" creationid="hcremers" creationdate="20141226T101617Z">
         <seg>Toon LightZone help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Previews</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153013Z" creationid="hcremers" creationdate="20141230T153013Z">
+        <seg>Toon voorbeelden</seg>
       </tuv>
     </tu>
     <tu>
