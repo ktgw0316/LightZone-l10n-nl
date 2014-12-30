@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Intensity</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155321Z" creationid="hcremers" creationdate="20141230T155321Z">
+        <seg>Kleur intensiteit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Mask</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153029Z" creationid="hcremers" creationdate="20141230T153029Z">
@@ -870,10 +878,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Noise</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155404Z" creationid="hcremers" creationdate="20141230T155404Z">
+        <seg>Kleur ruis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Profile</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154110Z" creationid="hcremers" creationdate="20141230T154110Z">
         <seg>Kleur profiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Radius</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155313Z" creationid="hcremers" creationdate="20141230T155313Z">
+        <seg>Kleur radius</seg>
       </tuv>
     </tu>
     <tu>
@@ -1794,6 +1818,30 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T201824Z" creationid="hcremers" creationdate="20141226T201824Z">
         <seg>Ga vooruit naar de recent geselecteerde folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grain Intensity</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155337Z" creationid="hcremers" creationdate="20141230T155337Z">
+        <seg>Korrel intensiteit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grain Noise</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155419Z" creationid="hcremers" creationdate="20141230T155419Z">
+        <seg>Korrel ruis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grain Radius</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155330Z" creationid="hcremers" creationdate="20141230T155330Z">
+        <seg>Korrel radius</seg>
       </tuv>
     </tu>
     <tu>
