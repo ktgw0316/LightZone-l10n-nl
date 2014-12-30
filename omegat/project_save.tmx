@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Selection Mask</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153236Z" creationid="hcremers" creationdate="20141230T153236Z">
+        <seg>Kleur selectie masker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color/Luminosity selection</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100331Z" creationid="hcremers" creationdate="20141214T095422Z">
@@ -1666,6 +1674,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104339Z" creationid="hcremers" creationdate="20141226T104339Z">
         <seg>Verberg gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide print proofing tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153314Z" creationid="hcremers" creationdate="20141230T153314Z">
+        <seg>Verberg afdruk proefdruk gereedschap</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pixel Sampler</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153245Z" creationid="hcremers" creationdate="20141230T153245Z">
+        <seg>Pixel pipet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please connect, then try again.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101133Z" creationid="hcremers" creationdate="20141226T101133Z">
@@ -3198,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sampler</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153111Z" creationid="hcremers" creationdate="20141230T153111Z">
+        <seg>Pipet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133907Z" creationid="hcremers" creationdate="20141223T133907Z">
@@ -3650,6 +3682,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T152642Z" creationid="hcremers" creationdate="20141230T152642Z">
         <seg>Houd ingedrukt om originele afbeelding te tonen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show print proofing tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153302Z" creationid="hcremers" creationdate="20141230T153302Z">
+        <seg>Toon afdruk proefdruk gereedschap</seg>
       </tuv>
     </tu>
     <tu>
@@ -4594,6 +4634,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101015Z" creationid="hcremers" creationdate="20141226T101015Z">
         <seg>Uw computer moet op het internet aangesloten zij om updates te controleren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone Mapper Zones</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153228Z" creationid="hcremers" creationdate="20141230T153228Z">
+        <seg>Zone vertalingszones</seg>
       </tuv>
     </tu>
     <tu>
