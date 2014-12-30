@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Rotate Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153615Z" creationid="hcremers" creationdate="20141230T153615Z">
+        <seg>Verberg draaigereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide print proofing tool</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153314Z" creationid="hcremers" creationdate="20141230T153314Z">
@@ -1698,6 +1706,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T084843Z" creationid="hcremers" creationdate="20141230T084843Z">
         <seg>Verberg het bijsnijdgereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide the Rotate Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153557Z" creationid="hcremers" creationdate="20141230T153539Z">
+        <seg>Verberg het draaigereedschap</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rendering Intent</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153501Z" creationid="hcremers" creationdate="20141230T153501Z">
+        <seg>Weergave doel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rendering_Intent.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T203409Z">
@@ -3654,6 +3678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Rotate Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153606Z" creationid="hcremers" creationdate="20141230T153548Z">
+        <seg>Toon draaigereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Tool Titles</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T165933Z" creationid="hcremers" creationdate="20141226T165933Z">
@@ -3722,6 +3754,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T084832Z" creationid="hcremers" creationdate="20141230T084832Z">
         <seg>Toon het bijsnijdgereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the Rotate Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153554Z" creationid="hcremers" creationdate="20141230T153531Z">
+        <seg>Toon het draaigereedschap</seg>
       </tuv>
     </tu>
     <tu>
