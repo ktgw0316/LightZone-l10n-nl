@@ -4062,6 +4062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This file has no version number</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151035Z" creationid="hcremers" creationdate="20141230T151035Z">
+        <seg>Dit bestand heeft geen versienummer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This folder can go in the same place as its images ("Local"), or into one central location ("Global").</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111649Z" creationid="hcremers" creationdate="20141226T111649Z">
