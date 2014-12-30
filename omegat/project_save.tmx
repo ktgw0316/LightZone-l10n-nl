@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>...and $1 more</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153804Z" creationid="hcremers" creationdate="20141230T153804Z">
+        <seg>...en $1 meer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 file to process</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193301Z" creationid="hcremers" creationdate="20141222T193301Z">
@@ -1582,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fit image to screen</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153708Z" creationid="hcremers" creationdate="20141230T153708Z">
+        <seg>Pas afbeelding op scherm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focal Length</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T211148Z" creationid="hcremers" creationdate="20141226T211148Z">
@@ -2206,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modes</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153729Z" creationid="hcremers" creationdate="20141230T153729Z">
+        <seg>Modi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modification Time</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T210530Z" creationid="hcremers" creationdate="20141226T210530Z">
@@ -2570,6 +2594,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T204851Z" creationid="hcremers" creationdate="20141226T204851Z">
         <seg>Orienteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153750Z" creationid="hcremers" creationdate="20141230T153750Z">
+        <seg>Origineel</seg>
       </tuv>
     </tu>
     <tu>
@@ -4746,6 +4778,30 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110234Z" creationid="hcremers" creationdate="20141226T110234Z">
         <seg>Passend zoomen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom in</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153713Z" creationid="hcremers" creationdate="20141230T153713Z">
+        <seg>Inzoomen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom one-to-one</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153639Z" creationid="hcremers" creationdate="20141230T153639Z">
+        <seg>Zoom ware grootte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom out</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153720Z" creationid="hcremers" creationdate="20141230T153720Z">
+        <seg>Uitzoomen</seg>
       </tuv>
     </tu>
     <tu>
