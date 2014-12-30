@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An updated version of LightZone is required to read this Style</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151154Z" creationid="hcremers" creationdate="20141230T151154Z">
+        <seg>Een bijgewerkte versie van LightZone is nodig om deze stijl te lezen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An updated version of LightZone is required to read this file</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151011Z" creationid="hcremers" creationdate="20141230T151011Z">
@@ -578,6 +586,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T192651Z" creationid="hcremers" creationdate="20141222T192651Z">
         <seg>Annuleren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot redo</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151222Z" creationid="hcremers" creationdate="20141230T151222Z">
+        <seg>Kan niet herhalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot undo</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151214Z" creationid="hcremers" creationdate="20141230T151214Z">
+        <seg>Kan niet ongedaan maken</seg>
       </tuv>
     </tu>
     <tu>
@@ -3954,6 +3978,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100832Z" creationid="hcremers" creationdate="20141226T100832Z">
         <seg>Er is een probleem tijdens update controleren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Style has no version number</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151208Z" creationid="hcremers" creationdate="20141230T151208Z">
+        <seg>Deze stijl heeft geen versienummer</seg>
       </tuv>
     </tu>
     <tu>
