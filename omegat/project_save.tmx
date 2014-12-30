@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8 Bits/Channel</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154203Z" creationid="hcremers" creationdate="20141230T154203Z">
+        <seg>8 Bits/Kanaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on styles...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213324Z" creationid="hcremers" creationdate="20141213T213324Z">
@@ -482,6 +490,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110009Z" creationid="hcremers" creationdate="20141226T110009Z">
         <seg>Bezier gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bit Depth</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154232Z" creationid="hcremers" creationdate="20141230T154232Z">
+        <seg>Bit diepte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bits/Channel</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154215Z" creationid="hcremers" creationdate="20141230T154215Z">
+        <seg>Bits/Kanaal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2918,6 +2942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quality</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154153Z" creationid="hcremers" creationdate="20141230T154153Z">
+        <seg>Kwaliteit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133942Z" creationid="hcremers" creationdate="20141223T133942Z">
@@ -3250,6 +3282,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091406Z" creationid="hcremers" creationdate="20141226T091406Z">
         <seg>Terugzetten van de LightZone instellingen zou dit kunnen oplossen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resize To</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154145Z" creationid="hcremers" creationdate="20141230T154145Z">
+        <seg>Aanpassen naar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4946,6 +4986,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185507Z">
         <seg>afbeeldingen/app_icon-32.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pixels</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154129Z" creationid="hcremers" creationdate="20141230T154129Z">
+        <seg>beeldpunten</seg>
       </tuv>
     </tu>
     <tu>
