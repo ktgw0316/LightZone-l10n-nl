@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Crop Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T084755Z" creationid="hcremers" creationdate="20141230T084755Z">
+        <seg>Verberg bijsnijdgereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Image Types</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145534Z" creationid="hcremers" creationdate="20141229T145534Z">
@@ -1554,6 +1562,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104339Z" creationid="hcremers" creationdate="20141226T104339Z">
         <seg>Verberg gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide the Crop Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T084843Z" creationid="hcremers" creationdate="20141230T084843Z">
+        <seg>Verberg het bijsnijdgereedschap</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,6 +3014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T084851Z" creationid="hcremers" creationdate="20141230T084851Z">
+        <seg>Draaien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate 90 degrees clockwise</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T203235Z" creationid="hcremers" creationdate="20141226T203235Z">
@@ -3390,6 +3414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Crop Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T084741Z" creationid="hcremers" creationdate="20141230T084741Z">
+        <seg>Toon bijsnijdgereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Details</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090749Z" creationid="hcremers" creationdate="20141226T090749Z">
@@ -3482,6 +3514,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T144915Z" creationid="hcremers" creationdate="20141229T144915Z">
         <seg>Toon in folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the Crop Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T084832Z" creationid="hcremers" creationdate="20141230T084832Z">
+        <seg>Toon het bijsnijdgereedschap</seg>
       </tuv>
     </tu>
     <tu>
