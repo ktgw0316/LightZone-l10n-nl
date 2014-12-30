@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An updated version of LightZone is required to read this file</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151011Z" creationid="hcremers" creationdate="20141230T151011Z">
+        <seg>Een bijgewerkte versie van LightZone is nodig om dit bestand te lezen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150428Z" creationid="hcremers" creationdate="20141229T150428Z">
