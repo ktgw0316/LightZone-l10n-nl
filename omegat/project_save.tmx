@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 not found</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T150917Z" creationid="hcremers" creationdate="20141230T150917Z">
+        <seg>$1 niet gevonden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 of $2 files processed, $3 seconds remaining</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193426Z" creationid="hcremers" creationdate="20141222T193426Z">
@@ -1282,6 +1290,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T150757Z" creationid="hcremers" creationdate="20141230T150757Z">
         <seg>Teken veelhoekige (polygonale) gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Spline Regions</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T150908Z" creationid="hcremers" creationdate="20141230T150908Z">
+        <seg>Teken vrijevorm kromme (spline) gebieden</seg>
       </tuv>
     </tu>
     <tu>
