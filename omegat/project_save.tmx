@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Profile</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154110Z" creationid="hcremers" creationdate="20141230T154110Z">
+        <seg>Kleur profiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Selection Mask</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153236Z" creationid="hcremers" creationdate="20141230T153236Z">
@@ -1322,6 +1330,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T135516Z" creationid="hcremers" creationdate="20141223T135508Z">
         <seg>Niet meer vragen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't limit</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154054Z" creationid="hcremers" creationdate="20141230T154054Z">
+        <seg>Niet begrenzen</seg>
       </tuv>
     </tu>
     <tu>
