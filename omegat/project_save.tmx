@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crop</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T083848Z" creationid="hcremers" creationdate="20141230T083848Z">
+        <seg>Bijsnijden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091223Z" creationid="hcremers" creationdate="20141226T091223Z">
@@ -2894,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset the rotation</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T083829Z" creationid="hcremers" creationdate="20141230T083829Z">
+        <seg>Draaiing herstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112817Z" creationid="hcremers" creationdate="20141226T112817Z">
@@ -3658,6 +3674,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102533Z">
         <seg>Vermindert de vermengings of basis kleur met de lichtste van deze twee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swap width and height</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T083840Z" creationid="hcremers" creationdate="20141230T083840Z">
+        <seg>Breedte en hoogte verwisselen</seg>
       </tuv>
     </tu>
     <tu>
