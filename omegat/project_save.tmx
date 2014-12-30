@@ -1616,16 +1616,24 @@
       <tuv lang="EN-US">
         <seg>Fit within 1536 x 1536</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153930Z" creationid="hcremers" creationdate="20141230T153930Z">
-        <seg>Pas binnen1536 x 1536</seg>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154032Z" creationid="hcremers" creationdate="20141230T153930Z">
+        <seg>Pas binnen 1536 x 1536</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fit within 2048 x 2048</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153935Z" creationid="hcremers" creationdate="20141230T153935Z">
-        <seg>Pas binnen2048 x 2048</seg>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154035Z" creationid="hcremers" creationdate="20141230T153935Z">
+        <seg>Pas binnen 2048 x 2048</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 2560 x 2560</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154038Z" creationid="hcremers" creationdate="20141230T154021Z">
+        <seg>Pas binnen 2560 x 2560</seg>
       </tuv>
     </tu>
     <tu>
