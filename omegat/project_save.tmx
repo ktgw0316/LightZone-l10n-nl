@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blue</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155302Z" creationid="hcremers" creationdate="20141230T155302Z">
+        <seg>Blauw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blues</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110850Z" creationid="hcremers" creationdate="20141226T110850Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101547Z">
         <seg>Kleur doordrukken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Change</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155244Z" creationid="hcremers" creationdate="20141230T155244Z">
+        <seg>Kleur wijziging</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1794,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T201824Z" creationid="hcremers" creationdate="20141226T201824Z">
         <seg>Ga vooruit naar de recent geselecteerde folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Green</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155256Z" creationid="hcremers" creationdate="20141230T155256Z">
+        <seg>Groen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2878,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick Color</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155250Z" creationid="hcremers" creationdate="20141230T155250Z">
+        <seg>Kies kleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T192240Z" creationid="hcremers" creationdate="20141222T192240Z">
@@ -3114,6 +3146,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T151754Z" creationid="hcremers" creationdate="20141226T151754Z">
         <seg>Recent gebruikte instellingen voor gereedschappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155253Z" creationid="hcremers" creationdate="20141230T155253Z">
+        <seg>Rood</seg>
       </tuv>
     </tu>
     <tu>
