@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crop Mode</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153857Z" creationid="hcremers" creationdate="20141230T153857Z">
+        <seg>Bijsnijden modus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091223Z" creationid="hcremers" creationdate="20141226T091223Z">
@@ -2990,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Region Mode</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153911Z" creationid="hcremers" creationdate="20141230T153911Z">
+        <seg>Gebieden modus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105356Z" creationid="hcremers" creationdate="20141226T105356Z">
@@ -3274,6 +3290,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T144838Z" creationid="hcremers" creationdate="20141229T144821Z">
         <seg>Draaien links en volgende selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Mode</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153903Z" creationid="hcremers" creationdate="20141230T153903Z">
+        <seg>Draaien modus</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,6 +3962,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205203Z" creationid="hcremers" creationdate="20141226T205203Z">
         <seg>Stapel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard Cursor Mode</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153842Z" creationid="hcremers" creationdate="20141230T153842Z">
+        <seg>Standaard aanwijzer modus</seg>
       </tuv>
     </tu>
     <tu>
