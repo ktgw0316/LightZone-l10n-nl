@@ -1606,6 +1606,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fit within 1024 x 1024</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153924Z" creationid="hcremers" creationdate="20141230T153924Z">
+        <seg>Pas binnen 1024 x 1024</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 1536 x 1536</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153930Z" creationid="hcremers" creationdate="20141230T153930Z">
+        <seg>Pas binnen1536 x 1536</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 2048 x 2048</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153935Z" creationid="hcremers" creationdate="20141230T153935Z">
+        <seg>Pas binnen2048 x 2048</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focal Length</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T211148Z" creationid="hcremers" creationdate="20141226T211148Z">
