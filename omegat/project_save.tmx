@@ -6150,6 +6150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the Choose... button to select the folder to convert the images to.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T145531Z" creationid="hcremers" creationdate="20141231T145531Z">
+        <seg>Gebruik de Kies... knop om de folder te selecteren waar de verwerkte afbeeldingen worden opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using a color/luminosity selection, you can restrict a tool's effect to just a selected hue or luminosity range.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100305Z" creationid="hcremers" creationdate="20141214T095840Z">
