@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone has examined /proc/cpuinfo on this computer and found "$1", with no SSE2 flag set.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141623Z" creationid="hcremers" creationdate="20141231T141623Z">
+        <seg>LightZone heeft /proc/cpuinfo onderzocht op deze computer en heeft "$1" gevonden, waar de SSE2 vlag niet aan staat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone has run out of memory and will now shut down.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090742Z" creationid="hcremers" creationdate="20141226T090742Z">
@@ -5746,6 +5754,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193724Z" creationid="hcremers" creationdate="20141222T193724Z">
         <seg>Naar Folder:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To learn more about SSE2 and the CPUs that support it, see</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141656Z" creationid="hcremers" creationdate="20141231T141656Z">
+        <seg>Om meer te leren over SSE2 en de CPU's die het ondersteunen, zie</seg>
       </tuv>
     </tu>
     <tu>
