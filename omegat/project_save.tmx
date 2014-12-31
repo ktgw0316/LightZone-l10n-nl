@@ -5894,6 +5894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To batch convert your photos:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T143725Z" creationid="hcremers" creationdate="20141231T143725Z">
+        <seg>Om uw foto's in batch te verwerken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To learn more about SSE2 and the CPUs that support it, see</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141656Z" creationid="hcremers" creationdate="20141231T141656Z">
