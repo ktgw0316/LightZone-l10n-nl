@@ -5014,6 +5014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sending photos</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150335Z" creationid="hcremers" creationdate="20141231T150335Z">
+        <seg>Verzenden foto's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set opacity</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T123515Z" creationid="hcremers" creationdate="20141231T123515Z">
