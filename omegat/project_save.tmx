@@ -1526,6 +1526,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Point</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132704Z" creationid="hcremers" creationdate="20141231T132704Z">
+        <seg>Verwijder punt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Region</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132710Z" creationid="hcremers" creationdate="20141231T132710Z">
+        <seg>Verwijder gebied</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Selected Regions</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110125Z" creationid="hcremers" creationdate="20141226T110125Z">
@@ -2242,6 +2258,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145534Z" creationid="hcremers" creationdate="20141229T145534Z">
         <seg>Verberg afbeeldingstypes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Inner Region</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132651Z" creationid="hcremers" creationdate="20141231T132651Z">
+        <seg>Verberg binnen gebied</seg>
       </tuv>
     </tu>
     <tu>
@@ -3790,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Region Change</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132726Z" creationid="hcremers" creationdate="20141231T132726Z">
+        <seg>Gebiedswijziging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Region Mode</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153911Z" creationid="hcremers" creationdate="20141230T153911Z">
@@ -4642,6 +4674,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145524Z" creationid="hcremers" creationdate="20141229T145524Z">
         <seg>Toon afbeeldingstypes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Inner Region</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132658Z" creationid="hcremers" creationdate="20141231T132658Z">
+        <seg>Toon binnen gebied</seg>
       </tuv>
     </tu>
     <tu>
