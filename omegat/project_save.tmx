@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable the hue selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125652Z" creationid="hcremers" creationdate="20141231T125652Z">
+        <seg>Kleurtoon selectie uitschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103455Z" creationid="hcremers" creationdate="20141226T103455Z">
@@ -1722,6 +1730,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124554Z" creationid="hcremers" creationdate="20141231T124554Z">
         <seg>Inschakelen kleur selectie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable the hue selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125644Z" creationid="hcremers" creationdate="20141231T125644Z">
+        <seg>Kleurtoon selectie inschakelen</seg>
       </tuv>
     </tu>
     <tu>
