@@ -2214,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Height</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132622Z" creationid="hcremers" creationdate="20141231T132622Z">
+        <seg>Hoogte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, the darkest black of your photo becomes the darkest black that the device can render.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202329Z">
@@ -2522,6 +2530,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110443Z" creationid="hcremers" creationdate="20141226T110443Z">
         <seg>Leercentrum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132329Z" creationid="hcremers" creationdate="20141231T132329Z">
+        <seg>Links</seg>
       </tuv>
     </tu>
     <tu>
@@ -3478,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pixels per inch</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132601Z" creationid="hcremers" creationdate="20141231T132601Z">
+        <seg>Beeldpunten per inch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please connect, then try again.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101133Z" creationid="hcremers" creationdate="20141226T101133Z">
@@ -3490,6 +3514,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105947Z" creationid="hcremers" creationdate="20141226T105947Z">
         <seg>Veelhoekige (polygonale) gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132325Z" creationid="hcremers" creationdate="20141231T132325Z">
+        <seg>Positie</seg>
       </tuv>
     </tu>
     <tu>
@@ -4298,6 +4330,30 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132750Z" creationid="hcremers" creationdate="20141223T132750Z">
         <seg>Opslaan...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132619Z" creationid="hcremers" creationdate="20141231T132619Z">
+        <seg>Schalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale to Fit</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132615Z" creationid="hcremers" creationdate="20141231T132615Z">
+        <seg>Passend schalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scaled Print Size</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132554Z" creationid="hcremers" creationdate="20141231T132554Z">
+        <seg>Geschaalde afdrukafmeting</seg>
       </tuv>
     </tu>
     <tu>
@@ -5494,6 +5550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Top</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132453Z" creationid="hcremers" creationdate="20141231T132453Z">
+        <seg>Bovenkant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105021Z" creationid="hcremers" creationdate="20141226T105021Z">
@@ -5730,6 +5794,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132002Z" creationid="hcremers" creationdate="20141231T132002Z">
         <seg>Wit punt wijziging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132626Z" creationid="hcremers" creationdate="20141231T132626Z">
+        <seg>Breedte</seg>
       </tuv>
     </tu>
     <tu>
