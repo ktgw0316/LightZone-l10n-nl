@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T145011Z" creationid="hcremers" creationdate="20141231T144627Z">
+        <seg>(Gebruik de Shift toets om meerdere, achtereenvolgende miniaturen te selecteren of de &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; toets om meerdere, niet aaneengesloten miniaturen te selecteren).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(a) no color selected</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142643Z" creationid="hcremers" creationdate="20141231T142643Z">
