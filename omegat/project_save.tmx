@@ -2174,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invert Masks</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T123917Z" creationid="hcremers" creationdate="20141231T123907Z">
+        <seg>Maskers omkeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is one of these the right image?</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205849Z" creationid="hcremers" creationdate="20141225T205849Z">
@@ -3494,6 +3502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset Color Selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T123851Z" creationid="hcremers" creationdate="20141231T123851Z">
+        <seg>Terugzetten kleur selectie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset Crop</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T091347Z" creationid="hcremers" creationdate="20141230T091347Z">
@@ -3514,6 +3530,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T091330Z" creationid="hcremers" creationdate="20141230T091330Z">
         <seg>Draaiing terugzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset color selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T123758Z" creationid="hcremers" creationdate="20141231T123758Z">
+        <seg>Terugzetten kleur selectie</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,6 +4938,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T123613Z" creationid="hcremers" creationdate="20141231T123613Z">
         <seg>Gereedschap matheid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool Settings</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124001Z" creationid="hcremers" creationdate="20141231T124001Z">
+        <seg>Gereedschapsinstellingen</seg>
       </tuv>
     </tu>
     <tu>
