@@ -5534,6 +5534,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Luminosity Zones</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132125Z" creationid="hcremers" creationdate="20141231T132125Z">
+        <seg>Gebruik lichtsterkte zones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use RGB Zones</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132111Z" creationid="hcremers" creationdate="20141231T132111Z">
+        <seg>Gebruik RGB zones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use This</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090516Z" creationid="hcremers" creationdate="20141226T090516Z">
@@ -5754,6 +5770,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153228Z" creationid="hcremers" creationdate="20141230T153228Z">
         <seg>Zone vertalingszones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone Placement</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132148Z" creationid="hcremers" creationdate="20141231T132148Z">
+        <seg>Zone Plaatsing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone Type Change</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132138Z" creationid="hcremers" creationdate="20141231T132138Z">
+        <seg>Zone type wijziging</seg>
       </tuv>
     </tu>
     <tu>
