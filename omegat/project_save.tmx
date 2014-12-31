@@ -1566,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Style failed</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133401Z" creationid="hcremers" creationdate="20141231T133401Z">
+        <seg>Verwijderen stijl niet gelukt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete the selected image</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T204246Z" creationid="hcremers" creationdate="20141226T204246Z">
@@ -2010,6 +2018,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103811Z" creationid="hcremers" creationdate="20141226T103811Z">
         <seg>Exporteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Style</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133330Z" creationid="hcremers" creationdate="20141231T133330Z">
+        <seg>Stijl exporteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133323Z" creationid="hcremers" creationdate="20141231T133323Z">
+        <seg>Exporteren...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,10 +2486,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import Style</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133319Z" creationid="hcremers" creationdate="20141231T133319Z">
+        <seg>Stijl importeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import as Style</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131712Z" creationid="hcremers" creationdate="20141223T131712Z">
         <seg>Importeren als stijl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133313Z" creationid="hcremers" creationdate="20141231T133313Z">
+        <seg>Importeren...</seg>
       </tuv>
     </tu>
     <tu>
