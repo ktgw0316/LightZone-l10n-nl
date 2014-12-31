@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can't Launch LightZone</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141338Z" creationid="hcremers" creationdate="20141231T141338Z">
+        <seg>Kan LightZone niet starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T192651Z" creationid="hcremers" creationdate="20141222T192651Z">
@@ -2358,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Inspectors</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141059Z" creationid="hcremers" creationdate="20141231T141059Z">
+        <seg>Verberg Inspecteurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Previews</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153021Z" creationid="hcremers" creationdate="20141230T153021Z">
@@ -2562,6 +2578,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T153606Z" creationid="hcremers" creationdate="20141223T153606Z">
         <seg>Initialiseren hulpprogramma's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inspectors</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141042Z" creationid="hcremers" creationdate="20141231T141042Z">
+        <seg>Inspecteurs</seg>
       </tuv>
     </tu>
     <tu>
@@ -2842,6 +2866,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T152240Z" creationid="hcremers" creationdate="20141226T152240Z">
         <seg>LightZone moet nu worden gesloten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone on Linux requires a CPU supporting the SSE2 instruction set.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141440Z" creationid="hcremers" creationdate="20141231T141440Z">
+        <seg>LightZone op Linux heeft een processor (CPU) nodig die de SSE2 instructie set ondersteunt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4874,6 +4906,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132658Z" creationid="hcremers" creationdate="20141231T132658Z">
         <seg>Toon binnen gebied</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Inspectors</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141050Z" creationid="hcremers" creationdate="20141231T141050Z">
+        <seg>Toon Inspecteurs</seg>
       </tuv>
     </tu>
     <tu>
