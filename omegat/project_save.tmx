@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In (b), the blues have been selected so the areas of the photo that are blue are shown as white (selected) and the rest is shown as black (not selected).</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142852Z" creationid="hcremers" creationdate="20141231T142852Z">
+        <seg>In (b) zijn de blauwen geselecteerd, zodat de gebieden in de foto die blauw zijn worden getoond als wit (geselecteerd) en de rest wordt getoond als zwart) niet geselecteerd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to understand blending modes, there are a few terms to know:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T095413Z">
@@ -5874,6 +5882,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141218T140935Z" creationid="hcremers" creationdate="20141218T140935Z">
         <seg>Om alleen op basis van de kleurtoon te selecteren, moet het Lichtsterkte selectievakje worden uitgevinkt; om alleen op basis van de lichtsterkte te selecteren, moet het Kleurtoon selectievakje uitgevinkt worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show the Color Selection Preview:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142920Z" creationid="hcremers" creationdate="20141231T142920Z">
+        <seg>Om het kleur selectie voorbeeld te tonen:</seg>
       </tuv>
     </tu>
     <tu>
