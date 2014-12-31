@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Start.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150126Z" creationid="hcremers" creationdate="20141231T150126Z">
+        <seg>Klick start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T134451Z" creationid="hcremers" creationdate="20141220T134451Z">
@@ -4914,6 +4922,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T145934Z" creationid="hcremers" creationdate="20141231T145934Z">
         <seg>Selecteer het doeltype van de te verwerken afbeelding: JPEG of TIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select whether to use LZW compression (TIFF only).</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150119Z" creationid="hcremers" creationdate="20141231T150119Z">
+        <seg>Selecteer of LZW compressie gebruikt moet worden (alleen TIFF).</seg>
       </tuv>
     </tu>
     <tu>
