@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invert Color Selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131222Z" creationid="hcremers" creationdate="20141231T131222Z">
+        <seg>Kleurselectie omkeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invert Masks</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T123917Z" creationid="hcremers" creationdate="20141231T123907Z">
@@ -3002,6 +3010,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101146Z">
         <seg>Normaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal Color Selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131232Z" creationid="hcremers" creationdate="20141231T131232Z">
+        <seg>Normale kleur selectie</seg>
       </tuv>
     </tu>
     <tu>
@@ -4250,6 +4266,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100544Z" creationid="hcremers" creationdate="20141214T100544Z">
         <seg>Kies het gereedschap en klik in de titelbalk waarvoor de kleur/lichtsterkte selectie gemaakt moet worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131237Z" creationid="hcremers" creationdate="20141231T131237Z">
+        <seg>Selectie</seg>
       </tuv>
     </tu>
     <tu>
