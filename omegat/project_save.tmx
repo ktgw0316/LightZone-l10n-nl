@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An image format that uses "lossy" compression to achieve small file size.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150827Z" creationid="hcremers" creationdate="20141231T150827Z">
+        <seg>Een afbeeldingsformaat dat compressie met kwaliteitsverlies gebruikt om een kleine bestandsgrootte te bereiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An updated version of LightZone is required to read this Style</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151154Z" creationid="hcremers" creationdate="20141230T151154Z">
