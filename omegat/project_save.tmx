@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anatomy-Browser.html</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T143521Z" creationid="hcremers" creationdate="20141231T143521Z">
+        <seg>Anatomie-Browser.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150428Z" creationid="hcremers" creationdate="20141229T150428Z">
@@ -2642,6 +2650,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142852Z" creationid="hcremers" creationdate="20141231T142852Z">
         <seg>In (b) zijn de blauwen geselecteerd, zodat de gebieden in de foto die blauw zijn worden getoond als wit (geselecteerd) en de rest wordt getoond als zwart) niet geselecteerd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to being able to &lt;a0&gt;convert images individually&lt;/a0&gt;, you can use the &lt;a1&gt;Photo Browser&lt;/a1&gt; to convert multiple images as a batch.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T143709Z" creationid="hcremers" creationdate="20141231T143709Z">
+        <seg>Naast het &lt;a0&gt;verwerken van individuele afbeeldingen&lt;/a0&gt;, kan de &lt;a1&gt;Foto Browser&lt;/a1&gt;gebruikt worden om meerdere afbeeldignen te verwerken in een batch.</seg>
       </tuv>
     </tu>
     <tu>
