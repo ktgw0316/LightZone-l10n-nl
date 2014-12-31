@@ -2358,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invert the color selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125905Z" creationid="hcremers" creationdate="20141231T125905Z">
+        <seg>Kleurselectie omkeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is one of these the right image?</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205849Z" creationid="hcremers" creationdate="20141225T205849Z">
@@ -3850,6 +3858,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103805Z" creationid="hcremers" creationdate="20141226T103805Z">
         <seg>Teruggaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert the color selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125935Z" creationid="hcremers" creationdate="20141231T125935Z">
+        <seg>Draai kleurselectie terug</seg>
       </tuv>
     </tu>
     <tu>
