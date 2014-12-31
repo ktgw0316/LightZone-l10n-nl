@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch converting images</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T143414Z" creationid="hcremers" creationdate="20141231T143414Z">
+        <seg>Batch verwerken van afbeeldingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Between Region Changes</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T165109Z" creationid="hcremers" creationdate="20141226T165109Z">
@@ -2502,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to batch convert your photos to JPEG or TIFF image files.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T143359Z" creationid="hcremers" creationdate="20141231T143359Z">
+        <seg>Hoe uw foto's in een batch te verwerken tot JPEG of TIFF afbeeldingsbestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T204018Z">
@@ -2954,6 +2970,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185419Z">
         <seg>LightZone: Dankbetuiging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Batch Converting Images</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T143200Z" creationid="hcremers" creationdate="20141231T143200Z">
+        <seg>LightZone: Batch verwerking van afbeeldingen</seg>
       </tuv>
     </tu>
     <tu>
