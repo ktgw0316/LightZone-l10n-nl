@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a new Style</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133132Z" creationid="hcremers" creationdate="20141231T133132Z">
+        <seg>Nieuwe stijl toevoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, color/luminosity selections have adjustable feathering thus eliminating sharp edges between where a selection is and isn't.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100255Z" creationid="hcremers" creationdate="20141214T100255Z">
@@ -1254,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't access Styles</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133235Z" creationid="hcremers" creationdate="20141231T133235Z">
+        <seg>Geen toegang tot stijlen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't access the "$1" Style</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132641Z" creationid="hcremers" creationdate="20141223T132641Z">
@@ -1810,6 +1826,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154515Z" creationid="hcremers" creationdate="20141230T154515Z">
         <seg>Bewerkings afmeting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit the list of Styles</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133154Z" creationid="hcremers" creationdate="20141231T133154Z">
+        <seg>Wijzig de stijl lijst</seg>
       </tuv>
     </tu>
     <tu>
@@ -3918,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove this Style</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133145Z" creationid="hcremers" creationdate="20141231T133145Z">
+        <seg>Verwijder deze stijl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rename $1 to:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150112Z" creationid="hcremers" creationdate="20141229T150112Z">
@@ -4090,6 +4122,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154145Z" creationid="hcremers" creationdate="20141230T154145Z">
         <seg>Aanpassen naar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore Factory Styles</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133221Z" creationid="hcremers" creationdate="20141231T133221Z">
+        <seg>Terugzetten stijl fabrieksinstellingen</seg>
       </tuv>
     </tu>
     <tu>
