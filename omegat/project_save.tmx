@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't access Style "$1"</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133530Z" creationid="hcremers" creationdate="20141231T133530Z">
+        <seg>Geen toegang tot stijl "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't access Styles</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133235Z" creationid="hcremers" creationdate="20141231T133235Z">
@@ -1390,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't read Style from "$1"</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133547Z" creationid="hcremers" creationdate="20141231T133547Z">
+        <seg>Kan stijl "$1" niet lezen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't rename "$1" to "$2"</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133638Z" creationid="hcremers" creationdate="20141223T133638Z">
@@ -1426,6 +1442,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T132808Z" creationid="hcremers" creationdate="20141223T132808Z">
         <seg>Kan niet opslaan naar $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't store Style "$1"</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133615Z" creationid="hcremers" creationdate="20141231T133615Z">
+        <seg>Kan stijl "$1" niet opslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't write Style "$1" to file "$2"</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133647Z" creationid="hcremers" creationdate="20141231T133647Z">
+        <seg>Kan niet schrijven van stijl "$1" naar bestand "$2"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2926,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage Styles</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133726Z" creationid="hcremers" creationdate="20141231T133726Z">
+        <seg>Stijlen beheren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Styles...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104757Z" creationid="hcremers" creationdate="20141226T104757Z">
@@ -3202,6 +3242,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104749Z" creationid="hcremers" creationdate="20141226T104749Z">
         <seg>Geen stijlen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Styles defined</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133504Z" creationid="hcremers" creationdate="20141231T133504Z">
+        <seg>Geen stijlen gedefineerd</seg>
       </tuv>
     </tu>
     <tu>
@@ -5130,6 +5178,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155431Z" creationid="hcremers" creationdate="20141230T155431Z">
         <seg>Sterkte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style "$1" was written to "$2"</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133720Z" creationid="hcremers" creationdate="20141231T133720Z">
+        <seg>Stijl "$1" is geschreven naar "$2"</seg>
       </tuv>
     </tu>
     <tu>
