@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Amount</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100255Z" creationid="hcremers" creationdate="20141231T100255Z">
+        <seg>Hoeveelheid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An updated version of LightZone is required to read this Style</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151154Z" creationid="hcremers" creationdate="20141230T151154Z">
@@ -1806,6 +1814,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuzz</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100030Z" creationid="hcremers" creationdate="20141231T100030Z">
+        <seg>Zachtheid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100149Z" creationid="hcremers" creationdate="20141231T100149Z">
+        <seg>Versterken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T170314Z" creationid="hcremers" creationdate="20141226T170314Z">
@@ -1986,6 +2010,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T204018Z">
         <seg>Vanwege het samendrukken van het helderheidsbereik gaat wel informatie van uw foto verloren, dit verlies wordt echter verspreid over het totale helderheidsbereik (en daarmee minder zichtbaar) en niet afgekapt bij de zwarte kant van het bereik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hue</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100206Z" creationid="hcremers" creationdate="20141231T100206Z">
+        <seg>KleurtoonHue</seg>
       </tuv>
     </tu>
     <tu>
@@ -2402,6 +2434,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111424Z" creationid="hcremers" creationdate="20141226T111424Z">
         <seg>Lokaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luminosity</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100250Z" creationid="hcremers" creationdate="20141231T100250Z">
+        <seg>Lichtsterkte</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,6 +3662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Saturation</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100213Z" creationid="hcremers" creationdate="20141231T100213Z">
+        <seg>Verzadiging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133907Z" creationid="hcremers" creationdate="20141223T133907Z">
@@ -4782,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tolerance</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100304Z" creationid="hcremers" creationdate="20141231T100304Z">
+        <seg>Tolerantie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool_Stack.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195003Z">
@@ -4930,6 +4986,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091035Z" creationid="hcremers" creationdate="20141226T091035Z">
         <seg>Versies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vibrance</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100245Z" creationid="hcremers" creationdate="20141231T100245Z">
+        <seg>Levendigheid</seg>
       </tuv>
     </tu>
     <tu>
