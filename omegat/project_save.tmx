@@ -3398,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick White Point</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132006Z" creationid="hcremers" creationdate="20141231T132006Z">
+        <seg>Kies wit punt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T192240Z" creationid="hcremers" creationdate="20141222T192240Z">
@@ -5650,6 +5658,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131623Z" creationid="hcremers" creationdate="20141231T131623Z">
         <seg>Wit balans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Point Change</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132002Z" creationid="hcremers" creationdate="20141231T132002Z">
+        <seg>Wit punt wijziging</seg>
       </tuv>
     </tu>
     <tu>
