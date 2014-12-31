@@ -5678,6 +5678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This requirement was introduced with version 2.4, in May 2007.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141509Z" creationid="hcremers" creationdate="20141231T141509Z">
+        <seg>Deze eis is ingevoerd met versie 2.4, in mei 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This reset will restore LightZone to its factory settings.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T143629Z" creationid="hcremers" creationdate="20141226T143629Z">
