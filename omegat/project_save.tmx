@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blending Mode</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T123538Z" creationid="hcremers" creationdate="20141231T123538Z">
+        <seg>Vermengings modus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blending modes</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T084815Z">
@@ -2830,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opacity Change</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T123523Z" creationid="hcremers" creationdate="20141231T123523Z">
+        <seg>Wijzig matheid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T102522Z" creationid="hcremers" creationdate="20141226T102522Z">
@@ -4006,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set opacity</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T123515Z" creationid="hcremers" creationdate="20141231T123515Z">
+        <seg>Stel matheid in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the color profile of your display device.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112424Z" creationid="hcremers" creationdate="20141226T112424Z">
@@ -4882,6 +4906,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100304Z" creationid="hcremers" creationdate="20141231T100304Z">
         <seg>Tolerantie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool Opacity</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T123613Z" creationid="hcremers" creationdate="20141231T123613Z">
+        <seg>Gereedschap matheid</seg>
       </tuv>
     </tu>
     <tu>
