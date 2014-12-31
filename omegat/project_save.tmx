@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(LightZone display a progress dialog while converting your photos.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150231Z" creationid="hcremers" creationdate="20141231T150231Z">
+        <seg>(LightZone toont een voortgangsdialoog terwijl het uw foto's verwerkt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(LightZone must restart for this to take effect.)</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111121Z" creationid="hcremers" creationdate="20141226T111121Z">
@@ -982,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Done.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150241Z" creationid="hcremers" creationdate="20141231T150241Z">
+        <seg>Klik klaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Start.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150126Z" creationid="hcremers" creationdate="20141231T150126Z">
@@ -1290,6 +1306,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204256Z" creationid="hcremers" creationdate="20141225T204256Z">
         <seg>Converteren ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converting images (individually)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150302Z" creationid="hcremers" creationdate="20141231T150302Z">
+        <seg>Verwerken afbeeldingen (individueel)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4706,6 +4730,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101248Z" creationid="hcremers" creationdate="20141226T101248Z">
         <seg>Opslaan naar $1...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving your work</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150316Z" creationid="hcremers" creationdate="20141231T150316Z">
+        <seg>Uw werk opslaan</seg>
       </tuv>
     </tu>
     <tu>
