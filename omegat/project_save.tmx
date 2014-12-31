@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application Managed Colors</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132224Z" creationid="hcremers" creationdate="20141231T132224Z">
+        <seg>Applicatie beheerde kleuren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Preset</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124347Z" creationid="hcremers" creationdate="20141231T124347Z">
@@ -798,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Center Image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132211Z" creationid="hcremers" creationdate="20141231T132211Z">
+        <seg>Afbeelding centreren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Channel Mixer</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131640Z" creationid="hcremers" creationdate="20141231T131640Z">
@@ -1030,10 +1046,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Handling</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132258Z" creationid="hcremers" creationdate="20141231T132258Z">
+        <seg>Kleur behandling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Intensity</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155321Z" creationid="hcremers" creationdate="20141230T155321Z">
         <seg>Kleur intensiteit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Management</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132237Z" creationid="hcremers" creationdate="20141231T132237Z">
+        <seg>Kleur beheer</seg>
       </tuv>
     </tu>
     <tu>
@@ -3310,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page Setup...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132203Z" creationid="hcremers" creationdate="20141231T132203Z">
+        <seg>Pagina instelling...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paste Region</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105057Z" creationid="hcremers" creationdate="20141226T105057Z">
@@ -3506,6 +3546,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204304Z" creationid="hcremers" creationdate="20141225T204304Z">
         <seg>Afdrukken ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printer Managed Colors</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132232Z" creationid="hcremers" creationdate="20141231T132232Z">
+        <seg>Printer beheerde kleuren</seg>
       </tuv>
     </tu>
     <tu>
