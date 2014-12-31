@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124148Z" creationid="hcremers" creationdate="20141231T124148Z">
+        <seg>Kleur selectie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Selection Mask</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153236Z" creationid="hcremers" creationdate="20141230T153236Z">
@@ -1422,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124208Z" creationid="hcremers" creationdate="20141231T124208Z">
+        <seg>Uitschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103455Z" creationid="hcremers" creationdate="20141226T103455Z">
@@ -1610,6 +1626,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154408Z" creationid="hcremers" creationdate="20141230T154408Z">
         <seg>Lege Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124200Z" creationid="hcremers" creationdate="20141231T124200Z">
+        <seg>Inschakelen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,6 +2498,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111424Z" creationid="hcremers" creationdate="20141226T111424Z">
         <seg>Lokaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124228Z" creationid="hcremers" creationdate="20141231T124228Z">
+        <seg>Vastzetten</seg>
       </tuv>
     </tu>
     <tu>
@@ -5018,6 +5050,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193240Z" creationid="hcremers" creationdate="20141222T193240Z">
         <seg>Onbekende fout bij verwerken van dit bestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124235Z" creationid="hcremers" creationdate="20141231T124235Z">
+        <seg>Losmaken</seg>
       </tuv>
     </tu>
     <tu>
