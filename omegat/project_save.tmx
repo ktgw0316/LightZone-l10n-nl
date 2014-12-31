@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Color Mask tab.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142959Z" creationid="hcremers" creationdate="20141231T142959Z">
+        <seg>Klik op het kleur masker tabblad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the Crop button again to commit.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T192224Z" creationid="hcremers" creationdate="20141222T192224Z">
@@ -6314,6 +6322,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132138Z" creationid="hcremers" creationdate="20141231T132138Z">
         <seg>Zone type wijziging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZoneFinder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T143013Z" creationid="hcremers" creationdate="20141231T143013Z">
+        <seg>ZoneVinder</seg>
       </tuv>
     </tu>
     <tu>
