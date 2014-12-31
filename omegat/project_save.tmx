@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Selection Viewer</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142000Z" creationid="hcremers" creationdate="20141231T142000Z">
+        <seg>Kleur selectie weergave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Selector</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124530Z" creationid="hcremers" creationdate="20141231T124530Z">
@@ -4890,6 +4898,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150601Z">
         <seg>Schaduwen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharing space with the &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Histogram&lt;/a1&gt;, and &lt;a2&gt;Sampler&lt;/a2&gt; in the upper-right corner of the LightZone window is also the Color Selection Viewer that shows the areas of your photo that are in the selected tool's &lt;a3&gt;color/luminosity selection&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142353Z" creationid="hcremers" creationdate="20141231T142353Z">
+        <seg>De kleur selectie weergave bevindt zich rechtsboven in het LightZone scherm en deelt deze ruimte met de &lt;a0&gt;ZoneVinder&lt;/a0&gt;, &lt;a1&gt;Histogram&lt;/a1&gt; en &lt;a2&gt;Pipet&lt;/a2&gt;. Deze weergave toont de gebieden in uw foto die de &lt;a3&gt;kleur/lichtsterkte selectie&lt;/a3&gt; van het gekozen gereedschap.</seg>
       </tuv>
     </tu>
     <tu>
