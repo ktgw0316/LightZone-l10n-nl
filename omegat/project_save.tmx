@@ -4382,6 +4382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperature</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100327Z" creationid="hcremers" creationdate="20141231T100327Z">
+        <seg>Temperatuur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Convert&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Convert&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213731Z" creationid="hcremers" creationdate="20141213T213731Z">
@@ -4754,6 +4762,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111926Z" creationid="hcremers" creationdate="20141226T111926Z">
         <seg>Dit zal de afbeeldingsvoorbeelden en orientaties verwijderen die door de LightZone browser waren opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Threshold</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100340Z" creationid="hcremers" creationdate="20141231T100340Z">
+        <seg>Drempel</seg>
       </tuv>
     </tu>
     <tu>
