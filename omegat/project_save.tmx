@@ -6142,6 +6142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the Photo Browser, select two or more thumbnails of the photos that you want to convert.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T144042Z" creationid="hcremers" creationdate="20141231T144042Z">
+        <seg>Selecteer twee of meer miniaturen van foto's die u wilt verwerken in de Foto Browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Verifying Libraries</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T151259Z" creationid="hcremers" creationdate="20141223T151259Z">
