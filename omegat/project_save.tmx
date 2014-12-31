@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel color selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125343Z" creationid="hcremers" creationdate="20141231T125343Z">
+        <seg>Annuleer kleur selectie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot redo</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151222Z" creationid="hcremers" creationdate="20141230T151222Z">
@@ -2114,6 +2122,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153615Z" creationid="hcremers" creationdate="20141230T153615Z">
         <seg>Verberg draaigereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide extra tool controls</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125536Z" creationid="hcremers" creationdate="20141231T125536Z">
+        <seg>Verberg extra gereedschapsbediening</seg>
       </tuv>
     </tu>
     <tu>
@@ -4346,6 +4362,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T170027Z" creationid="hcremers" creationdate="20141226T170027Z">
         <seg>Toon en verberg de randen met titels rond de knoppen in de LightZone gereedschapsbalken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show extra tool controls</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125525Z" creationid="hcremers" creationdate="20141231T125525Z">
+        <seg>Toon extra gereedschapbediening</seg>
       </tuv>
     </tu>
     <tu>
