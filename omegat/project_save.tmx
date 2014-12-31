@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clone</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131722Z" creationid="hcremers" creationdate="20141231T131722Z">
+        <seg>Kloon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close Image</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T104805Z" creationid="hcremers" creationdate="20141226T104805Z">
@@ -3510,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RAW Adjustments</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131808Z" creationid="hcremers" creationdate="20141231T131808Z">
+        <seg>RAW aanpassingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Range</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100412Z" creationid="hcremers" creationdate="20141231T100412Z">
@@ -3610,6 +3626,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155253Z" creationid="hcremers" creationdate="20141230T155253Z">
         <seg>Rood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red Eyes</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131755Z" creationid="hcremers" creationdate="20141231T131755Z">
+        <seg>Rode ogen</seg>
       </tuv>
     </tu>
     <tu>
@@ -4686,6 +4710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smart Sharpen</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131802Z" creationid="hcremers" creationdate="20141231T131802Z">
+        <seg>Slim verscherpen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soft Burn</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150802Z">
@@ -4746,6 +4778,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110104Z" creationid="hcremers" creationdate="20141226T110104Z">
         <seg>Vrijevorm kromme (spline) gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spot</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131750Z" creationid="hcremers" creationdate="20141231T131750Z">
+        <seg>Vlek</seg>
       </tuv>
     </tu>
     <tu>
