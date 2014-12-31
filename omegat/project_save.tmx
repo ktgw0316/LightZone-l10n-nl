@@ -158,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(a) no color selected</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142643Z" creationid="hcremers" creationdate="20141231T142643Z">
+        <seg>(a) geen kleur geselecteerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) blues selected</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142654Z" creationid="hcremers" creationdate="20141231T142654Z">
+        <seg>(b) blauwen geselecteerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...and $1 more</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153804Z" creationid="hcremers" creationdate="20141230T153804Z">
@@ -2238,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, compare what is shown below.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142631Z" creationid="hcremers" creationdate="20141231T142631Z">
+        <seg>Vergelijk bv. wat hieronder wordt vergeleken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuzz</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100030Z" creationid="hcremers" creationdate="20141231T100030Z">
@@ -2578,6 +2602,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133313Z" creationid="hcremers" creationdate="20141231T133313Z">
         <seg>Importeren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In (a), no selection has been made so the viewer shows your entire photo in full color.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142733Z" creationid="hcremers" creationdate="20141231T142733Z">
+        <seg>In (a) is geen selectie gemaakt zodat de weergave de gehele foto in volledige kleur toont.</seg>
       </tuv>
     </tu>
     <tu>
