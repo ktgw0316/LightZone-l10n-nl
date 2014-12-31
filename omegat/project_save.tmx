@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel neutral color selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T140900Z" creationid="hcremers" creationdate="20141231T140900Z">
+        <seg>Annuleer de neutrale kleurselectie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot redo</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151222Z" creationid="hcremers" creationdate="20141230T151222Z">
@@ -4666,6 +4674,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145644Z" creationid="hcremers" creationdate="20141229T145644Z">
         <seg>Selecteer een folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a neutral color in the photo</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T140847Z" creationid="hcremers" creationdate="20141231T140847Z">
+        <seg>Selecteer een neutrale kleur in de foto</seg>
       </tuv>
     </tu>
     <tu>
