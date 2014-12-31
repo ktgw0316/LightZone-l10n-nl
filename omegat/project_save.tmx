@@ -4910,6 +4910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the type of image to convert to: JPEG or TIFF.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T145934Z" creationid="hcremers" creationdate="20141231T145934Z">
+        <seg>Selecteer het doeltype van de te verwerken afbeelding: JPEG of TIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131237Z" creationid="hcremers" creationdate="20141231T131237Z">
