@@ -5630,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This program has run out of memory and will now shut down.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T140939Z" creationid="hcremers" creationdate="20141231T140939Z">
+        <seg>Dit programma heeft niet genoeg intern geheugen en zal nu sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This reset will restore LightZone to its factory settings.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T143629Z" creationid="hcremers" creationdate="20141226T143629Z">
