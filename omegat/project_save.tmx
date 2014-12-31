@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add $1</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124419Z" creationid="hcremers" creationdate="20141231T124419Z">
+        <seg>$1 toevoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, color/luminosity selections have adjustable feathering thus eliminating sharp edges between where a selection is and isn't.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100255Z" creationid="hcremers" creationdate="20141214T100255Z">
@@ -410,6 +418,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T210539Z" creationid="hcremers" creationdate="20141226T210539Z">
         <seg>Diafragma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Preset</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124347Z" creationid="hcremers" creationdate="20141231T124347Z">
+        <seg>Instelling toepassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Presets</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124410Z" creationid="hcremers" creationdate="20141231T124410Z">
+        <seg>Instellingen toepassen</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124451Z" creationid="hcremers" creationdate="20141231T124451Z">
+        <seg>Gereedschap inklappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse image stacks</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103059Z" creationid="hcremers" creationdate="20141226T103059Z">
@@ -898,6 +930,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102033Z">
         <seg>Kleur tegenhouden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Dropper Selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124540Z" creationid="hcremers" creationdate="20141231T124540Z">
+        <seg>Kleur pipet selectie</seg>
       </tuv>
     </tu>
     <tu>
@@ -954,6 +994,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153236Z" creationid="hcremers" creationdate="20141230T153236Z">
         <seg>Kleur selectie masker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Selector</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124530Z" creationid="hcremers" creationdate="20141231T124530Z">
+        <seg>Kleur kiezer</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,6 +1762,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105015Z" creationid="hcremers" creationdate="20141226T105015Z">
         <seg>Afsluiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124439Z" creationid="hcremers" creationdate="20141231T124439Z">
+        <seg>Gereedschap uitklappen</seg>
       </tuv>
     </tu>
     <tu>
@@ -3454,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove $1</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124431Z" creationid="hcremers" creationdate="20141231T124431Z">
+        <seg>$1 verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove Aspect Ratio Constraints</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150644Z" creationid="hcremers" creationdate="20141229T150644Z">
@@ -4510,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Swap Tools</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124503Z" creationid="hcremers" creationdate="20141231T124503Z">
+        <seg>Gereedschappen wisselen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swap width and height</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T083840Z" creationid="hcremers" creationdate="20141230T083840Z">
@@ -4986,6 +5058,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100304Z" creationid="hcremers" creationdate="20141231T100304Z">
         <seg>Tolerantie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool Change</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124516Z" creationid="hcremers" creationdate="20141231T124516Z">
+        <seg>Wijzig gereedschap</seg>
       </tuv>
     </tu>
     <tu>
