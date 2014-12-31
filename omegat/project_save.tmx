@@ -6462,6 +6462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can convert your photos to either JPEG or TIFF images and in various sizes suitable for different purposes.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150652Z" creationid="hcremers" creationdate="20141231T150652Z">
+        <seg>U kunt uw foto's verwerken naar zowel JPEG als TIFF afbeeldingen en in verschillende afmetingen ten behoeve van verschillende doeleinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can go ahead and open this file, or you can try to import it as a LightZone Style.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131653Z" creationid="hcremers" creationdate="20141223T131653Z">
