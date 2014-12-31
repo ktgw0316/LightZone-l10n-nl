@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust the color range</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100426Z" creationid="hcremers" creationdate="20141231T100426Z">
+        <seg>Pas kleurbereik aan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Options</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154310Z" creationid="hcremers" creationdate="20141230T154310Z">
@@ -546,6 +554,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T195840Z">
         <seg>Zwartpunt compensatie probeert het verschil op te lossen tussen het donkerste zwart in uw foto en het donkerste zwart dat een uitvoerapparaat kan weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blend</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100352Z" creationid="hcremers" creationdate="20141231T100352Z">
+        <seg>Vermengen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blend Mode Change</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100407Z" creationid="hcremers" creationdate="20141231T100407Z">
+        <seg>Vermengings modus wijziging</seg>
       </tuv>
     </tu>
     <tu>
@@ -3186,6 +3210,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T133942Z" creationid="hcremers" creationdate="20141223T133942Z">
         <seg>Sluiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100412Z" creationid="hcremers" creationdate="20141231T100412Z">
+        <seg>Bereik</seg>
       </tuv>
     </tu>
     <tu>
