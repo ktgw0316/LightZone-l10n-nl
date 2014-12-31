@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black and White</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131651Z" creationid="hcremers" creationdate="20141231T131651Z">
+        <seg>Zwart wit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black point compensation</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T195408Z">
@@ -766,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Channel Mixer</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131640Z" creationid="hcremers" creationdate="20141231T131640Z">
+        <seg>Kanaal menger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check for Update</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112207Z" creationid="hcremers" creationdate="20141226T112207Z">
@@ -934,10 +950,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Balance</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131558Z" creationid="hcremers" creationdate="20141231T131558Z">
+        <seg>Kleur balans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Burn</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101547Z">
         <seg>Kleur doordrukken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Cast</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131616Z" creationid="hcremers" creationdate="20141231T131616Z">
+        <seg>Kleurzweem</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1098,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150057Z" creationid="hcremers" creationdate="20141229T150057Z">
         <seg>Doorgaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contrast Mask</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131345Z" creationid="hcremers" creationdate="20141231T131345Z">
+        <seg>Contrast masker</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gaussian Blur</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131520Z" creationid="hcremers" creationdate="20141231T131520Z">
+        <seg>Gaussiaanse vervaging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T170314Z" creationid="hcremers" creationdate="20141226T170314Z">
@@ -2218,6 +2266,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100206Z" creationid="hcremers" creationdate="20141231T100206Z">
         <seg>KleurtoonHue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hue/Saturation</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131541Z" creationid="hcremers" creationdate="20141231T131541Z">
+        <seg>Kleurtoon/Verzadiging</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Noise Reduction</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131701Z" creationid="hcremers" creationdate="20141231T131701Z">
+        <seg>Ruisonderdrukking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100546Z" creationid="hcremers" creationdate="20141226T100546Z">
@@ -3610,6 +3674,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T131206Z" creationid="hcremers" creationdate="20141220T131206Z">
         <seg>Gebieden.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relight</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131417Z" creationid="hcremers" creationdate="20141231T131417Z">
+        <seg>Herbelichten (Relight)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4354,6 +4426,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T150601Z">
         <seg>Schaduwen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpen</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131424Z" creationid="hcremers" creationdate="20141231T131424Z">
+        <seg>Verscherpen</seg>
       </tuv>
     </tu>
     <tu>
@@ -5490,6 +5570,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101142Z">
         <seg>Hoewel een beschrijving van elke modus hieronder volgt, is het aan te raden te experimenteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Balance</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131623Z" creationid="hcremers" creationdate="20141231T131623Z">
+        <seg>Wit balans</seg>
       </tuv>
     </tu>
     <tu>
