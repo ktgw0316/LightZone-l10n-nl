@@ -3230,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Newer Java required</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141717Z" creationid="hcremers" creationdate="20141231T141717Z">
+        <seg>Nieuwere Java benodigd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Browser</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105223Z" creationid="hcremers" creationdate="20141226T105223Z">
@@ -4706,6 +4714,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150326Z" creationid="hcremers" creationdate="20141229T150326Z">
         <seg>Selecteer recent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Software Update to get the latest Java from Apple.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141743Z" creationid="hcremers" creationdate="20141231T141743Z">
+        <seg>Selecteer Software Update om de laatste Java versie bij Apple op te halen.</seg>
       </tuv>
     </tu>
     <tu>
