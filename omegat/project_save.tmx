@@ -3438,6 +3438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember Preset</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124331Z" creationid="hcremers" creationdate="20141231T124331Z">
+        <seg>Instelling onthouden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remind me later</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101200Z" creationid="hcremers" creationdate="20141226T101200Z">
@@ -3466,6 +3474,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T145629Z" creationid="hcremers" creationdate="20141229T145629Z">
         <seg>Verwijder waardering en selecteer volgende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove from the stack</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124324Z" creationid="hcremers" creationdate="20141231T124324Z">
+        <seg>Verwijderen van de stapel</seg>
       </tuv>
     </tu>
     <tu>
@@ -3986,6 +4002,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205154Z" creationid="hcremers" creationdate="20141226T205154Z">
         <seg>Selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select $1 Preset</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124314Z" creationid="hcremers" creationdate="20141231T124314Z">
+        <seg>Selecteer $1 instelling</seg>
       </tuv>
     </tu>
     <tu>
