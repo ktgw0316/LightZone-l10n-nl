@@ -494,10 +494,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As Shot</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131948Z" creationid="hcremers" creationdate="20141231T131948Z">
+        <seg>Als gefotografeerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As-Shot White Balance</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131937Z" creationid="hcremers" creationdate="20141231T131937Z">
+        <seg>Als-gefotografeerd wit balans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Save</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111138Z" creationid="hcremers" creationdate="20141226T111138Z">
         <seg>Auto-opslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto White Balance</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131907Z" creationid="hcremers" creationdate="20141231T131907Z">
+        <seg>Auto wit balans</seg>
       </tuv>
     </tu>
     <tu>
@@ -3362,6 +3386,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T155250Z" creationid="hcremers" creationdate="20141230T155250Z">
         <seg>Kies kleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick White Balance</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131901Z" creationid="hcremers" creationdate="20141231T131901Z">
+        <seg>Kies wit balans</seg>
       </tuv>
     </tu>
     <tu>
