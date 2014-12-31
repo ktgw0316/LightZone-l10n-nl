@@ -4038,6 +4038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset the rotation angle</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132806Z" creationid="hcremers" creationdate="20141231T132806Z">
+        <seg>Draaihoek terugzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset...</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112817Z" creationid="hcremers" creationdate="20141226T112817Z">
@@ -4202,6 +4210,38 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T144851Z" creationid="hcremers" creationdate="20141229T144851Z">
         <seg>Draaien rechts en volgende selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132739Z" creationid="hcremers" creationdate="20141231T132739Z">
+        <seg>Draai de afbeelding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image (fine)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132752Z" creationid="hcremers" creationdate="20141231T132752Z">
+        <seg>Draai de afbeelding (fijn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image 90 degrees clockwise</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133100Z" creationid="hcremers" creationdate="20141231T133100Z">
+        <seg>Draai de afbeelding 90 graden rechtsom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image 90 degrees counterclockwise</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133039Z" creationid="hcremers" creationdate="20141231T132838Z">
+        <seg>Draai de afbeelding 90 graden linksom</seg>
       </tuv>
     </tu>
     <tu>
@@ -4594,6 +4634,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T123515Z" creationid="hcremers" creationdate="20141231T123515Z">
         <seg>Stel matheid in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the angle of rotation in degrees</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133121Z" creationid="hcremers" creationdate="20141231T133121Z">
+        <seg>Stel de draaihoek in in graden</seg>
       </tuv>
     </tu>
     <tu>
