@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse this tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124622Z" creationid="hcremers" creationdate="20141231T124622Z">
+        <seg>Dit gereedschap inklappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Burn</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T101547Z">
@@ -1486,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable Color Selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124602Z" creationid="hcremers" creationdate="20141231T124602Z">
+        <seg>Uitschakelen kleur selectie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103455Z" creationid="hcremers" creationdate="20141226T103455Z">
@@ -1686,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable Color Selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124554Z" creationid="hcremers" creationdate="20141231T124554Z">
+        <seg>Inschakelen kleur selectie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enforce aspect ratio constraints</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150704Z" creationid="hcremers" creationdate="20141229T150704Z">
@@ -1778,6 +1802,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103220Z" creationid="hcremers" creationdate="20141226T103220Z">
         <seg>Uitklappen afbeeldingsstapels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand this tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124614Z" creationid="hcremers" creationdate="20141231T124614Z">
+        <seg>Dit gereedschap uitklappen</seg>
       </tuv>
     </tu>
     <tu>
@@ -4362,6 +4394,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153554Z" creationid="hcremers" creationdate="20141230T153531Z">
         <seg>Toon het draaigereedschap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the help for this tool</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124634Z" creationid="hcremers" creationdate="20141231T124634Z">
+        <seg>Toon help voor dit gereedschap</seg>
       </tuv>
     </tu>
     <tu>
