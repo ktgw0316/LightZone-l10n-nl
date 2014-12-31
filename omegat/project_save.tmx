@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 of 2</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150532Z" creationid="hcremers" creationdate="20141231T150532Z">
+        <seg>1 van 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8 Bits/Channel</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154203Z" creationid="hcremers" creationdate="20141230T154203Z">
@@ -1306,6 +1314,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T204256Z" creationid="hcremers" creationdate="20141225T204256Z">
         <seg>Converteren ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converting images</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150509Z" creationid="hcremers" creationdate="20141231T150509Z">
+        <seg>Verwerken afbeeldingen</seg>
       </tuv>
     </tu>
     <tu>
