@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable the luminosity selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125746Z" creationid="hcremers" creationdate="20141231T125746Z">
+        <seg>Lichtsterkte selectie uitschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103455Z" creationid="hcremers" creationdate="20141226T103455Z">
@@ -1738,6 +1746,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125644Z" creationid="hcremers" creationdate="20141231T125644Z">
         <seg>Kleurtoon selectie inschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable the luminosity selection</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125735Z" creationid="hcremers" creationdate="20141231T125735Z">
+        <seg>Lichtsterkte selectie inschakelen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,6 +2338,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193120Z" creationid="hcremers" creationdate="20141222T193120Z">
         <seg>Ongeldig afbeeldingsbestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125806Z" creationid="hcremers" creationdate="20141231T125806Z">
+        <seg>Omkeren</seg>
       </tuv>
     </tu>
     <tu>
@@ -4186,6 +4210,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T204617Z" creationid="hcremers" creationdate="20141226T204617Z">
         <seg>Selecteer alleen de meest recente versie van elke stapel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the hue range</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125720Z" creationid="hcremers" creationdate="20141231T125720Z">
+        <seg>Selecteer het kleurtoon bereik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the luminosity range</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125758Z" creationid="hcremers" creationdate="20141231T125758Z">
+        <seg>Selecteer het lichtsterkte bereik</seg>
       </tuv>
     </tu>
     <tu>
