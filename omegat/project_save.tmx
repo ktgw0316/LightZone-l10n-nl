@@ -4830,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Browser &gt; Convert... (The batch convert dialog will be presented.)</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T145134Z" creationid="hcremers" creationdate="20141231T145134Z">
+        <seg>Selecteer Browser &gt; Verwerken... (de batch verwerken dialoog zal verschijnen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Recent</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150326Z" creationid="hcremers" creationdate="20141229T150326Z">
