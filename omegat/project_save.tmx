@@ -4998,6 +4998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the quality (for JPEG) or bit depth (for TIFF).</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150026Z" creationid="hcremers" creationdate="20141231T150026Z">
+        <seg>Stel de kwaliteit in (voor JPEG) of de bit diepte (voor TIFF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T153238Z" creationid="hcremers" creationdate="20141226T153238Z">
