@@ -4982,6 +4982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a destination folder for the converted image.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T145725Z" creationid="hcremers" creationdate="20150101T145725Z">
+        <seg>Selecteer een doel folder voor de bewerkte afbeelding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a neutral color in the photo</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T140847Z" creationid="hcremers" creationdate="20141231T140847Z">
