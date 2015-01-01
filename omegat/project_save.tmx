@@ -3078,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone comes bundled with many ready-made styles that in many cases enable you to improve the appeal of your photos dramatically with a single click.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T195419Z" creationid="hcremers" creationdate="20150101T195419Z">
+        <seg>LightZone bevat kant-en-klare stijlen die u in veel gevallen in staat stellen om de aantrekkingskracht van uw foto's te verbeteren met een enkele klik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone copied $1 to $2, but could not delete the old image from $3.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103717Z" creationid="hcremers" creationdate="20141226T103717Z">
