@@ -3678,6 +3678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally enter a new name for the converted image.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T145650Z" creationid="hcremers" creationdate="20150101T145650Z">
+        <seg>Optioneel kunt u een nieuwe naam ingeven voor de bewerkte afbeelding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optionally, adjust the Luminosity range sliders to affect the part of the selected luminosity range.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141220T130441Z" creationid="hcremers" creationdate="20141220T130441Z">
