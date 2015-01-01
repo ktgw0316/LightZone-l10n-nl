@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone uses a model based on the physics of light and methods derived from the experience of photographers through the decades -- in the field, behind the camera, and in the darkroom.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T194950Z" creationid="hcremers" creationdate="20150101T194950Z">
+        <seg>LightZone gebruikt een model dat is gebaseerd op de fysica van licht en methodes afgeleid van de decennia lange ervaringen van fotografen in het veld, achter de camera en in de donkere kamer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Acknowledgments</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T185419Z">
