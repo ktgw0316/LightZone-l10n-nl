@@ -4942,6 +4942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Convert Image... or Browser &gt; Convert...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T145457Z" creationid="hcremers" creationdate="20150101T145457Z">
+        <seg>Kies Bestand &gt; Bewerk afbeelding... of Browser &gt; Bewerken...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Recent</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150326Z" creationid="hcremers" creationdate="20141229T150326Z">
@@ -6058,6 +6066,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T143725Z" creationid="hcremers" creationdate="20141231T143725Z">
         <seg>Om uw foto's in batch te verwerken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To convert your photo:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T145356Z" creationid="hcremers" creationdate="20150101T145356Z">
+        <seg>Om uw foto te bewerken:</seg>
       </tuv>
     </tu>
     <tu>
