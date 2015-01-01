@@ -2838,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction to the breakthrough features of LightZone.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T192838Z" creationid="hcremers" creationdate="20150101T192838Z">
+        <seg>Introductie in de doorbraak eigenschappen van LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid image file</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193120Z" creationid="hcremers" creationdate="20141222T193120Z">
@@ -3194,6 +3202,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T184942Z" creationid="hcremers" creationdate="20150101T184853Z">
         <seg>LightZone: Standaard tint kromme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Discover</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T192754Z" creationid="hcremers" creationdate="20150101T192754Z">
+        <seg>LightZone: Ontdekken</seg>
       </tuv>
     </tu>
     <tu>
