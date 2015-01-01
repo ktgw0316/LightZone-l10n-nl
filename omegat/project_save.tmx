@@ -2926,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key Features</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T195003Z" creationid="hcremers" creationdate="20150101T195003Z">
+        <seg>Sleutel eigenschappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learning Center</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110443Z" creationid="hcremers" creationdate="20141226T110443Z">
@@ -3090,6 +3098,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T091327Z" creationid="hcremers" creationdate="20141226T091327Z">
         <seg>LightZone kon vorige keer niet starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone has a number of key features that set it apart from other photo editing applications.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T195144Z" creationid="hcremers" creationdate="20150101T195144Z">
+        <seg>LightZone heeft een aantal sleutel eigenschappen dat het onderscheidt van andere foto verwerkingsprogramma's.</seg>
       </tuv>
     </tu>
     <tu>
