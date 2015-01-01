@@ -5838,6 +5838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The raw files from some cameras, however, always need a default "tone curve" applied to them to look correctly.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T190538Z" creationid="hcremers" creationdate="20150101T190538Z">
+        <seg>De raw bestanden van sommige cameras hebben het echter altijd nodig dat een standaard tint kromme wordt toegepast om er correct uit te zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result color is always darker.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195340Z">
