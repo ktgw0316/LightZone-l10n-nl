@@ -3702,6 +3702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally, check &lt;a0&gt;Black point compensation&lt;/a0&gt; (applies only when the rendering intent is Relative Colorimetric).</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T150002Z" creationid="hcremers" creationdate="20150101T150002Z">
+        <seg>Optioneel, vink &lt;a0&gt;zwar punt compensatie&lt;/a0&gt; aan (van toepassing als het weergave doel Relatief Colorimetrisch is).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordinarily, a tool affects your entire photo.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095708Z" creationid="hcremers" creationdate="20141214T095708Z">
