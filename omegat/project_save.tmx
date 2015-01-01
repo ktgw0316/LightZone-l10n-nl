@@ -3712,8 +3712,8 @@
       <tuv lang="EN-US">
         <seg>Optionally, enter a different resolution and select a unit.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T150306Z" creationid="hcremers" creationdate="20150101T150306Z">
-        <seg>Optioneel, geen een andere resolutie in en kies een eenheid.</seg>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T184208Z" creationid="hcremers" creationdate="20150101T150306Z">
+        <seg>Optioneel, geef een andere resolutie in en kies een eenheid.</seg>
       </tuv>
     </tu>
     <tu>
