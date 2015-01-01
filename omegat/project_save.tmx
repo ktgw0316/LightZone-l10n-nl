@@ -5014,6 +5014,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the &lt;a0&gt;rendering intent&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T145826Z" creationid="hcremers" creationdate="20150101T145826Z">
+        <seg>Selecteer het &lt;a0&gt;weergave doel&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the color profile to include.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T145800Z" creationid="hcremers" creationdate="20150101T145800Z">
+        <seg>Selecteer het in te voegen kleur profiel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the hue range</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T125720Z" creationid="hcremers" creationdate="20141231T125720Z">
