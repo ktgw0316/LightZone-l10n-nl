@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After selecting a style, you are free to manipulate the settings of the individual tools ever further.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T195748Z" creationid="hcremers" creationdate="20150101T195748Z">
+        <seg>Nadat u een stijl heeft geselecteerd, kunt u de individuele gereedschappen van de stijl verder aanpassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the reset, LightZone must quit.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T143714Z" creationid="hcremers" creationdate="20141226T143714Z">
