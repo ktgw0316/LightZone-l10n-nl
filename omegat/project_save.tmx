@@ -5758,6 +5758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles are intelligent combinations of LightZone's &lt;a0&gt;tools&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T195604Z" creationid="hcremers" creationdate="20150101T195604Z">
+        <seg>Stijlen zijn slimme combinaties van &lt;a0&gt;gereedschappen&lt;/a0&gt; van LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194434Z">
