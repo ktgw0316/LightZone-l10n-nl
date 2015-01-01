@@ -1710,6 +1710,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default tone curve</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T184955Z" creationid="hcremers" creationdate="20150101T184933Z">
+        <seg>Standaard tint kromme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default tone curve tools.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T184948Z" creationid="hcremers" creationdate="20150101T184919Z">
+        <seg>Standaard tint kromme gereedschappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205159Z" creationid="hcremers" creationdate="20141226T205159Z">
@@ -3014,6 +3030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone can work with raw image files taken directly from the leading digital cameras as easily as with TIFF or JPEG images.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T185118Z" creationid="hcremers" creationdate="20150101T185118Z">
+        <seg>LightZone kan direct werken met raw afbeeldings bestanden direct van de grote digitale camera fabrikanten op dezelfde makkelijke manier als met TIFF of JPEG afbeeldingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone copied $1 to $2, but could not delete the old image from $3.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103717Z" creationid="hcremers" creationdate="20141226T103717Z">
@@ -3146,6 +3170,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150426Z" creationid="hcremers" creationdate="20141231T150426Z">
         <seg>LightZone: verwerken afbeeldingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Default Tone Curve</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T184942Z" creationid="hcremers" creationdate="20150101T184853Z">
+        <seg>LightZone: Standaard tint kromme</seg>
       </tuv>
     </tu>
     <tu>
