@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Despite that, this is usually the best format to use for import into other applications.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T145318Z" creationid="hcremers" creationdate="20150101T145318Z">
+        <seg>Ondanks dat, is dit meestal het beste formaat om te gebruiken voor het importeren in andere applicaties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Difference</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102302Z">
