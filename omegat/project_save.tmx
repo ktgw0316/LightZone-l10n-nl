@@ -3710,6 +3710,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally, enter a different resolution and select a unit.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T150306Z" creationid="hcremers" creationdate="20150101T150306Z">
+        <seg>Optioneel, geen een andere resolutie in en kies een eenheid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optionally, enter a width and height in pixels in the Resize To text fields to scale down your photo.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T150155Z" creationid="hcremers" creationdate="20150101T150155Z">
+        <seg>Optioneel, geef een breedte en hoogte in beeldpunten in de formaat wijzigings velden om uw foto te verkleinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordinarily, a tool affects your entire photo.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T095708Z" creationid="hcremers" creationdate="20141214T095708Z">
