@@ -2390,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For such raw files, LightZone automatically adds a &lt;a0&gt;ZoneMapper&lt;/a0&gt; containing the default tone curve to the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T191431Z" creationid="hcremers" creationdate="20150101T191325Z">
+        <seg>Voor deze raw bestanden voegt LightZone automatisch een &lt;a0&gt;ZoneMapper&lt;/a0&gt; toe met een standaard tint kromme aan de &lt;a1&gt;gereedschapsstapel&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuzz</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100030Z" creationid="hcremers" creationdate="20141231T100030Z">
