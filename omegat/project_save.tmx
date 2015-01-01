@@ -5862,6 +5862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The raw files from the following cameras will have a default tone curve:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T192425Z" creationid="hcremers" creationdate="20150101T192425Z">
+        <seg>De raw bestanden van de volgende cameras zullen een standaar tint kromme krijgen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result color is always darker.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T195340Z">
@@ -6274,6 +6282,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124001Z" creationid="hcremers" creationdate="20141231T124001Z">
         <seg>Gereedschapsinstellingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool anatomy</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T192515Z" creationid="hcremers" creationdate="20150101T192515Z">
+        <seg>Gereedschaps anatomie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool stack</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T192525Z" creationid="hcremers" creationdate="20150101T192525Z">
+        <seg>Gereedschapsstapel</seg>
       </tuv>
     </tu>
     <tu>
