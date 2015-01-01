@@ -2184,8 +2184,8 @@
       <tuv lang="EN-US">
         <seg>Even though the ZoneMapper is added collapsed and &lt;a2&gt;locked&lt;/a2&gt;, you can expand it (by double-clicking it in its title bar) to inspect the curve.</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T191637Z" creationid="hcremers" creationdate="20150101T191637Z">
-        <seg>Ook al wordt de ZoneMapper ingeklapt toegevoegd en is deze &lt;a2&gt;vastgelegd&lt;/a2&gt;, you can expand it (by double-clicking it in its title bar) to inspect the curve.</seg>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T192233Z" creationid="hcremers" creationdate="20150101T191637Z">
+        <seg>Ook al wordt de ZoneMapper ingeklapt toegevoegd en is deze &lt;a2&gt;beschermd&lt;/a2&gt;, kan deze wel worden uitgeklapt (door op de titelbalk te dubbelklikken) om de kromme te bekijken.</seg>
       </tuv>
     </tu>
     <tu>
