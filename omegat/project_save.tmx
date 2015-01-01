@@ -3118,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone is a breakthrough in photo editing software that makes it easier to edit digital photos and quickly achieve professional quality results.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T193731Z" creationid="hcremers" creationdate="20150101T193731Z">
+        <seg>LightZone is baanbrekende foto verwerkingsprogramma om digitale foto's te verwerken en makkelijk en snel professionele resultaten te bereiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone must know the correct color profile for your display in order to show colors correctly.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112521Z" creationid="hcremers" creationdate="20141226T112521Z">
