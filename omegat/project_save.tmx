@@ -3126,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone is designed for photographers and differs in many fundamental ways from pixel painting programs that force you to think in terms of pixels or use complex mathematical concepts like histograms and curves.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T194232Z" creationid="hcremers" creationdate="20150101T194232Z">
+        <seg>LightZone is ontworpen voor fotografen and verschilt fundamenteel van pixel verwerkings programma's die u dwingen om te denken in termen van beeldpunten (pixels) of u dwingen om complexe mathematische concepten te gebruiken zoals histogrammen en krommen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone must know the correct color profile for your display in order to show colors correctly.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112521Z" creationid="hcremers" creationdate="20141226T112521Z">
