@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 x $2</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011616Z" creationid="ktgw0316" creationdate="20150201T011616Z">
+        <seg>$1 x $2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(LightZone display a progress dialog while converting your photos.)</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150231Z" creationid="hcremers" creationdate="20141231T150231Z">
@@ -206,10 +214,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 image</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011304Z" creationid="ktgw0316" creationdate="20150201T011304Z">
+        <seg>1 afbeelding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 image selected</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011343Z" creationid="ktgw0316" creationdate="20150201T011343Z">
+        <seg>1 afbeelding geselecteerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 of 2</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T150532Z" creationid="hcremers" creationdate="20141231T150532Z">
         <seg>1 van 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011554Z" creationid="ktgw0316" creationdate="20150201T011554Z">
+        <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 of 4</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012919Z" creationid="ktgw0316" creationdate="20150201T012919Z">
+        <seg>2 of 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,10 +262,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt; More on the ZoneFinder...&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T013211Z" creationid="ktgw0316" creationdate="20150201T013211Z">
+        <seg>&lt;a0&gt;Meer over ZoneVinder...&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on styles...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213324Z" creationid="hcremers" creationdate="20141213T213324Z">
         <seg>&lt;a1&gt;Meer over stijlen...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a3&gt;More on regions...&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T013305Z" creationid="ktgw0316" creationdate="20150201T013305Z">
+        <seg>&lt;a3&gt;Meer over gebieden...&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +346,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101225Z" creationid="hcremers" creationdate="20141226T101225Z">
         <seg>Een nieuwe versie ($1) van $2 is beschibaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AG M8 Digital, AG R9 Digital Back DMR, D-Lux 2, Digilux 2, Digilux 3, V-Lux 1</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012939Z" creationid="ktgw0316" creationdate="20150201T012939Z">
+        <seg>AG M8 Digital, AG R9 Digital Back DMR, D-Lux 2, Digilux 2, Digilux 3, V-Lux 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +482,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T212535Z" creationid="hcremers" creationdate="20141213T212535Z">
         <seg>Linksboven in het LightZone browser venster bevindt zich een gereedschapsbalk met een set van foto knoppen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alpha-7 Digital, Dimage A1, Dimage A2, Dimage A200, Dimage 5, Dimage 7, Dimage 7 HI, Dynax 5D, Dynax 7D, Maxxum 7D</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012941Z" creationid="ktgw0316" creationdate="20150201T012941Z">
+        <seg>Alpha-7 Digital, Dimage A1, Dimage A2, Dimage A200, Dimage 5, Dimage 7, Dimage 7 HI, Dynax 5D, Dynax 7D, Maxxum 7D</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +666,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131937Z" creationid="hcremers" creationdate="20141231T131937Z">
         <seg>Als-gefotografeerd wit balans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012523Z" creationid="ktgw0316" creationdate="20150201T012523Z">
+        <seg>Auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto Expand</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012315Z" creationid="ktgw0316" creationdate="20150201T012315Z">
+        <seg>Auto-uitklappen</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browser</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T013531Z" creationid="ktgw0316" creationdate="20150201T013531Z">
+        <seg>Browser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browser Cache</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T111417Z" creationid="hcremers" creationdate="20141226T111417Z">
@@ -842,6 +938,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T191719Z">
         <seg>Knoppen-Foto.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C-5050Z, C-5060WZ, C-70Z, C-7000Z, C-7070WZ, C-8080WZ, E-1, E-3, E-10, E-20, E-20N, E-20P, E-30, E-300, E-330, E-400, E-410, E-420, E-500, E-510, E-520, E-620, E-P1, SP-350, SP-500UZ, SP-550UZ</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012946Z" creationid="ktgw0316" creationdate="20150201T012946Z">
+        <seg>C-5050Z, C-5060WZ, C-70Z, C-7000Z, C-7070WZ, C-8080WZ, E-1, E-3, E-10, E-20, E-20N, E-20P, E-30, E-300, E-330, E-400, E-410, E-420, E-500, E-510, E-520, E-620, E-P1, SP-350, SP-500UZ, SP-550UZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CIFF</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012607Z" creationid="ktgw0316" creationdate="20150201T012607Z">
+        <seg>CIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +1002,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151214Z" creationid="hcremers" creationdate="20141230T151214Z">
         <seg>Kan niet ongedaan maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canon</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012608Z" creationid="ktgw0316" creationdate="20150201T012608Z">
+        <seg>Canon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caplio GX100</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012952Z" creationid="ktgw0316" creationdate="20150201T012952Z">
+        <seg>Caplio GX100</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,6 +1238,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011923Z" creationid="ktgw0316" creationdate="20150201T011923Z">
+        <seg>Inklappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse All</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012501Z" creationid="ktgw0316" creationdate="20150201T012501Z">
+        <seg>Inklappen alle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse Others</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012146Z" creationid="ktgw0316" creationdate="20150201T012146Z">
+        <seg>Inklappen anderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse Tool</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124451Z" creationid="hcremers" creationdate="20141231T124451Z">
@@ -1270,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Zones</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T010755Z" creationid="ktgw0316" creationdate="20150201T010755Z">
+        <seg>Kleur Zones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color/Luminosity selection</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141214T100331Z" creationid="hcremers" creationdate="20141214T095422Z">
@@ -1410,6 +1570,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T203648Z" creationid="hcremers" creationdate="20141226T203648Z">
         <seg>Kopieer gereedschapsstapel van de geselecteerde afbeelding naar het klembord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011035Z" creationid="ktgw0316" creationdate="20150201T011035Z">
+        <seg>Copyright</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1846,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D1H, D1X, D2H, D2Hs, D2X, D2Xs, D3, D3X, D40, D40X, D50, D60, D70, D70s, D80, D90, D100, D200, D300, D700, E5400, E8400, E8700, E8800</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012944Z" creationid="ktgw0316" creationdate="20150201T012944Z">
+        <seg>D1H, D1X, D2H, D2Hs, D2X, D2Xs, D3, D3X, D40, D40X, D50, D60, D70, D70s, D80, D90, D100, D200, D300, D700, E5400, E8400, E8700, E8800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DCS Pro 14N, DCS Pro SLR-C, DCS Pro SLR-N, P712, P850, P880, Pro Back</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012937Z" creationid="ktgw0316" creationdate="20150201T012937Z">
+        <seg>DCS Pro 14N, DCS Pro SLR-C, DCS Pro SLR-N, P712, P850, P880, Pro Back</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DMC-FZ18, DMC-FZ28, DMC-FZ30, DMC-FZ50, DMC-G1, DMC-L1, DMC-L10, DMC-LC1, DMC-LX1, DMC-LX2, DMC-LX3</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012948Z" creationid="ktgw0316" creationdate="20150201T012948Z">
+        <seg>DMC-FZ18, DMC-FZ28, DMC-FZ30, DMC-FZ50, DMC-G1, DMC-L1, DMC-L10, DMC-LC1, DMC-LX1, DMC-LX2, DMC-LX3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DSC R1, A100, A200, A300, A350, A700, A900</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012956Z" creationid="ktgw0316" creationdate="20150201T012956Z">
+        <seg>DSC R1, A100, A200, A300, A350, A700, A900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Darken</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102156Z">
@@ -1846,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detail</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011633Z" creationid="ktgw0316" creationdate="20150201T011633Z">
+        <seg>Detail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Difference</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102302Z">
@@ -1942,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't Auto Expand</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012412Z" creationid="ktgw0316" creationdate="20150201T012412Z">
+        <seg>Niet auto-uitklappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't Reset</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T093945Z" creationid="hcremers" creationdate="20141226T093945Z">
@@ -2034,6 +2250,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T150908Z" creationid="hcremers" creationdate="20141230T150908Z">
         <seg>Teken vrijevorm kromme (spline) gebieden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EOS 1D, EOS 1D Mark II, EOS 1D Mark II N, EOS 1D Mark III, EOS 1Ds, EOS 1Ds Mark II, EOS 1Ds Mark III, EOS 5D, EOS 5D Mark II, EOS 10D, EOS 20D, EOS 30D, EOS 450D, EOS 50D, EOS 1000D, EOS D30, EOS D60, EOS Digital Rebel (300D), EOS Digital Rebel XT (350D), EOS Digital Rebel XTi (400D), EOS Kiss Digital, Powershot G2, Powershot G3, Powershot G5, Powershot G6, Powershot G9, Powershot G10, Powershot S30, Powershot S40, Powershot S50, Powershot S60</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012929Z" creationid="ktgw0316" creationdate="20150201T012929Z">
+        <seg>EOS 1D, EOS 1D Mark II, EOS 1D Mark II N, EOS 1D Mark III, EOS 1Ds, EOS 1Ds Mark II, EOS 1Ds Mark III, EOS 5D, EOS 5D Mark II, EOS 10D, EOS 20D, EOS 30D, EOS 450D, EOS 50D, EOS 1000D, EOS D30, EOS D60, EOS Digital Rebel (300D), EOS Digital Rebel XT (350D), EOS Digital Rebel XTi (400D), EOS Kiss Digital, Powershot G2, Powershot G3, Powershot G5, Powershot G6, Powershot G9, Powershot G10, Powershot S30, Powershot S40, Powershot S50, Powershot S60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXIF</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012604Z" creationid="ktgw0316" creationdate="20150201T012604Z">
+        <seg>EXIF</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2454,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expand</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012207Z" creationid="ktgw0316" creationdate="20150201T012207Z">
+        <seg>Uitklappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand All</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012510Z" creationid="ktgw0316" creationdate="20150201T012510Z">
+        <seg>Uitklappen alle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expand Tool</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124439Z" creationid="hcremers" creationdate="20141231T124439Z">
@@ -2342,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finepix E550, Finepix E900, Finepix F700, Finepix F710, Finepix S2 Pro, Finepix S3 Pro, Finepix S5 Pro, Finepix S20 Pro, Finepix S100FS, Finepix S5000, Finepix S5100, Finepix S5200, Finepix S5600, Finepix S7000, Finepix S9000, Finepix S9500</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012931Z" creationid="ktgw0316" creationdate="20150201T012931Z">
+        <seg>Finepix E550, Finepix E900, Finepix F700, Finepix F710, Finepix S2 Pro, Finepix S3 Pro, Finepix S5 Pro, Finepix S20 Pro, Finepix S100FS, Finepix S5000, Finepix S5100, Finepix S5200, Finepix S5600, Finepix S7000, Finepix S9000, Finepix S9500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finish editing and return to Browse Mode</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T103308Z" creationid="hcremers" creationdate="20141226T103308Z">
@@ -2406,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T013424Z" creationid="ktgw0316" creationdate="20150201T013424Z">
+        <seg>Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, compare what is shown below.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T142631Z" creationid="hcremers" creationdate="20141231T142631Z">
@@ -2422,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuji</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012930Z" creationid="ktgw0316" creationdate="20150201T012930Z">
+        <seg>Fuji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuzz</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100030Z" creationid="hcremers" creationdate="20141231T100030Z">
@@ -2430,10 +2702,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GPS</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012609Z" creationid="ktgw0316" creationdate="20150201T012609Z">
+        <seg>GPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GX10, GX20</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012954Z" creationid="ktgw0316" creationdate="20150201T012954Z">
+        <seg>GX10, GX20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100149Z" creationid="hcremers" creationdate="20141231T100149Z">
         <seg>Versterken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gamma</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011624Z" creationid="ktgw0316" creationdate="20150201T011624Z">
+        <seg>Gamma</seg>
       </tuv>
     </tu>
     <tu>
@@ -2530,6 +2826,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132622Z" creationid="hcremers" creationdate="20141231T132622Z">
         <seg>Hoogte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011024Z" creationid="ktgw0316" creationdate="20150201T011024Z">
+        <seg>Help</seg>
       </tuv>
     </tu>
     <tu>
@@ -2646,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Histogram</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011529Z" creationid="ktgw0316" creationdate="20150201T011529Z">
+        <seg>Histogram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>History</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T101322Z" creationid="hcremers" creationdate="20141226T101322Z">
@@ -2690,6 +3002,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131541Z" creationid="hcremers" creationdate="20141231T131541Z">
         <seg>Kleurtoon/Verzadiging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPTC</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012605Z" creationid="ktgw0316" creationdate="20150201T012605Z">
+        <seg>IPTC</seg>
       </tuv>
     </tu>
     <tu>
@@ -2758,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image Info</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012602Z" creationid="ktgw0316" creationdate="20150201T012602Z">
+        <seg>Afbeelding Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import Style</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T133319Z" creationid="hcremers" creationdate="20141231T133319Z">
@@ -2814,6 +3142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Index</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012848Z" creationid="ktgw0316" creationdate="20150201T012848Z">
+        <seg>Index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T013525Z" creationid="ktgw0316" creationdate="20150201T013525Z">
+        <seg>Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initializing Engine Utilities</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T153606Z" creationid="hcremers" creationdate="20141223T153606Z">
@@ -2834,6 +3178,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131426Z" creationid="hcremers" creationdate="20141223T131426Z">
         <seg>Onvoldoende geheugen om dit bestand te openen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intensity</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T010810Z" creationid="ktgw0316" creationdate="20150201T010810Z">
+        <seg>Intensiteit</seg>
       </tuv>
     </tu>
     <tu>
@@ -2934,10 +3286,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JPEG</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012924Z" creationid="ktgw0316" creationdate="20150201T012924Z">
+        <seg>JPEG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>K10D, K20D, K100D, K200D, K2000, *ist D, *ist DL, *ist DS</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012950Z" creationid="ktgw0316" creationdate="20150201T012950Z">
+        <seg>K10D, K20D, K100D, K200D, K2000, *ist D, *ist DL, *ist DS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Features</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T195003Z" creationid="hcremers" creationdate="20150101T195003Z">
         <seg>Sleutel eigenschappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kodak</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012936Z" creationid="ktgw0316" creationdate="20150201T012936Z">
+        <seg>Kodak</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +3330,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132329Z" creationid="hcremers" creationdate="20141231T132329Z">
         <seg>Links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leica</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012938Z" creationid="ktgw0316" creationdate="20150201T012938Z">
+        <seg>Leica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lens</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011044Z" creationid="ktgw0316" creationdate="20150201T011044Z">
+        <seg>Lens</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,6 +3378,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141229T150314Z" creationid="hcremers" creationdate="20141229T150314Z">
         <seg>LightZone bestandsfout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Help</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012824Z" creationid="ktgw0316" creationdate="20150201T012824Z">
+        <seg>LightZone Help</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,6 +3782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metadata</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011612Z" creationid="ktgw0316" creationdate="20150201T011612Z">
+        <seg>Metadata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metadata.html</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T192731Z">
@@ -3422,6 +3830,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minolta</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012940Z" creationid="ktgw0316" creationdate="20150201T012940Z">
+        <seg>Minolta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitch Alland, Bruce Ammerman, Jamie Bsales, David Card, Anthony Dias, Jeff Donnelly, Jessica Donnelly, Romain Guy, Hans-Jürgen Hertz-Eichenrode, Jon Hill, Matthew Hollingworth, James Karney, Terry Karney, Walt Marhefka, Carlos Palma, Bud Paulding, Paul Rancuret, David Richard, Uwe Steinmueller, Mark Strathdee, Elizabeth Thrasher, Dean Tucker, Eric Vogel, John Waclo, Lalia Wilson, Ed Wolpov, and Brian Wong.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012857Z" creationid="ktgw0316" creationdate="20150201T012857Z">
+        <seg>Mitch Alland, Bruce Ammerman, Jamie Bsales, David Card, Anthony Dias, Jeff Donnelly, Jessica Donnelly, Romain Guy, Hans-Jürgen Hertz-Eichenrode, Jon Hill, Matthew Hollingworth, James Karney, Terry Karney, Walt Marhefka, Carlos Palma, Bud Paulding, Paul Rancuret, David Richard, Uwe Steinmueller, Mark Strathdee, Elizabeth Thrasher, Dean Tucker, Eric Vogel, John Waclo, Lalia Wilson, Ed Wolpov, and Brian Wong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modes</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153729Z" creationid="hcremers" creationdate="20141230T153729Z">
@@ -3434,6 +3858,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T210530Z" creationid="hcremers" creationdate="20141226T210530Z">
         <seg>Wijzigingstijd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More on Styles...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T013029Z" creationid="ktgw0316" creationdate="20150201T013029Z">
+        <seg>Meer over Stijlen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More on the ZoneMapper...</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T013112Z" creationid="ktgw0316" creationdate="20150201T013112Z">
+        <seg>Meer over ZoneMapper...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3590,6 +4030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nikon</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012610Z" creationid="ktgw0316" creationdate="20150201T012610Z">
+        <seg>Nikon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Browser</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105223Z" creationid="hcremers" creationdate="20141226T105223Z">
@@ -3662,6 +4110,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No images</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011241Z" creationid="ktgw0316" creationdate="20150201T011241Z">
+        <seg>Geen afbeeldingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No images selected</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011415Z" creationid="ktgw0316" creationdate="20150201T011415Z">
+        <seg>Geen afbeeldingen geselecteerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No internet connection</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T100915Z" creationid="hcremers" creationdate="20141226T100915Z">
@@ -3714,6 +4178,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193141Z" creationid="hcremers" creationdate="20141222T193141Z">
         <seg>Niet genoeg geheugen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T010506Z" creationid="ktgw0316" creationdate="20150201T010506Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Olympus</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012945Z" creationid="ktgw0316" creationdate="20150201T012945Z">
+        <seg>Olympus</seg>
       </tuv>
     </tu>
     <tu>
@@ -3878,6 +4358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orig</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011549Z" creationid="ktgw0316" creationdate="20150201T011549Z">
+        <seg>Orig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Original</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153750Z" creationid="hcremers" creationdate="20141230T153750Z">
@@ -3942,6 +4430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Panasonic</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012947Z" creationid="ktgw0316" creationdate="20150201T012947Z">
+        <seg>Panasonic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paste Region</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105057Z" creationid="hcremers" creationdate="20141226T105057Z">
@@ -3970,6 +4466,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141113T145508Z">
         <seg>Patronen of kleuren bedekken bestaande pixels, maar behouden de hoge lichten en schaduwen van de basis kleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pentax</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012949Z" creationid="ktgw0316" creationdate="20150201T012949Z">
+        <seg>Pentax</seg>
       </tuv>
     </tu>
     <tu>
@@ -4218,6 +4722,30 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131808Z" creationid="hcremers" creationdate="20141231T131808Z">
         <seg>RAW aanpassingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RAW Settings</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T010705Z" creationid="ktgw0316" creationdate="20150201T010705Z">
+        <seg>RAW instellingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RGB</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011649Z" creationid="ktgw0316" creationdate="20150201T011649Z">
+        <seg>RGB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radius</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011621Z" creationid="ktgw0316" creationdate="20150201T011621Z">
+        <seg>Radius</seg>
       </tuv>
     </tu>
     <tu>
@@ -4718,6 +5246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ricoh</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012951Z" creationid="ktgw0316" creationdate="20150201T012951Z">
+        <seg>Ricoh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T084851Z" creationid="hcremers" creationdate="20141230T084851Z">
@@ -4826,6 +5362,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153111Z" creationid="hcremers" creationdate="20141230T153111Z">
         <seg>Pipet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Samsung</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012953Z" creationid="ktgw0316" creationdate="20150201T012953Z">
+        <seg>Samsung</seg>
       </tuv>
     </tu>
     <tu>
@@ -5654,6 +6198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sony</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012955Z" creationid="ktgw0316" creationdate="20150201T012955Z">
+        <seg>Sony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205018Z" creationid="hcremers" creationdate="20141226T205018Z">
@@ -5714,6 +6266,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153842Z" creationid="hcremers" creationdate="20141230T153842Z">
         <seg>Standaard aanwijzer modus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T013418Z" creationid="ktgw0316" creationdate="20150201T013418Z">
+        <seg>Start</seg>
       </tuv>
     </tu>
     <tu>
@@ -5802,6 +6362,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T083840Z" creationid="hcremers" creationdate="20141230T083840Z">
         <seg>Breedte en hoogte verwisselen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIFF</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012606Z" creationid="ktgw0316" creationdate="20150201T012606Z">
+        <seg>TIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -6270,6 +6838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tint</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011644Z" creationid="ktgw0316" creationdate="20150201T011644Z">
+        <seg>Tint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To Folder:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193724Z" creationid="hcremers" creationdate="20141222T193724Z">
@@ -6346,6 +6922,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100304Z" creationid="hcremers" creationdate="20141231T100304Z">
         <seg>Tolerantie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ToneMapper</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012518Z" creationid="ktgw0316" creationdate="20150201T012518Z">
+        <seg>ToneMapper</seg>
       </tuv>
     </tu>
     <tu>
@@ -6790,6 +7374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zone</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T010722Z" creationid="ktgw0316" creationdate="20150201T010722Z">
+        <seg>Zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zone Mapper Zones</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T153228Z" creationid="hcremers" creationdate="20141230T153228Z">
@@ -6826,6 +7418,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141104T194810Z">
         <seg>ZoneVinder.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZoneMapper</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012515Z" creationid="ktgw0316" creationdate="20150201T012515Z">
+        <seg>ZoneMapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zones</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T010733Z" creationid="ktgw0316" creationdate="20150201T010733Z">
+        <seg>Zones</seg>
       </tuv>
     </tu>
     <tu>
@@ -6890,6 +7498,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="ktgw0316" changedate="20141103T041544Z">
         <seg>nl-NL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011317Z" creationid="ktgw0316" creationdate="20150201T011317Z">
+        <seg>afbeeldingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images selected</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T011354Z" creationid="ktgw0316" creationdate="20150201T011354Z">
+        <seg>afbeeldingen geselecteerd</seg>
       </tuv>
     </tu>
     <tu>
