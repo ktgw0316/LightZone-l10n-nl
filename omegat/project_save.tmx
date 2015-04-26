@@ -4966,6 +4966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported: Canon EOS 1Ds Mark III, Panasonic DMC-L10.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T200104Z" creationid="hcremers" creationdate="20150426T200104Z">
+        <seg>Raw bestanden van de volgende cameras worden nu ondersteund: Canon EOS 1Ds Mark III, Panasonic DMC-L10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raw files from the following cameras are now supported: Canon EOS 450D, Canon EOS 1000D, Fuji Finepix S100FS, Nikon D60, Nikon D700, Olympus E-420, Olympus E-520, Pentax K20D, Pentax K200D, Samsung GX20 Sony A200, Sony A350.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195757Z" creationid="hcremers" creationdate="20150426T195757Z">
@@ -6790,6 +6798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There's a new Help menu item that takes you to the &lt;a0&gt;Learning Center&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T200056Z" creationid="hcremers" creationdate="20150426T200056Z">
+        <seg>Er is een nieuwe Help menu optie die je naar het &lt;a0&gt;Learning Center&lt;/a0&gt; brengt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Style has no version number</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T151208Z" creationid="hcremers" creationdate="20141230T151208Z">
@@ -7634,6 +7650,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T193246Z" creationid="hcremers" creationdate="20150426T193246Z">
         <seg>Je kunt nu een afbeelding openen via de opdrachtregel, het context menu van het OS of via drag &amp; drop op het LightZone snelkoppelings icoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now preview &lt;a0&gt;styles&lt;/a0&gt; by moving the mouse over style names.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T200211Z" creationid="hcremers" creationdate="20150426T200132Z">
+        <seg>Je kunt nu &lt;a0&gt;stijlen&lt;/a0&gt; vooraf bekijken door de muis over de stijlnaam te bewegen.</seg>
       </tuv>
     </tu>
     <tu>
