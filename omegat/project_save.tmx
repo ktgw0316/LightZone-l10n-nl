@@ -4230,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On Mac OS X:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T193254Z" creationid="hcremers" creationdate="20150426T193254Z">
+        <seg>In Mac OS X:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the other hand, if black point compensation is done, the luminosity range of your photo is compressed to fit into the luminosity range of the device.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202122Z">
@@ -7442,6 +7450,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131653Z" creationid="hcremers" creationdate="20141223T131653Z">
         <seg>U kunt dit bestand openen of proberen het als Lightzone stijl bestand te importeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now open an image via command line, OS context menu, or drag &amp; drop on LightZone shortcut icon.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T193246Z" creationid="hcremers" creationdate="20150426T193246Z">
+        <seg>Je kunt nu een afbeelding openen via de opdrachtregel, het context menu van het OS of via drag &amp; drop op het LightZone snelkoppelings icoon.</seg>
       </tuv>
     </tu>
     <tu>
