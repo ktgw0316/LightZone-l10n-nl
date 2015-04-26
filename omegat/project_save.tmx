@@ -3422,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>License Change</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195444Z" creationid="hcremers" creationdate="20150426T195444Z">
+        <seg>Licentie wijziging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lift Tools</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205013Z" creationid="hcremers" creationdate="20141226T205013Z">
@@ -4930,6 +4938,22 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T105206Z" creationid="hcremers" creationdate="20141226T105206Z">
         <seg>Waardering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195334Z" creationid="hcremers" creationdate="20150426T195334Z">
+        <seg>Raw bestanden van de volgende cameras worden nu ondersteund:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw processing is now multi-threaded with OpenMP.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195428Z" creationid="hcremers" creationdate="20150426T195428Z">
+        <seg>Raw verwerking is nu multi-threaded met OpenMP.</seg>
       </tuv>
     </tu>
     <tu>
