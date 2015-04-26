@@ -3150,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Crop/Rotate mode, you can now rotate the image with mouse wheel, and change the rotation grid origin with a click.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T194428Z" creationid="hcremers" creationdate="20150426T194428Z">
+        <seg>In Bijsnijden/Draaien modus kun je nu de afbeelding draaien met het muiswiel en de draaiingsraster oorsprong wijzigen met een klik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to being able to &lt;a0&gt;convert images individually&lt;/a0&gt;, you can use the &lt;a1&gt;Photo Browser&lt;/a1&gt; to convert multiple images as a batch.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T143709Z" creationid="hcremers" creationdate="20141231T143709Z">
