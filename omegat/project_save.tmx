@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Camera Support</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195243Z" creationid="hcremers" creationdate="20150426T195243Z">
+        <seg>Camera ondersteuning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can't Launch LightZone</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T141338Z" creationid="hcremers" creationdate="20141231T141338Z">
@@ -4390,6 +4398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operating System Support</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195108Z" creationid="hcremers" creationdate="20150426T195108Z">
+        <seg>Besturingssysteem (OS) ondersteuning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optionally enter a new name for the converted image.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T145650Z" creationid="hcremers" creationdate="20150101T145650Z">
@@ -7482,6 +7498,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T095245Z" creationid="hcremers" creationdate="20141226T095245Z">
         <seg>Venster posities en afmetingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows (64-bit), Mac OS X 10.10, FreeBSD, and OpenIndiana are now supported.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195233Z" creationid="hcremers" creationdate="20150426T195233Z">
+        <seg>Windows (64-bit), Mac OS X 10.10, FreeBSD enOpenIndiana worden nu ondersteund.</seg>
       </tuv>
     </tu>
     <tu>
