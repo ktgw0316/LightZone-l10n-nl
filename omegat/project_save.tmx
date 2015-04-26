@@ -3710,6 +3710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: New Features</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T192500Z" creationid="hcremers" creationdate="20150426T192500Z">
+        <seg>LightZone: nieuwe kenmerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Photo Buttons Overview</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T211527Z" creationid="hcremers" creationdate="20141213T211527Z">
@@ -6542,6 +6550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The new features in LightZone.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T192518Z" creationid="hcremers" creationdate="20150426T192518Z">
+        <seg>De nieuwe kenmerken van LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The raw files from some cameras, however, always need a default "tone curve" applied to them to look correctly.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T190538Z" creationid="hcremers" creationdate="20150101T190538Z">
@@ -6794,6 +6810,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141107T202432Z">
         <seg>Dit is bruikbaar voor het toevoegen van hoge lichten of schaduwen aan een afbeelding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This page lists only the new features in LightZone.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T192629Z" creationid="hcremers" creationdate="20150426T192629Z">
+        <seg>Deze pagina somt alleen de nieuwe kenmerken in LightZone op.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7234,6 +7258,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T090708Z" creationid="hcremers" creationdate="20141226T090708Z">
         <seg>Wat wilt u doen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's new in LightZone?</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T192541Z" creationid="hcremers" creationdate="20150426T192541Z">
+        <seg>Wat is nieuw in LightZone?</seg>
       </tuv>
     </tu>
     <tu>
