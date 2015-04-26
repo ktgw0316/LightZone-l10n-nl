@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T184801Z" creationid="hcremers" creationdate="20150426T184801Z">
+        <seg>Ontwikkelaars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Difference</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141106T102302Z">
@@ -3302,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keepers</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T184751Z" creationid="hcremers" creationdate="20150426T184751Z">
+        <seg>Onderhouders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Features</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T195003Z" creationid="hcremers" creationdate="20150101T195003Z">
@@ -3354,6 +3370,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T205013Z" creationid="hcremers" creationdate="20141226T205013Z">
         <seg>Gereedschappen oppakken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light Crafts and the LightZone Project would like to acknowledge the following people who contributed to LightZone:</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T184713Z" creationid="hcremers" creationdate="20150426T184713Z">
+        <seg>Light Crafts en het LightZone Project willen graag de volgende mensen bedankten die hebben gijgedragen aan LightZone:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4378,6 +4402,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T153759Z" creationid="hcremers" creationdate="20141226T153759Z">
         <seg>Originele folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original LightZone from Light Crafts</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T184737Z" creationid="hcremers" creationdate="20150426T184737Z">
+        <seg>Originele LightZone van Light Crafts</seg>
       </tuv>
     </tu>
     <tu>
@@ -7010,6 +7042,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T132453Z" creationid="hcremers" creationdate="20141231T132453Z">
         <seg>Bovenkant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translators</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T184911Z" creationid="hcremers" creationdate="20150426T184911Z">
+        <seg>Vertalers</seg>
       </tuv>
     </tu>
     <tu>
