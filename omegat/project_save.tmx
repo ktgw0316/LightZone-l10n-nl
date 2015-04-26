@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Info" tab is now also available in Editor mode.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T194455Z" creationid="hcremers" creationdate="20150426T194455Z">
+        <seg>"Info" tab is nu ook beschikbaar in Wijzigings modus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 files to process</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193319Z" creationid="hcremers" creationdate="20141222T193319Z">
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141230T154310Z" creationid="hcremers" creationdate="20141230T154310Z">
         <seg>Geavanceerde opties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AdvancedNoiseReduction is updated to V4.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T194526Z" creationid="hcremers" creationdate="20150426T194526Z">
+        <seg>Gevorderde Ruis Onderdrukking is verhoogd naar V4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7218,6 +7234,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141222T193219Z" creationid="hcremers" creationdate="20141222T193219Z">
         <seg>Niet ondersteund kleur profiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upresolution is now possible when converting an edited image.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T194636Z" creationid="hcremers" creationdate="20150426T194636Z">
+        <seg>Resolutieverhoging is nu mogelijk tijdens het converteren van een gewijzigde afbeeldingen.</seg>
       </tuv>
     </tu>
     <tu>
