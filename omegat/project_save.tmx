@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Crop&lt;/a0&gt; and &lt;a1&gt;rotate&lt;/a1&gt; have been improved.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T201013Z" creationid="hcremers" creationdate="20150426T200957Z">
+        <seg>&lt;a0&gt;Bijsnijden&lt;/a0&gt; en &lt;a1&gt;draaien&lt;/a1&gt; zijn verbeterd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on styles...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213324Z" creationid="hcremers" creationdate="20141213T213324Z">
