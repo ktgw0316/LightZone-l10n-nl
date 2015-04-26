@@ -6614,6 +6614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;a0&gt;Raw Adjustments&lt;/a0&gt; tool now automatically removes "hot pixels" from your raw photos.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T200813Z" creationid="hcremers" creationdate="20150426T200813Z">
+        <seg>Het &lt;a0&gt;Raw aanpassings&lt;/a0&gt; gereedschap verwijdert nu automatisch "hot pixels" van je raw foto's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Convert&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Convert&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213731Z" creationid="hcremers" creationdate="20141213T213731Z">
