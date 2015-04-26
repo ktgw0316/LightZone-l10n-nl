@@ -3654,6 +3654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone is now released as a free and open source software under New BSD License.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195606Z" creationid="hcremers" creationdate="20150426T195606Z">
+        <seg>LightZone wordt nu vrijgegeven als vrije open source software onder de nieuwe BSD Licentie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone must know the correct color profile for your display in order to show colors correctly.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T112521Z" creationid="hcremers" creationdate="20141226T112521Z">
@@ -4114,6 +4122,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141111T200618Z">
         <seg>Negatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Features</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195853Z" creationid="hcremers" creationdate="20150426T195853Z">
+        <seg>Nieuwe kenmerken</seg>
       </tuv>
     </tu>
     <tu>
@@ -4946,6 +4962,30 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195334Z" creationid="hcremers" creationdate="20150426T195334Z">
         <seg>Raw bestanden van de volgende cameras worden nu ondersteund:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported: Canon EOS 450D, Canon EOS 1000D, Fuji Finepix S100FS, Nikon D60, Nikon D700, Olympus E-420, Olympus E-520, Pentax K20D, Pentax K200D, Samsung GX20 Sony A200, Sony A350.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195757Z" creationid="hcremers" creationdate="20150426T195757Z">
+        <seg>Raw bestanden van de volgende cameras worden nu ondersteund: Canon EOS 450D, Canon EOS 1000D, Fuji Finepix S100FS, Nikon D60, Nikon D700, Olympus E-420, Olympus E-520, Pentax K20D, Pentax K200D, Samsung GX20 Sony A200, Sony A350.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported: Canon EOS 5D Mark II, Canon EOS 50D, Canon Powershot G10, Nikon D3X, Nikon D90, Nikon D700, Olympus E-30, Olympus E-620, Panasonic DMC-LX3, Panasonic DMC-FZ28, Panasonic DMC-G1, Pentax K2000, Sony A300, Sony A900</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195739Z" creationid="hcremers" creationdate="20150426T195739Z">
+        <seg>Raw bestanden van de volgende cameras worden nu ondersteund: Canon EOS 5D Mark II, Canon EOS 50D, Canon Powershot G10, Nikon D3X, Nikon D90, Nikon D700, Olympus E-30, Olympus E-620, Panasonic DMC-LX3, Panasonic DMC-FZ28, Panasonic DMC-G1, Pentax K2000, Sony A300, Sony A900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported: Olympus E-P1</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195710Z" creationid="hcremers" creationdate="20150426T195710Z">
+        <seg>Raw bestanden van de volgende cameras worden nu ondersteund: Olympus E-P1</seg>
       </tuv>
     </tu>
     <tu>
