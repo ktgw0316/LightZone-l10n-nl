@@ -3686,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone no longer uses LZN files and now always &lt;a0&gt;saves your work&lt;/a0&gt; as either JPEG or TIFF files for maximum interoperability with other applications.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T203300Z" creationid="hcremers" creationdate="20150426T203300Z">
+        <seg>LightZone gebruikt niet langer LZN bestanden en &lt;a0&gt;bewaart je werk&lt;/a0&gt; nu altijd als JPEG of TIFF bestand voor maximale uitwisseling met andere programma's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone now comes bundled with many ready-made &lt;a0&gt;Styles&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T202127Z" creationid="hcremers" creationdate="20150426T202127Z">
