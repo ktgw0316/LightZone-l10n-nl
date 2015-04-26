@@ -3406,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lars Henrik Ørn (Danish), Andreas Rother (German), Roberto Quintero (Spanish), Nicolas Boulesteix (French), Hans Cremers (Dutch), and Masahiro Kitagawa (Japanese).</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T203810Z" creationid="hcremers" creationdate="20150426T203810Z">
+        <seg>Lars Henrik Ørn (Deens), Andreas Rother (Duits), Roberto Quintero (Spaans), Nicolas Boulesteix (Frans), Hans Cremers (Nederlands) en Masahiro Kitagawa (Japans).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learning Center</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141226T110443Z" creationid="hcremers" creationdate="20141226T110443Z">
