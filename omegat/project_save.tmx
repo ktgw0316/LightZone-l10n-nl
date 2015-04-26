@@ -2870,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help files are translated in Danish, Dutch, French, Japanese, and Spanish.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T195038Z" creationid="hcremers" creationdate="20150426T195038Z">
+        <seg>Help bestanden zijn vertaald Deens, Nederlands, Frans, Duits, Japans en Spaans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, the darkest black of your photo becomes the darkest black that the device can render.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202329Z">
