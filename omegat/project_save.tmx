@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full-screen mode is now supported on 10.7 (Lion) or newer.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T193422Z" creationid="hcremers" creationdate="20150426T193422Z">
+        <seg>Volledige scherm modus wordt nu ondersteund in 10.7 (Lion) of nieuwer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuzz</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T100030Z" creationid="hcremers" creationdate="20141231T100030Z">
@@ -2850,6 +2858,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141105T202329Z">
         <seg>Op die manier wordt het donkerste zwart van uw foto het donkerste zwart dat het uitvoerapparaat kan weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HiDPI retina mode is now supported.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T193448Z" creationid="hcremers" creationdate="20150426T193448Z">
+        <seg>HiDPI retina modus wordt nu ondersteund.</seg>
       </tuv>
     </tu>
     <tu>
