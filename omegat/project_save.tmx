@@ -3686,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone now comes bundled with many ready-made &lt;a0&gt;Styles&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T202127Z" creationid="hcremers" creationdate="20150426T202127Z">
+        <seg>LightZone wordt nu geleverd met vele kant-en-klare &lt;a0&gt;Stijlen&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone now has distinct &lt;a0&gt;browse&lt;/a0&gt; and &lt;a1&gt;edit&lt;/a1&gt; modes.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T201154Z" creationid="hcremers" creationdate="20150426T201147Z">
