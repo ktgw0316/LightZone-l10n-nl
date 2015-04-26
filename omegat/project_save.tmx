@@ -4550,6 +4550,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Photo Browser</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T193536Z" creationid="hcremers" creationdate="20150426T193536Z">
+        <seg>Foto Browser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo Editor</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T193616Z" creationid="hcremers" creationdate="20150426T193616Z">
+        <seg>Photo berwerker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Photo buttons overview</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T211715Z" creationid="hcremers" creationdate="20141213T211715Z">
@@ -7474,6 +7490,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T193246Z" creationid="hcremers" creationdate="20150426T193246Z">
         <seg>Je kunt nu een afbeelding openen via de opdrachtregel, het context menu van het OS of via drag &amp; drop op het LightZone snelkoppelings icoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now select multiple thumbnails with Ctrl-Shift-Click.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T193604Z" creationid="hcremers" creationdate="20150426T193604Z">
+        <seg>Je kunt nu meerdere voorbeelden selecteren met Ctrl-Shift-Click.</seg>
       </tuv>
     </tu>
     <tu>
