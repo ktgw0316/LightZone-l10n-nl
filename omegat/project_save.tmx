@@ -6662,6 +6662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;a0&gt;Relight tool&lt;/a0&gt; (an improved ToneMapper tool) has new Depth and Fuzz sliders.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T202427Z" creationid="hcremers" creationdate="20150426T202427Z">
+        <seg>Het &lt;a0&gt;Relight gereedschap&lt;/a0&gt; (een verbeterd ToneMapper gereedschap) heeft nieuwe Diepte en Donzig schuiven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Convert&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Convert&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141213T213731Z" creationid="hcremers" creationdate="20141213T213731Z">
