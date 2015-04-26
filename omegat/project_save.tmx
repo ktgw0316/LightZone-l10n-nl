@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Canon EOS 1D Mark III raw files are now supported.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T203632Z" creationid="hcremers" creationdate="20150426T203632Z">
+        <seg>Canon EOS 1D Mark III raw bestanden worden nu ondersteund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Caplio GX100</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="ktgw0316" changedate="20150201T012952Z" creationid="ktgw0316" creationdate="20150201T012952Z">
@@ -3448,8 +3456,8 @@
       <tuv lang="EN-US">
         <seg>Light Crafts and the LightZone Project would like to acknowledge the following people who contributed to LightZone:</seg>
       </tuv>
-      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T184713Z" creationid="hcremers" creationdate="20150426T184713Z">
-        <seg>Light Crafts en het LightZone Project willen graag de volgende mensen bedankten die hebben gijgedragen aan LightZone:</seg>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T203716Z" creationid="hcremers" creationdate="20150426T184713Z">
+        <seg>Light Crafts en het LightZone Project willen graag de volgende mensen bedankten die hebben bijgedragen aan LightZone:</seg>
       </tuv>
     </tu>
     <tu>
