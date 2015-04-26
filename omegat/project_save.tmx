@@ -7502,6 +7502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can now zoom in/out with Ctrl-wheel, and move the zoomed image with Ctrl-drag.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T194016Z" creationid="hcremers" creationdate="20150426T194016Z">
+        <seg>Je kunt nu in en uitzoomen met Ctrl-wheel en de ingezoomde afbeelding bewegen met Ctrl-drag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can turn it off in the LightZone Preferences.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141225T205457Z" creationid="hcremers" creationdate="20141225T205457Z">
