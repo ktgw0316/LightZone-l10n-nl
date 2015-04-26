@@ -5190,6 +5190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Related photos can now be &lt;a0&gt;stacked&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T201414Z" creationid="hcremers" creationdate="20150426T201414Z">
+        <seg>Gerelateerde foto's kunnen nu worden &lt;a0&gt;gestapeld&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Relight</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T131417Z" creationid="hcremers" creationdate="20141231T131417Z">
@@ -7706,6 +7714,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141223T131653Z" creationid="hcremers" creationdate="20141223T131653Z">
         <seg>U kunt dit bestand openen of proberen het als Lightzone stijl bestand te importeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now move photos via drag &amp; drop to folders in the &lt;a0&gt;Folder Navigator&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T201457Z" creationid="hcremers" creationdate="20150426T201457Z">
+        <seg>Je kunt nu foto's via drag &amp; drop naar folders verplaatsen in de &lt;a0&gt;Folder Navigator&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
