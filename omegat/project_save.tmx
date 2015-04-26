@@ -3798,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T194656Z" creationid="hcremers" creationdate="20150426T194656Z">
+        <seg>Lokalisatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lock</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T124228Z" creationid="hcremers" creationdate="20141231T124228Z">
@@ -7154,6 +7162,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T184911Z" creationid="hcremers" creationdate="20150426T184911Z">
         <seg>Vertalers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UI messages are translated in Danish, Dutch, French, German, Japanese, and Spanish.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T194816Z" creationid="hcremers" creationdate="20150426T194816Z">
+        <seg>UI berichten zijn vertaald in Deens, Nederlands, Frans, Duits, Japans en Spaans.</seg>
       </tuv>
     </tu>
     <tu>
