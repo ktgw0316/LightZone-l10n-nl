@@ -7718,6 +7718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can now &lt;a0&gt;edit IPTC metadata&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T201905Z" creationid="hcremers" creationdate="20150426T201905Z">
+        <seg>Je kunt nu &lt;a0&gt;IPTC metagegevens bewerken&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can now move photos via drag &amp; drop to folders in the &lt;a0&gt;Folder Navigator&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T201457Z" creationid="hcremers" creationdate="20150426T201457Z">
@@ -7754,6 +7762,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T193604Z" creationid="hcremers" creationdate="20150426T193604Z">
         <seg>Je kunt nu meerdere voorbeelden selecteren met Ctrl-Shift-Click.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now select only the most recent versions of your photos in a given folder.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T201842Z" creationid="hcremers" creationdate="20150426T201842Z">
+        <seg>Je kunt nu alleen nog maar de meest recente versies van je foto's selecteren in een folder.</seg>
       </tuv>
     </tu>
     <tu>
