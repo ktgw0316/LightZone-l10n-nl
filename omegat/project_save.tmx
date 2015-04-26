@@ -6918,10 +6918,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To check all fixed bugs, see the &lt;a1&gt; ChangeLog on github&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T192956Z" creationid="hcremers" creationdate="20150426T192956Z">
+        <seg>Om alle gerepareerde bugs te bekijken, zie het &lt;a1&gt; veranderlogboek op github&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To convert your photo:</seg>
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20150101T145356Z" creationid="hcremers" creationdate="20150101T145356Z">
         <seg>Om uw foto te bewerken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To learn about the key features, see the &lt;a0&gt;Discover LightZone&lt;/a0&gt; page.</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T192734Z" creationid="hcremers" creationdate="20150426T192734Z">
+        <seg>Om meer te leren over de belangrijkste kenmerken, zie de &lt;a0&gt;Ontdek LightZone&lt;/a0&gt; pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7194,6 +7210,14 @@
       </tuv>
       <tuv lang="NL-NL" changeid="hcremers" changedate="20141231T145531Z" creationid="hcremers" creationdate="20141231T145531Z">
         <seg>Gebruik de Kies... knop om de folder te selecteren waar de verwerkte afbeeldingen worden opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Interface</seg>
+      </tuv>
+      <tuv lang="NL-NL" changeid="hcremers" changedate="20150426T193014Z" creationid="hcremers" creationdate="20150426T193014Z">
+        <seg>GebruikersInterface</seg>
       </tuv>
     </tu>
     <tu>
